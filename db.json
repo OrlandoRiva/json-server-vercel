@@ -60,7 +60,7 @@
       "id": 6
     }
   ],
-  "products": [
+  "productstest": [
     {
       "id": 1,
       "title": "iPhone 9",
@@ -109,9 +109,7 @@
       "brand": "Samsung",
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/3/1.jpg"
-      ]
+      "images": ["https://i.dummyjson.com/data/products/3/1.jpg"]
     },
     {
       "id": 4,
@@ -644,12 +642,52 @@
       "parent": 4,
       "level": 1,
       "id": 5
+    }
+  ],
+  "groups": [
+    {
+      "name": "Grupo 1",
+      "id": 1
     },
     {
-      "name": "AAA",
-      "parent": 5,
-      "level": 2,
-      "id": 6
+      "name": "Grupo 2",
+      "id": 2
+    },
+    {
+      "name": "Grupo 3",
+      "id": 3
     }
-  ]
+  ],
+  "groupProducts": [
+    {
+      "name": "Product 1",
+      "group_id": 1,
+      "id": 1
+    },
+    {
+      "name": "Product 2",
+      "group_id": 1,
+      "id": 2
+    },
+    {
+      "name": "Product 3",
+      "group_id": 1,
+      "id": 3
+    },
+    {
+      "name": "Product 4",
+      "group_id": 2,
+      "id": 4
+    },
+    {
+      "name": "Product 5",
+      "group_id": 2,
+      "id": 5
+    }, {
+      "name": "Product 5",
+      "group_id": 3,
+      "id": 5
+    }
+  ],
+  "products": []
 }
