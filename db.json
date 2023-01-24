@@ -673,7 +673,7 @@
         },
         {
           "id": 3,
-          "name": "Weight"
+          "name": "Peso"
         }
       ]
     },
@@ -686,6 +686,10 @@
       "name": "Grupo 4",
       "id": 4,
       "attributes": []
+    },
+    {
+      "name": "AAAAAA",
+      "id": 5
     }
   ],
   "groupProducts": [
@@ -720,5 +724,51 @@
       "id": 5
     }
   ],
-  "products": []
+  "attributeValue": [
+    {
+      "id": 1,
+      "attribute_id": 2,
+      "value": "Verde"
+    },
+    {
+      "id": 2,
+      "attribute_id": 2,
+      "value": "Azul"
+    },
+    {
+      "id": 3,
+      "attribute_id": 2,
+      "value": "Vermelho"
+    },
+    {
+      "id": 4,
+      "attribute_id": 1,
+      "value": "S"
+    },
+    {
+      "id": 5,
+      "attribute_id": 1,
+      "value": "M"
+    },
+    {
+      "id": 6,
+      "attribute_id": 1,
+      "value": "L"
+    }
+  ],
+  "products": [],
+  "providers": [
+    {
+      "id": 1,
+      "name": "Fornecedor 1"
+    },
+    {
+      "id": 2,
+      "name": "Fornecedor 2"
+    },
+    {
+      "id": 3,
+      "name": "Fornecedor 3"
+    }
+  ]
 }
