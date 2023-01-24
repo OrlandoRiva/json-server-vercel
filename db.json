@@ -58,6 +58,13 @@
       "state": "finished",
       "date": "19/12/2022",
       "id": 6
+    },
+    {
+      "name": "Test",
+      "description": "Test",
+      "date": "2023-01-24",
+      "state": "open",
+      "id": 7
     }
   ],
   "productstest": [
@@ -769,6 +776,33 @@
     {
       "id": 3,
       "name": "Fornecedor 3"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Tag 1",
+      "priority": 5
+    },
+    {
+      "id": 2,
+      "name": "Tag 2",
+      "priority": 1
+    },
+    {
+      "id": 3,
+      "name": "Tag 3",
+      "priority": 2
+    },
+    {
+      "id": 4,
+      "name": "Tag 4",
+      "priority": 1
+    },
+    {
+      "id": 5,
+      "name": "Tag 5",
+      "priority": 3
     }
   ]
 }
