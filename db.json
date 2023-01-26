@@ -619,106 +619,38 @@
       ]
     }
   ],
-  "attributeValue": [
-    {
-      "id": 1,
-      "attribute_id": 2,
-      "value": "Verde"
-    },
-    {
-      "id": 2,
-      "attribute_id": 2,
-      "value": "Azul"
-    },
-    {
-      "id": 3,
-      "attribute_id": 2,
-      "value": "Vermelho"
-    },
-    {
-      "id": 4,
-      "attribute_id": 1,
-      "value": "S"
-    },
-    {
-      "id": 5,
-      "attribute_id": 1,
-      "value": "M"
-    },
-    {
-      "id": 6,
-      "attribute_id": 1,
-      "value": "L"
-    }
-  ],
-  "providers": [
-    {
-      "id": 1,
-      "name": "Fornecedor 1"
-    },
-    {
-      "id": 2,
-      "name": "Fornecedor 2"
-    },
-    {
-      "id": 3,
-      "name": "Fornecedor 3"
-    }
-  ],
-  "tags": [
-    {
-      "id": 1,
-      "name": "Tag 1",
-      "priority": 5
-    },
-    {
-      "id": 2,
-      "name": "Tag 2",
-      "priority": 1
-    },
-    {
-      "id": 3,
-      "name": "Tag 3",
-      "priority": 2
-    },
-    {
-      "id": 4,
-      "name": "Tag 4",
-      "priority": 1
-    },
-    {
-      "id": 5,
-      "name": "Tag 5",
-      "priority": 3
-    }
-  ],
   "products": [
     {
       "name": "Product 1",
+      "ref": "Ref 1",
       "group_id": 1,
       "category_id": 1,
       "id": 1
     },
     {
       "name": "Product 2",
+      "ref": "Ref 2",
       "group_id": 1,
       "category_id": 2,
       "id": 2
     },
     {
       "name": "Product 3",
+      "ref": "Ref 3",
       "group_id": 1,
       "category_id": 1,
       "id": 3
     },
     {
       "name": "Product 4",
+      "ref": "Ref 4",
       "group_id": 2,
       "category_id": 2,
       "id": 4
     },
     {
       "name": "Product 5",
+      "ref": "Ref 5",
       "group_id": 2,
       "category_id": 3,
       "id": 5
@@ -798,6 +730,93 @@
       "parent": 4,
       "level": 1,
       "id": 5
+    }
+  ],
+  "attributeValue": [
+    {
+      "id": 1,
+      "attribute_id": 2,
+      "value": "Verde"
+    },
+    {
+      "id": 2,
+      "attribute_id": 2,
+      "value": "Azul"
+    },
+    {
+      "id": 3,
+      "attribute_id": 2,
+      "value": "Vermelho"
+    },
+    {
+      "id": 4,
+      "attribute_id": 1,
+      "value": "S"
+    },
+    {
+      "id": 5,
+      "attribute_id": 1,
+      "value": "M"
+    },
+    {
+      "id": 6,
+      "attribute_id": 1,
+      "value": "L"
+    }
+  ],
+  "providers": [
+    {
+      "id": 1,
+      "name": "Fornecedor 1"
+    },
+    {
+      "id": 2,
+      "name": "Fornecedor 2"
+    },
+    {
+      "id": 3,
+      "name": "Fornecedor 3"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Tag 1",
+      "priority": 5
+    },
+    {
+      "id": 2,
+      "name": "Tag 2",
+      "priority": 1
+    },
+    {
+      "id": 3,
+      "name": "Tag 3",
+      "priority": 2
+    },
+    {
+      "id": 4,
+      "name": "Tag 4",
+      "priority": 1
+    },
+    {
+      "id": 5,
+      "name": "Tag 5",
+      "priority": 3
+    }
+  ],
+  "languages": [
+    {
+      "name": "pt",
+      "id": 1
+    },
+    {
+      "name": "es",
+      "id": 2
+    },
+    {
+      "name": "en",
+      "id": 3
     }
   ]
 }
