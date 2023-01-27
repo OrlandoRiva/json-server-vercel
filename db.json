@@ -818,5 +818,31 @@
       "name": "en",
       "id": 3
     }
+  ],
+  "sites": [
+    {
+      "name": "pt",
+      "id": 1
+    },
+    {
+      "name": "es",
+      "id": 2
+    },
+    {
+      "name": "ccfs",
+      "id": 3
+    },
+    {
+      "name": "cdrs",
+      "id": 3
+    },
+    {
+      "name": "vp",
+      "id": 3
+    },
+    {
+      "name": "rves",
+      "id": 3
+    }
   ]
 }
