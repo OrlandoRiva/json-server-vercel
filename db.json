@@ -623,36 +623,36 @@
     {
       "name": "Product 1",
       "ref": "Ref 1",
-      "group_id": 1,
-      "category_id": 1,
+      "groupId": 1,
+      "categoryId": 1,
       "id": 1
     },
     {
       "name": "Product 2",
       "ref": "Ref 2",
-      "group_id": 1,
-      "category_id": 2,
+      "groupId": 1,
+      "categoryId": 2,
       "id": 2
     },
     {
       "name": "Product 3",
       "ref": "Ref 3",
-      "group_id": 1,
-      "category_id": 1,
+      "groupId": 1,
+      "categoryId": 1,
       "id": 3
     },
     {
       "name": "Product 4",
       "ref": "Ref 4",
-      "group_id": 2,
-      "category_id": 2,
+      "groupId": 2,
+      "categoryId": 2,
       "id": 4
     },
     {
       "name": "Product 5",
       "ref": "Ref 5",
-      "group_id": 2,
-      "category_id": 3,
+      "groupId": 2,
+      "categoryId": 3,
       "id": 5
     }
   ],
@@ -735,32 +735,32 @@
   "attributeValue": [
     {
       "id": 1,
-      "attribute_id": 2,
+      "attributeId": 2,
       "value": "Verde"
     },
     {
       "id": 2,
-      "attribute_id": 2,
+      "attributeId": 2,
       "value": "Azul"
     },
     {
       "id": 3,
-      "attribute_id": 2,
+      "attributeId": 2,
       "value": "Vermelho"
     },
     {
       "id": 4,
-      "attribute_id": 1,
+      "attributeId": 1,
       "value": "S"
     },
     {
       "id": 5,
-      "attribute_id": 1,
+      "attributeId": 1,
       "value": "M"
     },
     {
       "id": 6,
-      "attribute_id": 1,
+      "attributeId": 1,
       "value": "L"
     }
   ],
@@ -776,6 +776,14 @@
     {
       "id": 3,
       "name": "Fornecedor 3"
+    },
+    {
+      "id": 4,
+      "name": "Fornecedor 4"
+    },
+    {
+      "id": 5,
+      "name": "Fornecedor 5"
     }
   ],
   "tags": [
@@ -843,6 +851,30 @@
     {
       "name": "rves",
       "id": 3
+    }
+  ],
+  "productProvider": [
+    {
+      "productId": 1,
+      "providerId": 1,
+      "ref": 123,
+      "ean": 456,
+      "price": 100,
+      "trackingProduct": 7,
+      "trackingGroup": 12,
+      "trackingProvider": 15,
+      "id": 1
+    },
+    {
+      "productId": 1,
+      "providerId": 2,
+      "ref": 233,
+      "ean": 455,
+      "price": 200,
+      "trackingProduct": 6,
+      "trackingGroup": 10,
+      "trackingProvider": 13,
+      "id": 2
     }
   ]
 }
