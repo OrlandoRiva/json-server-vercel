@@ -623,6 +623,7 @@
     {
       "name": "Product 1",
       "ref": "Ref 1",
+      "ean": "Ean 1",
       "groupId": 1,
       "categoryId": 1,
       "id": 1
@@ -630,6 +631,7 @@
     {
       "name": "Product 2",
       "ref": "Ref 2",
+      "ean": "Ean 2",
       "groupId": 1,
       "categoryId": 2,
       "id": 2
@@ -637,6 +639,7 @@
     {
       "name": "Product 3",
       "ref": "Ref 3",
+      "ean": "Ean 3",
       "groupId": 1,
       "categoryId": 1,
       "id": 3
@@ -644,6 +647,7 @@
     {
       "name": "Product 4",
       "ref": "Ref 4",
+      "ean": "Ean 4",
       "groupId": 2,
       "categoryId": 2,
       "id": 4
@@ -651,6 +655,7 @@
     {
       "name": "Product 5",
       "ref": "Ref 5",
+      "ean": "Ean 5",
       "groupId": 2,
       "categoryId": 3,
       "id": 5
@@ -875,6 +880,13 @@
       "trackingGroup": 10,
       "trackingProvider": 13,
       "id": 2
+    }
+  ],
+  "productRelated": [
+    {
+      "product1": 1,
+      "product2": 2,
+      "id": 1
     }
   ]
 }
