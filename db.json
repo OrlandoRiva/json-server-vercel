@@ -888,5 +888,111 @@
       "product2": 2,
       "id": 1
     }
+  ],
+  "events": [
+    {
+      "title": "Evento 1",
+      "start": "2023-01-31",
+      "end": "",
+      "allDay": true,
+      "backgroundColor": "#d32f2f",
+      "borderColor": "#d32f2f",
+      "extendedProps": {
+        "description": "Lorem Ipsum 1",
+        "status": "canceled"
+      },
+      "id": 1
+    },
+    {
+      "title": "Evento 2",
+      "start": "2023-02-01 09:00:00",
+      "end": "2023-02-01 09:30:00",
+      "allDay": false,
+      "backgroundColor": "#2e7d32",
+      "borderColor": "#2e7d32",
+      "extendedProps": {
+        "description": "Lorem Ipsum 2",
+        "status": "success"
+      },
+      "id": 2
+    },
+    {
+      "title": "Evento 3",
+      "start": "2023-02-02 10:15:00",
+      "end": "2023-02-02 10:30:00",
+      "allDay": false,
+      "backgroundColor": "#ed6c02",
+      "borderColor": "#ed6c02",
+      "extendedProps": {
+        "description": "Lorem Ipsum 3",
+        "status": "ongoing"
+      },
+      "id": 3
+    },
+    {
+      "title": "Evento 4",
+      "start": "2023-02-09 09:15:00",
+      "end": "2023-02-09 10:15:00",
+      "allDay": false,
+      "backgroundColor": "#0288d1",
+      "borderColor": "#0288d1",
+      "extendedProps": {
+        "description": "Lorem Ipsum 4",
+        "status": "open"
+      },
+      "id": 4
+    },
+    {
+      "allDay": false,
+      "title": "Nova Tarefa",
+      "start": "2023-02-03T13:00:00Z",
+      "end": "2023-02-03T15:00:00Z",
+      "backgroundColor": "#0288d1",
+      "borderColor": "#0288d1",
+      "extendedProps": {
+        "description": "Nova Tarefa",
+        "status": "open"
+      },
+      "id": 5
+    },
+    {
+      "allDay": false,
+      "title": "Nova Tarefa 2",
+      "start": "2023-02-03T13:30:00Z",
+      "end": "2023-02-03T13:45:00Z",
+      "backgroundColor": "#ed6c02",
+      "borderColor": "#ed6c02",
+      "extendedProps": {
+        "description": "Nova Tarefa 2",
+        "status": "ongoing"
+      },
+      "id": 6
+    },
+    {
+      "allDay": false,
+      "title": "Nova Tarefa 3",
+      "start": "2023-02-03T13:30:00Z",
+      "end": "2023-02-03T13:45:00Z",
+      "backgroundColor": "#ed6c02",
+      "borderColor": "#ed6c02",
+      "extendedProps": {
+        "description": "Nova Tarefa 3",
+        "status": "ongoing"
+      },
+      "id": 7
+    },
+    {
+      "allDay": false,
+      "title": "Nova Tarefa 4",
+      "start": "2023-02-03T14:15:00Z",
+      "end": "2023-02-03T14:30:00Z",
+      "backgroundColor": "#ed6c02",
+      "borderColor": "#ed6c02",
+      "extendedProps": {
+        "description": "Nova Tarefa 4",
+        "status": "ongoing"
+      },
+      "id": 8
+    }
   ]
 }
