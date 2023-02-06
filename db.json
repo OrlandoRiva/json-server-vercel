@@ -882,16 +882,6 @@
       "id": 2
     }
   ],
-  "relatedProducts": [
-    {
-      "productId": 1,
-      "categoryId": 2,
-      "name": "Product 4",
-      "ref": "Ref 4",
-      "ean": "Ean 4",
-      "id": 1
-    }
-  ],
   "events": [
     {
       "title": "Evento 1",
@@ -944,6 +934,94 @@
         "status": "open"
       },
       "id": 4
+    },
+    {
+      "allDay": false,
+      "title": "Teste",
+      "start": "2023-02-14T10:00:00Z",
+      "end": "2023-02-14T10:15:00Z",
+      "id": "48cb14e6-c2f4-fac8-90eb-dbd4c810459e",
+      "backgroundColor": "#0288d1",
+      "borderColor": "#0288d1",
+      "extendedProps": {
+        "description": "Teste",
+        "status": "open"
+      }
+    },
+    {
+      "allDay": false,
+      "title": "Teste 2",
+      "start": "2023-02-06T11:15:00Z",
+      "end": "2023-02-06T11:30:00Z",
+      "id": "2e6dec69-0c49-3998-5799-d6049228eb93",
+      "backgroundColor": "#ed6c02",
+      "borderColor": "#ed6c02",
+      "extendedProps": {
+        "description": "Teste 2",
+        "status": "ongoing"
+      }
+    }
+  ],
+  "storages": [
+    {
+      "name": "A1",
+      "id": 1
+    },
+    {
+      "name": "A2",
+      "id": 2
+    },
+    {
+      "name": "A3",
+      "id": 3
+    }
+  ],
+  "halls": [
+    {
+      "name": "M1",
+      "id": 1
+    },
+    {
+      "name": "M2",
+      "id": 2
+    },
+    {
+      "name": "M3",
+      "id": 3
+    }
+  ],
+  "bookcases": [
+    {
+      "name": "1",
+      "id": 1
+    },
+    {
+      "name": "2",
+      "id": 2
+    },
+    {
+      "name": "3",
+      "id": 3
+    }
+  ],
+  "relatedProducts": [
+    {
+      "productId": 1,
+      "categoryId": 2,
+      "name": "Product 4",
+      "ref": "Ref 4",
+      "ean": "Ean 4",
+      "id": 1
+    }
+  ],
+  "optionalProducts": [
+    {
+      "productId": 1,
+      "categoryId": 1,
+      "name": "Product 1",
+      "ref": "Ref 1",
+      "ean": "Ean 1",
+      "id": 1
     }
   ]
 }
