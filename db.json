@@ -116,9 +116,7 @@
       "brand": "Samsung",
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/3/1.jpg"
-      ]
+      "images": ["https://i.dummyjson.com/data/products/3/1.jpg"]
     },
     {
       "id": 4,
@@ -884,10 +882,13 @@
       "id": 2
     }
   ],
-  "productRelated": [
+  "relatedProducts": [
     {
-      "product1": 1,
-      "product2": 2,
+      "productId": 1,
+      "categoryId": 2,
+      "name": "Product 4",
+      "ref": "Ref 4",
+      "ean": "Ean 4",
       "id": 1
     }
   ],
@@ -943,89 +944,6 @@
         "status": "open"
       },
       "id": 4
-    },
-    {
-      "allDay": false,
-      "title": "Nova Tarefa",
-      "start": "2023-02-03T13:00:00Z",
-      "end": "2023-02-03T15:00:00Z",
-      "backgroundColor": "#0288d1",
-      "borderColor": "#0288d1",
-      "extendedProps": {
-        "description": "Nova Tarefa",
-        "status": "open"
-      },
-      "id": 5
-    },
-    {
-      "allDay": false,
-      "title": "Nova Tarefa 2",
-      "start": "2023-02-03T13:45:00Z",
-      "end": "2023-02-03T14:00:00Z",
-      "backgroundColor": "#ed6c02",
-      "borderColor": "#ed6c02",
-      "extendedProps": {
-        "description": "Nova Tarefa 2",
-        "status": "ongoing"
-      },
-      "id": 6
-    },
-    {
-      "allDay": false,
-      "title": "Nova Tarefa 3",
-      "start": "2023-02-03T13:45:00Z",
-      "end": "2023-02-03T14:00:00Z",
-      "backgroundColor": "#ed6c02",
-      "borderColor": "#ed6c02",
-      "extendedProps": {
-        "description": "Nova Tarefa 3",
-        "status": "ongoing"
-      },
-      "id": 7
-    },
-    {
-      "allDay": false,
-      "title": "Nova Tarefa 4",
-      "start": "2023-02-03T14:15:00Z",
-      "end": "2023-02-03T14:30:00Z",
-      "backgroundColor": "#ed6c02",
-      "borderColor": "#ed6c02",
-      "extendedProps": {
-        "description": "Nova Tarefa 4",
-        "status": "ongoing"
-      },
-      "id": 8
-    },
-    {
-      "0": {
-        "id": "95d78b32-6ddf-8c10-87a2-48701ff847dd",
-        "start": "2023-02-20",
-        "end": "2023-02-21"
-      },
-      "allDay": true,
-      "title": "Teste",
-      "start": "2023-02-13",
-      "end": "",
-      "id": "95d78b32-6ddf-8c10-87a2-48701ff847dd",
-      "backgroundColor": "#0288d1",
-      "borderColor": "#0288d1",
-      "extendedProps": {
-        "description": "Teste",
-        "status": "open"
-      }
-    },
-    {
-      "allDay": false,
-      "title": "Teste 2 ",
-      "start": "2023-02-03T09:00:00Z",
-      "end": "2023-02-03T09:15:00Z",
-      "id": "9da19220-06af-5a82-328e-52608367f7d8",
-      "backgroundColor": "#2e7d32",
-      "borderColor": "#2e7d32",
-      "extendedProps": {
-        "description": "Teste 2",
-        "status": "success"
-      }
     }
   ]
 }
