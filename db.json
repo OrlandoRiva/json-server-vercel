@@ -1023,5 +1023,14 @@
       "ean": "Ean 1",
       "id": 1
     }
+  ],
+  "users": [
+    {
+      "username": "Orlando Carvalho",
+      "initials": "OC",
+      "email": "orlando@mail.com",
+      "password": "$2a$10$f45cjtBwvwr.4Jhj15z4k.TPAcgEnyGOxPCD8SOzwcAmTAChoo62q",
+      "id": 1
+    }
   ]
 }
