@@ -116,7 +116,9 @@
       "brand": "Samsung",
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-      "images": ["https://i.dummyjson.com/data/products/3/1.jpg"]
+      "images": [
+        "https://i.dummyjson.com/data/products/3/1.jpg"
+      ]
     },
     {
       "id": 4,
@@ -709,31 +711,51 @@
     {
       "name": "Cacifos",
       "parent": "",
-      "level": 0,
+      "level": "",
+      "stock": "10",
+      "banner": "no",
+      "link": "",
+      "image": "",
       "id": 1
     },
     {
       "name": "Cacifos Verdes",
-      "parent": 1,
-      "level": 1,
+      "parent": "1",
+      "level": "1",
+      "stock": "20",
+      "banner": "no",
+      "link": "",
+      "image": "",
       "id": 2
     },
     {
       "name": "Mesas",
       "parent": "",
-      "level": 0,
+      "level": "",
+      "stock": "30",
+      "banner": "no",
+      "link": "",
+      "image": "",
       "id": 3
     },
     {
       "name": "Cadeiras",
       "parent": "",
-      "level": 0,
+      "level": "",
+      "stock": "40",
+      "banner": "no",
+      "link": "",
+      "image": "",
       "id": 4
     },
     {
       "name": "Cadeiras Verdes",
-      "parent": 4,
-      "level": 1,
+      "parent": "2",
+      "level": "2",
+      "stock": "50",
+      "banner": "no",
+      "link": "",
+      "image": "",
       "id": 5
     }
   ],
