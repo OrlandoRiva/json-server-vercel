@@ -666,6 +666,7 @@
   "groups": [
     {
       "name": "Grupo 1",
+      "categoryId": 1,
       "id": 1,
       "attributes": [
         {
@@ -680,6 +681,7 @@
     },
     {
       "name": "Grupo 2",
+      "categoryId": 2,
       "id": 2,
       "attributes": [
         {
@@ -698,13 +700,40 @@
     },
     {
       "name": "Grupo 3",
+      "categoryId": 3,
       "id": 3,
       "attributes": []
     },
     {
       "name": "Grupo 4",
+      "categoryId": 4,
       "id": 4,
       "attributes": []
+    },
+    {
+      "name": "Grupo AAA",
+      "categoryId": 2,
+      "attributes": [
+        {
+          "name": "Cor",
+          "id": 1
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Cor",
+      "id": 1
+    },
+    {
+      "name": "Tamanho",
+      "id": 2
+    },
+    {
+      "name": "Peso",
+      "id": 3
     }
   ],
   "categories": [
@@ -982,6 +1011,19 @@
         "description": "Teste 2",
         "status": "ongoing"
       }
+    },
+    {
+      "allDay": true,
+      "title": "32321",
+      "start": "2023-02-21",
+      "end": "2023-02-22",
+      "id": "d54fac73-b069-8007-ae37-e299577ba028",
+      "backgroundColor": "#0288d1",
+      "borderColor": "#0288d1",
+      "extendedProps": {
+        "description": "3131",
+        "status": "open"
+      }
     }
   ],
   "storages": [
@@ -1054,5 +1096,6 @@
       "password": "$2a$10$f45cjtBwvwr.4Jhj15z4k.TPAcgEnyGOxPCD8SOzwcAmTAChoo62q",
       "id": 1
     }
-  ]
+  ],
+  "drafts": []
 }
