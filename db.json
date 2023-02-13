@@ -116,9 +116,7 @@
       "brand": "Samsung",
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/3/1.jpg"
-      ]
+      "images": ["https://i.dummyjson.com/data/products/3/1.jpg"]
     },
     {
       "id": 4,
@@ -628,6 +626,18 @@
       "ean": "Ean 1",
       "groupId": 1,
       "categoryId": 1,
+      "attributeValue": [
+        {
+          "id": 1,
+          "attributeId": 1,
+          "value": "Verde"
+        },
+        {
+          "id": 2,
+          "attributeId": 4,
+          "value": "S"
+        }
+      ],
       "id": 1
     },
     {
@@ -636,6 +646,18 @@
       "ean": "Ean 2",
       "groupId": 1,
       "categoryId": 2,
+      "attributeValue": [
+        {
+          "id": 1,
+          "attributeId": 2,
+          "value": "Azul"
+        },
+        {
+          "id": 2,
+          "attributeId": 5,
+          "value": "M"
+        }
+      ],
       "id": 2
     },
     {
@@ -644,6 +666,18 @@
       "ean": "Ean 3",
       "groupId": 1,
       "categoryId": 1,
+      "attributeValue": [
+        {
+          "id": 1,
+          "attributeId": 3,
+          "value": "Vermelho"
+        },
+        {
+          "id": 2,
+          "attributeId": 6,
+          "value": "L"
+        }
+      ],
       "id": 3
     },
     {
@@ -652,6 +686,23 @@
       "ean": "Ean 4",
       "groupId": 2,
       "categoryId": 2,
+      "attributeValue": [
+        {
+          "id": 1,
+          "attributeId": 1,
+          "value": "Verde"
+        },
+        {
+          "id": 2,
+          "attributeId": 4,
+          "value": "S"
+        },
+        {
+          "id": 3,
+          "attributeId": 7,
+          "value": "1kg"
+        }
+      ],
       "id": 4
     },
     {
@@ -660,35 +711,60 @@
       "ean": "Ean 5",
       "groupId": 2,
       "categoryId": 3,
+      "attributeValue": [
+        {
+          "id": 1,
+          "attributeId": 2,
+          "value": "Verde"
+        },
+        {
+          "id": 2,
+          "attributeId": 5,
+          "value": "S"
+        },
+        {
+          "id": 3,
+          "attributeId": 8,
+          "value": "2kg"
+        }
+      ],
       "id": 5
     }
   ],
   "groups": [
     {
       "name": "Grupo 1",
+      "category": {
+        "id": 1,
+        "name": "Cacifos"
+      },
       "id": 1,
       "attributes": [
         {
           "id": 1,
-          "name": "Tamanho"
+          "name": "Cor"
         },
         {
           "id": 2,
-          "name": "Cor"
+          "name": "Tamanho"
         }
       ]
     },
     {
       "name": "Grupo 2",
+      "category": {
+        "id": 2,
+        "name": "Cacifos Verdes"
+      },
       "id": 2,
       "attributes": [
         {
           "id": 1,
-          "name": "Tamanho"
+          "name": "Cor"
         },
         {
           "id": 2,
-          "name": "Cor"
+          "name": "Tamanho"
         },
         {
           "id": 3,
@@ -698,13 +774,35 @@
     },
     {
       "name": "Grupo 3",
+      "category": {
+        "id": 3,
+        "name": "Mesas"
+      },
       "id": 3,
       "attributes": []
     },
     {
       "name": "Grupo 4",
+      "category": {
+        "id": 4,
+        "name": "Cadeiras"
+      },
       "id": 4,
       "attributes": []
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Cor",
+      "id": 1
+    },
+    {
+      "name": "Tamanho",
+      "id": 2
+    },
+    {
+      "name": "Peso",
+      "id": 3
     }
   ],
   "categories": [
@@ -789,6 +887,21 @@
       "id": 6,
       "attributeId": 1,
       "value": "L"
+    },
+    {
+      "id": 7,
+      "attributeId": 3,
+      "value": "1kg"
+    },
+    {
+      "id": 8,
+      "attributeId": 3,
+      "value": "2kg"
+    },
+    {
+      "id": 9,
+      "attributeId": 3,
+      "value": "3kg"
     }
   ],
   "providers": [
@@ -982,6 +1095,19 @@
         "description": "Teste 2",
         "status": "ongoing"
       }
+    },
+    {
+      "allDay": true,
+      "title": "32321",
+      "start": "2023-02-21",
+      "end": "2023-02-22",
+      "id": "d54fac73-b069-8007-ae37-e299577ba028",
+      "backgroundColor": "#0288d1",
+      "borderColor": "#0288d1",
+      "extendedProps": {
+        "description": "3131",
+        "status": "open"
+      }
     }
   ],
   "storages": [
@@ -1054,5 +1180,6 @@
       "password": "$2a$10$f45cjtBwvwr.4Jhj15z4k.TPAcgEnyGOxPCD8SOzwcAmTAChoo62q",
       "id": 1
     }
-  ]
+  ],
+  "drafts": []
 }
