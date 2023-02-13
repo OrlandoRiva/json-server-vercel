@@ -734,10 +734,14 @@
   "groups": [
     {
       "name": "Grupo 1",
+<<<<<<< HEAD
       "category": {
         "id": 1,
         "name": "Cacifos"
       },
+=======
+      "categoryId": 1,
+>>>>>>> 88044f71ec093fc76fac1806ba41347af50fff72
       "id": 1,
       "attributes": [
         {
@@ -752,10 +756,14 @@
     },
     {
       "name": "Grupo 2",
+<<<<<<< HEAD
       "category": {
         "id": 2,
         "name": "Cacifos Verdes"
       },
+=======
+      "categoryId": 2,
+>>>>>>> 88044f71ec093fc76fac1806ba41347af50fff72
       "id": 2,
       "attributes": [
         {
@@ -774,21 +782,54 @@
     },
     {
       "name": "Grupo 3",
+<<<<<<< HEAD
       "category": {
         "id": 3,
         "name": "Mesas"
       },
+=======
+      "categoryId": 3,
+>>>>>>> 88044f71ec093fc76fac1806ba41347af50fff72
       "id": 3,
       "attributes": []
     },
     {
       "name": "Grupo 4",
+<<<<<<< HEAD
       "category": {
         "id": 4,
         "name": "Cadeiras"
       },
+=======
+      "categoryId": 4,
+>>>>>>> 88044f71ec093fc76fac1806ba41347af50fff72
       "id": 4,
       "attributes": []
+    },
+    {
+      "name": "Grupo AAA",
+      "categoryId": 2,
+      "attributes": [
+        {
+          "name": "Cor",
+          "id": 1
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Cor",
+      "id": 1
+    },
+    {
+      "name": "Tamanho",
+      "id": 2
+    },
+    {
+      "name": "Peso",
+      "id": 3
     }
   ],
   "attributes": [
@@ -1182,4 +1223,8 @@
     }
   ],
   "drafts": []
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 88044f71ec093fc76fac1806ba41347af50fff72
