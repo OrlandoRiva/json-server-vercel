@@ -547,5 +547,118 @@
       "name": "Tag 5",
       "priority": 3
     }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "name_first": "Orlando",
+      "name_last": "Carvalho",
+      "email": "orlando@mail.com",
+      "phone_number": "912345678",
+      "business": null,
+      "registration": "normal",
+      "time_created": "2022-12-25 15:45:25",
+      "address": [
+        {
+          "id": 1,
+          "name": "Casa",
+          "active": true,
+          "address_line1": "Rua Sub Carreira Nº 22",
+          "address_line2": null,
+          "city": "Braga",
+          "postal_code": "4705-457",
+          "country": "Portugal",
+          "nif": 123456789,
+          "phone_number": 912345678
+        }
+      ],
+      "rgpd": [
+        {
+          "id": 1,
+          "email": true,
+          "data_email": "2023-01-10 15:00:00",
+          "sms": false,
+          "data_sms": "2023-01-10 15:00:00"
+        },
+        {
+          "id": 2,
+          "email": true,
+          "data_email": "2023-01-10 15:00:00",
+          "sms": true,
+          "data_sms": "2023-01-12 10:30:00"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name_first": "Tiago",
+      "name_last": "Pinto",
+      "email": "tiago@mail.com",
+      "phone_number": "918765432",
+      "business": "Company Tech",
+      "registration": "facebook",
+      "time_created": "2023-02-01 10:15:00",
+      "address": [
+        {
+          "id": 1,
+          "name": "Trabalho",
+          "active": false,
+          "address_line1": "Rua X Nº 1",
+          "address_line2": "Rua XY Nº 2",
+          "city": "Braga",
+          "postal_code": "4705-400",
+          "country": "Portugal",
+          "nif": 123456789,
+          "phone_number": 912345678
+        },
+        {
+          "id": 2,
+          "name": "Trabalho",
+          "active": true,
+          "address_line1": "Rua Z Nº 10",
+          "address_line2": "Rua ZW Nº 20",
+          "city": "Porto",
+          "postal_code": "4700-350",
+          "country": "Portugal",
+          "nif": 123456789,
+          "phone_number": 912345678
+        },
+        {
+          "id": 3,
+          "name": "Casa",
+          "active": true,
+          "address_line1": "Rua ABC Nº 10",
+          "address_line2": null,
+          "city": "Braga",
+          "postal_code": "4705-500",
+          "country": "Portugal",
+          "nif": 123456789,
+          "phone_number": 912345678
+        }
+      ],
+      "rgpd": [
+        {
+          "id": 1,
+          "email": true,
+          "data_email": "2023-02-20 11:00:00",
+          "sms": true,
+          "data_sms": "2023-02-20 11:00:00"
+        },
+        {
+          "id": 2,
+          "email": false,
+          "data_email": "2023-02-21 14:30:00",
+          "sms": true,
+          "data_sms": "2023-02-20 11:00:00"
+        },
+        {
+          "id": 3,
+          "email": true,
+          "data_email": "2023-02-25 14:50:00",
+          "sms": true,
+          "data_sms": "2023-02-20 11:00:00"
+        }
+      ]
+    }
   ]
 }
