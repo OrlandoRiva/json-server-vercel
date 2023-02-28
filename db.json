@@ -8,11 +8,12 @@
       "phone": "912345678",
       "image": "",
       "id": 1,
-      "roles": [
+      "role": "user",
+      "permissions": [
         {
           "id": 1,
           "name": "produtos",
-          "permissions": [
+          "permission": [
             "r",
             "w"
           ]
@@ -20,91 +21,91 @@
         {
           "id": 2,
           "name": "clientes",
-          "permissions": [
+          "permission": [
             "r"
           ]
         },
         {
           "id": 3,
           "name": "proformas",
-          "permissions": [
+          "permission": [
             "w"
           ]
         },
         {
           "id": 4,
           "name": "tickets",
-          "permissions": []
+          "permission": []
         },
         {
           "id": 5,
           "name": "estatísticas",
-          "permissions": []
+          "permission": []
         },
         {
           "id": 6,
           "name": "categorias",
-          "permissions": []
+          "permission": []
         },
         {
           "id": 7,
           "name": "ativos",
-          "permissions": []
+          "permission": []
         },
         {
           "id": 8,
           "name": "campanhas",
-          "permissions": []
+          "permission": []
         },
         {
           "id": 9,
           "name": "integração",
-          "permissions": []
+          "permission": []
         },
         {
           "id": 10,
           "name": "objetivos",
-          "permissions": []
+          "permission": []
         },
         {
           "id": 11,
           "name": "importações",
-          "permissions": []
+          "permission": []
         },
         {
           "id": 12,
           "name": "encomendas",
-          "permissions": []
+          "permission": []
         },
         {
           "id": 13,
           "name": "destaques",
-          "permissions": []
+          "permission": []
         },
         {
           "id": 14,
           "name": "tags",
-          "permissions": []
+          "permission": []
         },
         {
           "id": 15,
           "name": "fornecedores",
-          "permissions": []
+          "permission": []
         },
         {
           "id": 16,
           "name": "loja",
-          "permissions": []
+          "permission": []
         },
         {
           "id": 17,
           "name": "envio",
-          "permissions": []
+          "permission": []
         },
         {
           "id": 18,
           "name": "auxiliares",
-          "permissions": [
+          "permission": [
             "r",
             "w"
           ]
@@ -114,32 +115,32 @@
         {
           "id": 1,
           "name": "rv",
-          "permissions": true
+          "permission": true
         },
         {
           "id": 2,
           "name": "mde",
-          "permissions": false
+          "permission": false
         },
         {
           "id": 3,
           "name": "ccfs",
-          "permissions": false
+          "permission": false
         },
         {
           "id": 4,
           "name": "cdrs",
-          "permissions": false
+          "permission": false
         },
         {
           "id": 5,
           "name": "vp",
-          "permissions": false
+          "permission": false
         },
         {
           "id": 6,
           "name": "rves",
-          "permissions": true
+          "permission": true
         }
       ]
     },
@@ -151,6 +152,7 @@
       "phone": "918765432",
       "image": "",
       "id": 2,
+      "role": "user",
       "roles": [
         {
           "id": 1,
@@ -282,6 +284,194 @@
           "id": 6,
           "name": "rves",
           "permissions": false
+        }
+      ]
+    },
+    {
+      "email": "admin@mail.com",
+      "password": "$2a$10$TJu8cZ654IdQJhSSIr2Zr.HU0DFF6z24k1lTGSXy1HIMJ9ajDh5zy",
+      "username": "Admin",
+      "initials": "ADM",
+      "phone": "911223344",
+      "image": "",
+      "id": 3,
+      "role": "admin",
+      "permissions": [
+        {
+          "id": 1,
+          "name": "produtos",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "clientes",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
+          "id": 3,
+          "name": "proformas",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
+          "id": 4,
+          "name": "tickets",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
+          "id": 5,
+          "name": "estatísticas",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
+          "id": 6,
+          "name": "categorias",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
+          "id": 7,
+          "name": "ativos",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
+          "id": 8,
+          "name": "campanhas",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
+          "id": 9,
+          "name": "integração",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
+          "id": 10,
+          "name": "objetivos",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
+          "id": 11,
+          "name": "importações",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
+          "id": 12,
+          "name": "encomendas",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
+          "id": 13,
+          "name": "destaques",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
+          "id": 14,
+          "name": "tags",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
+          "id": 15,
+          "name": "fornecedores",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
+          "id": 16,
+          "name": "loja",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
+          "id": 17,
+          "name": "envio",
+          "permission": [
+            "w",
+            "r"
+          ]
+        },
+        {
+          "id": 18,
+          "name": "auxiliares",
+          "permission": [
+            "r",
+            "w"
+          ]
+        }
+      ],
+      "sites": [
+        {
+          "id": 1,
+          "name": "rv",
+          "permission": true
+        },
+        {
+          "id": 2,
+          "name": "mde",
+          "permission": true
+        },
+        {
+          "id": 3,
+          "name": "ccfs",
+          "permission": true
+        },
+        {
+          "id": 4,
+          "name": "cdrs",
+          "permission": true
+        },
+        {
+          "id": 5,
+          "name": "vp",
+          "permission": true
+        },
+        {
+          "id": 6,
+          "name": "rves",
+          "permission": true
         }
       ]
     }
