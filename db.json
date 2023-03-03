@@ -9,6 +9,7 @@
       "image": "",
       "id": 1,
       "role": "admin",
+      "active": true,
       "permissions": [
         {
           "id": 1,
@@ -143,6 +144,7 @@
       "image": "",
       "id": 2,
       "role": "user",
+      "active": true,
       "permissions": [
         {
           "id": 1,
@@ -270,13 +272,14 @@
     },
     {
       "email": "sergio@mail.com",
-      "password": "$2a$10$rYrDymF947CpazqrxuKGsu6KHUNzkjGO9ayvbNMR43lKe2m7goBwW",
-      "username": "Sérgio Pinto",
+      "password": "$2a$10$wHfUaWZJOMFGcVTsqKLeSuRnP4fAyqBU0OxpAVvhoYpnT.sVYO.X2",
+      "username": "Sérgio Pinho",
       "initials": "SP",
       "phone": "918765432",
       "image": "",
       "id": 3,
       "role": "user",
+      "active": false,
       "permissions": [
         {
           "id": 1,
