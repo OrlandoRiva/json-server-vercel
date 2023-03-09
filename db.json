@@ -14,92 +14,146 @@
         {
           "id": 1,
           "name": "produtos",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 2,
           "name": "clientes",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 3,
           "name": "proformas",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 4,
           "name": "tickets",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 5,
           "name": "estatísticas",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 6,
           "name": "categorias",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 7,
           "name": "ativos",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 8,
           "name": "campanhas",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 9,
           "name": "integração",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 10,
           "name": "objetivos",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 11,
           "name": "importações",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 12,
           "name": "encomendas",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 13,
           "name": "destaques",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 14,
           "name": "tags",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 15,
           "name": "fornecedores",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 16,
           "name": "loja",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 17,
           "name": "envio",
-          "permission": ["w", "r"]
+          "permission": [
+            "w",
+            "r"
+          ]
         },
         {
           "id": 18,
           "name": "auxiliares",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         }
       ],
       "sites": [
@@ -149,17 +203,24 @@
         {
           "id": 1,
           "name": "produtos",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 2,
           "name": "clientes",
-          "permission": ["r"]
+          "permission": [
+            "r"
+          ]
         },
         {
           "id": 3,
           "name": "proformas",
-          "permission": ["w"]
+          "permission": [
+            "w"
+          ]
         },
         {
           "id": 4,
@@ -234,7 +295,10 @@
         {
           "id": 18,
           "name": "auxiliares",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         }
       ],
       "sites": [
@@ -284,12 +348,18 @@
         {
           "id": 1,
           "name": "produtos",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 2,
           "name": "clientes",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 3,
@@ -314,7 +384,10 @@
         {
           "id": 7,
           "name": "ativos",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 8,
@@ -344,7 +417,10 @@
         {
           "id": 13,
           "name": "destaques",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 14,
@@ -599,7 +675,7 @@
       "parent": "",
       "level": "",
       "stock": "10",
-      "banner": "no",
+      "banner": false,
       "link": "",
       "image": "",
       "id": 1
@@ -609,17 +685,17 @@
       "parent": "1",
       "level": "1",
       "stock": "20",
-      "banner": "no",
+      "banner": false,
       "link": "",
       "image": "",
       "id": 2
     },
     {
       "name": "Mesas",
-      "parent": "",
-      "level": "",
+      "parent": "4",
+      "level": "1",
       "stock": "30",
-      "banner": "no",
+      "banner": "false",
       "link": "",
       "image": "",
       "id": 3
@@ -629,7 +705,7 @@
       "parent": "",
       "level": "",
       "stock": "40",
-      "banner": "no",
+      "banner": false,
       "link": "",
       "image": "",
       "id": 4
@@ -639,10 +715,20 @@
       "parent": "2",
       "level": "2",
       "stock": "50",
-      "banner": "yes",
+      "banner": true,
       "link": "Teste Link",
       "image": "",
       "id": 5
+    },
+    {
+      "name": "Teste",
+      "parent": "3",
+      "stock": "111",
+      "banner": "false",
+      "level": "1",
+      "link": "",
+      "image": "",
+      "id": 6
     }
   ],
   "groups": [
