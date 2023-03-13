@@ -14,146 +14,92 @@
         {
           "id": 1,
           "name": "produtos",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 2,
           "name": "clientes",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 3,
           "name": "proformas",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 4,
           "name": "tickets",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 5,
           "name": "estatísticas",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 6,
           "name": "categorias",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 7,
           "name": "ativos",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 8,
           "name": "campanhas",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 9,
           "name": "integração",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 10,
           "name": "objetivos",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 11,
           "name": "importações",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 12,
           "name": "encomendas",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 13,
           "name": "destaques",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 14,
           "name": "tags",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 15,
           "name": "fornecedores",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 16,
           "name": "loja",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 17,
           "name": "envio",
-          "permission": [
-            "w",
-            "r"
-          ]
+          "permission": ["w", "r"]
         },
         {
           "id": 18,
           "name": "auxiliares",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         }
       ],
       "sites": [
@@ -203,24 +149,17 @@
         {
           "id": 1,
           "name": "produtos",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 2,
           "name": "clientes",
-          "permission": [
-            "r"
-          ]
+          "permission": ["r"]
         },
         {
           "id": 3,
           "name": "proformas",
-          "permission": [
-            "w"
-          ]
+          "permission": ["w"]
         },
         {
           "id": 4,
@@ -295,10 +234,7 @@
         {
           "id": 18,
           "name": "auxiliares",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         }
       ],
       "sites": [
@@ -348,18 +284,12 @@
         {
           "id": 1,
           "name": "produtos",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 2,
           "name": "clientes",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 3,
@@ -384,10 +314,7 @@
         {
           "id": 7,
           "name": "ativos",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 8,
@@ -417,10 +344,7 @@
         {
           "id": 13,
           "name": "destaques",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 14,
@@ -1210,6 +1134,24 @@
           "data_sms": "2023-02-20 11:00:00"
         }
       ]
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "title": "Title 1",
+      "date": "2023-03-12 15:45:25",
+      "message": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
+      "link": "",
+      "seen": false
+    },
+    {
+      "id": 2,
+      "title": "Title 2",
+      "date": "2023-03-12 17:10:40",
+      "message": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
+      "link": "",
+      "seen": false
     }
   ]
 }
