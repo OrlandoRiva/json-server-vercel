@@ -14,92 +14,146 @@
         {
           "id": 1,
           "name": "produtos",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 2,
           "name": "clientes",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 3,
           "name": "proformas",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 4,
           "name": "tickets",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 5,
           "name": "estatísticas",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 6,
           "name": "categorias",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 7,
           "name": "ativos",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 8,
           "name": "campanhas",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 9,
           "name": "integração",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 10,
           "name": "objetivos",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 11,
           "name": "importações",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 12,
           "name": "encomendas",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 13,
           "name": "destaques",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 14,
           "name": "tags",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 15,
           "name": "fornecedores",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 16,
           "name": "loja",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 17,
           "name": "envio",
-          "permission": ["w", "r"]
+          "permission": [
+            "w",
+            "r"
+          ]
         },
         {
           "id": 18,
           "name": "auxiliares",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         }
       ],
       "sites": [
@@ -149,17 +203,24 @@
         {
           "id": 1,
           "name": "produtos",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 2,
           "name": "clientes",
-          "permission": ["r"]
+          "permission": [
+            "r"
+          ]
         },
         {
           "id": 3,
           "name": "proformas",
-          "permission": ["w"]
+          "permission": [
+            "w"
+          ]
         },
         {
           "id": 4,
@@ -234,7 +295,10 @@
         {
           "id": 18,
           "name": "auxiliares",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         }
       ],
       "sites": [
@@ -284,17 +348,25 @@
         {
           "id": 1,
           "name": "produtos",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 2,
           "name": "clientes",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 3,
           "name": "proformas",
-          "permission": []
+          "permission": [
+            "r"
+          ]
         },
         {
           "id": 4,
@@ -314,7 +386,10 @@
         {
           "id": 7,
           "name": "ativos",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 8,
@@ -344,7 +419,10 @@
         {
           "id": 13,
           "name": "destaques",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 14,
@@ -506,7 +584,7 @@
       "ref": "Ref 2",
       "ean": "Ean 2",
       "groupId": 1,
-      "categoryId": 2,
+      "categoryId": 1,
       "attributeValues": [
         {
           "id": 1,
@@ -526,7 +604,7 @@
       "ref": "Ref 3",
       "ean": "Ean 3",
       "groupId": 1,
-      "categoryId": 1,
+      "categoryId": 2,
       "attributeValues": [
         {
           "id": 1,
@@ -546,7 +624,7 @@
       "ref": "Ref 4",
       "ean": "Ean 4",
       "groupId": 2,
-      "categoryId": 2,
+      "categoryId": 3,
       "attributeValues": [
         {
           "id": 1,
@@ -571,7 +649,7 @@
       "ref": "Ref 5",
       "ean": "Ean 5",
       "groupId": 2,
-      "categoryId": 3,
+      "categoryId": 4,
       "attributeValues": [
         {
           "id": 1,
@@ -643,16 +721,6 @@
       "link": "Teste Link",
       "image": "",
       "id": 5
-    },
-    {
-      "name": "Teste",
-      "parent": "3",
-      "stock": "111",
-      "banner": "false",
-      "level": "1",
-      "link": "",
-      "image": "",
-      "id": 6
     }
   ],
   "groups": [
@@ -735,63 +803,44 @@
   ],
   "attributes": [
     {
-      "name": "Cor",
-      "id": 1
-    },
-    {
-      "name": "Tamanho",
-      "id": 2
-    },
-    {
-      "name": "Peso",
+      "key": "size",
       "id": 3
+    },
+    {
+      "key": "color",
+      "id": 4
     }
   ],
   "attributeValues": [
     {
       "id": 1,
-      "attributeId": 1,
-      "value": "Verde"
-    },
-    {
-      "id": 2,
-      "attributeId": 1,
-      "value": "Azul"
-    },
-    {
-      "id": 3,
-      "attributeId": 1,
-      "value": "Vermelho"
-    },
-    {
-      "id": 4,
-      "attributeId": 2,
+      "attributeId": 3,
       "value": "S"
     },
     {
-      "id": 5,
-      "attributeId": 2,
+      "id": 2,
+      "attributeId": 3,
       "value": "M"
     },
     {
-      "id": 6,
-      "attributeId": 2,
+      "id": 3,
+      "attributeId": 3,
       "value": "L"
     },
     {
-      "id": 7,
-      "attributeId": 3,
-      "value": "1kg"
+      "id": 4,
+      "attributeId": 4,
+      "value": "Verde"
     },
     {
-      "id": 8,
-      "attributeId": 3,
-      "value": "2kg"
+      "id": 5,
+      "attributeId": 4,
+      "value": "Azul"
     },
     {
-      "id": 9,
-      "attributeId": 3,
-      "value": "3kg"
+      "id": 6,
+      "attributeId": 4,
+      "value": "Vermelho"
     }
   ],
   "languages": [
@@ -922,10 +971,18 @@
     {
       "productId": 1,
       "categoryId": 2,
-      "name": "Product 4",
-      "ref": "Ref 4",
-      "ean": "Ean 4",
-      "id": 1
+      "name": "Product 1",
+      "ref": "Ref 1",
+      "ean": "Ean 1",
+      "id": 2
+    },
+    {
+      "productId": 1,
+      "categoryId": 2,
+      "name": "Product 3",
+      "ref": "Ref 3",
+      "ean": "Ean 3",
+      "id": 3
     }
   ],
   "productsOpt": [
