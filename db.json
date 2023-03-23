@@ -294,9 +294,7 @@
         {
           "id": 18,
           "name": "auxiliares",
-          "permission": [
-            "r"
-          ]
+          "permission": []
         }
       ],
       "storefronts": [
