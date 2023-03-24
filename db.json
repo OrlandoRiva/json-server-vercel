@@ -14,146 +14,87 @@
         {
           "id": 1,
           "name": "produtos",
-          "permission": [
-            "w",
-            "r"
-          ]
+          "permission": ["w", "r"]
         },
         {
           "id": 2,
           "name": "categorias",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 3,
           "name": "grupos",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 4,
           "name": "importações",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 5,
           "name": "fornecedores",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 6,
           "name": "clientes",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 7,
           "name": "ativos",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 8,
           "name": "encomendas",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 9,
           "name": "loja",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 10,
           "name": "proformas",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         },
         {
           "id": 11,
-          "name": "proformas",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "name": "campanhas",
+          "permission": ["r", "w"]
         },
         {
           "id": 12,
-          "name": "campanhas",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "name": "destaques",
+          "permission": ["r", "w"]
         },
         {
           "id": 13,
-          "name": "destaques",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "name": "envio",
+          "permission": ["r", "w"]
         },
         {
           "id": 14,
-          "name": "envio",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "name": "tickets",
+          "permission": ["r", "w"]
         },
         {
           "id": 15,
-          "name": "tickets",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "name": "interação",
+          "permission": ["r", "w"]
         },
         {
           "id": 16,
-          "name": "interação",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "name": "tags",
+          "permission": ["w", "r"]
         },
         {
           "id": 17,
-          "name": "tags",
-          "permission": [
-            "w",
-            "r"
-          ]
-        },
-        {
-          "id": 18,
           "name": "auxiliares",
-          "permission": [
-            "r",
-            "w"
-          ]
+          "permission": ["r", "w"]
         }
       ],
       "storefronts": [
@@ -162,9 +103,7 @@
           "key": "riva",
           "host": "riva.dev",
           "external": false,
-          "locales": [
-            "/api/locales/8"
-          ],
+          "locales": ["/api/locales/8"],
           "permission": true
         },
         {
@@ -172,9 +111,7 @@
           "key": "cacifos",
           "host": "cacifos.dev",
           "external": false,
-          "locales": [
-            "/api/locales/9"
-          ],
+          "locales": ["/api/locales/9"],
           "permission": true
         },
         {
@@ -182,9 +119,7 @@
           "key": "test",
           "host": "localhost",
           "external": false,
-          "locales": [
-            "/api/locales/9"
-          ],
+          "locales": ["/api/locales/9"],
           "permission": true
         }
       ]
@@ -203,23 +138,17 @@
         {
           "id": 1,
           "name": "produtos",
-          "permission": [
-            "w",
-            "r"
-          ]
+          "permission": ["w", "r"]
         },
         {
           "id": 2,
           "name": "categorias",
-          "permission": [
-            "w",
-            "r"
-          ]
+          "permission": ["w", "r"]
         },
         {
           "id": 3,
           "name": "grupos",
-          "permission": []
+          "permission": ["r", "w"]
         },
         {
           "id": 4,
@@ -229,12 +158,12 @@
         {
           "id": 5,
           "name": "fornecedores",
-          "permission": []
+          "permission": ["r"]
         },
         {
           "id": 6,
           "name": "clientes",
-          "permission": []
+          "permission": ["r"]
         },
         {
           "id": 7,
@@ -258,41 +187,36 @@
         },
         {
           "id": 11,
-          "name": "proformas",
-          "permission": []
-        },
-        {
-          "id": 12,
           "name": "campanhas",
           "permission": []
         },
         {
-          "id": 13,
+          "id": 12,
           "name": "destaques",
           "permission": []
         },
         {
-          "id": 14,
+          "id": 13,
           "name": "envio",
           "permission": []
         },
         {
-          "id": 15,
+          "id": 14,
           "name": "tickets",
           "permission": []
         },
         {
-          "id": 16,
+          "id": 15,
           "name": "interação",
           "permission": []
         },
         {
-          "id": 17,
+          "id": 16,
           "name": "tags",
           "permission": []
         },
         {
-          "id": 18,
+          "id": 17,
           "name": "auxiliares",
           "permission": []
         }
@@ -303,9 +227,7 @@
           "key": "riva",
           "host": "riva.dev",
           "external": false,
-          "locales": [
-            "/api/locales/8"
-          ],
+          "locales": ["/api/locales/8"],
           "permission": true
         },
         {
@@ -313,18 +235,14 @@
           "key": "cacifos",
           "host": "cacifos.dev",
           "external": false,
-          "locales": [
-            "/api/locales/9"
-          ]
+          "locales": ["/api/locales/9"]
         },
         {
           "id": 6,
           "key": "test",
           "host": "localhost",
           "external": false,
-          "locales": [
-            "/api/locales/9"
-          ],
+          "locales": ["/api/locales/9"],
           "permission": false
         }
       ]
@@ -343,15 +261,12 @@
         {
           "id": 1,
           "name": "produtos",
-          "permission": [
-            "w",
-            "r"
-          ]
+          "permission": ["r"]
         },
         {
           "id": 2,
           "name": "categorias",
-          "permission": []
+          "permission": ["r"]
         },
         {
           "id": 3,
@@ -395,41 +310,36 @@
         },
         {
           "id": 11,
-          "name": "proformas",
-          "permission": []
-        },
-        {
-          "id": 12,
           "name": "campanhas",
           "permission": []
         },
         {
-          "id": 13,
+          "id": 12,
           "name": "destaques",
           "permission": []
         },
         {
-          "id": 14,
+          "id": 13,
           "name": "envio",
           "permission": []
         },
         {
-          "id": 15,
+          "id": 14,
           "name": "tickets",
           "permission": []
         },
         {
-          "id": 16,
+          "id": 15,
           "name": "interação",
           "permission": []
         },
         {
-          "id": 17,
+          "id": 16,
           "name": "tags",
           "permission": []
         },
         {
-          "id": 18,
+          "id": 17,
           "name": "auxiliares",
           "permission": []
         }
@@ -440,9 +350,7 @@
           "key": "riva",
           "host": "riva.dev",
           "external": false,
-          "locales": [
-            "/api/locales/8"
-          ],
+          "locales": ["/api/locales/8"],
           "permission": true
         },
         {
@@ -450,18 +358,14 @@
           "key": "cacifos",
           "host": "cacifos.dev",
           "external": false,
-          "locales": [
-            "/api/locales/9"
-          ]
+          "locales": ["/api/locales/9"]
         },
         {
           "id": 6,
           "key": "test",
           "host": "localhost",
           "external": false,
-          "locales": [
-            "/api/locales/9"
-          ]
+          "locales": ["/api/locales/9"]
         }
       ]
     }
@@ -474,27 +378,27 @@
     },
     {
       "id": 2,
-      "name": "clientes",
+      "name": "categorias",
       "permission": []
     },
     {
       "id": 3,
-      "name": "proformas",
+      "name": "grupos",
       "permission": []
     },
     {
       "id": 4,
-      "name": "tickets",
+      "name": "importações",
       "permission": []
     },
     {
       "id": 5,
-      "name": "estatísticas",
+      "name": "fornecedores",
       "permission": []
     },
     {
       "id": 6,
-      "name": "categorias",
+      "name": "clientes",
       "permission": []
     },
     {
@@ -504,56 +408,51 @@
     },
     {
       "id": 8,
-      "name": "campanhas",
-      "permission": []
-    },
-    {
-      "id": 9,
-      "name": "integração",
-      "permission": []
-    },
-    {
-      "id": 10,
-      "name": "objetivos",
-      "permission": []
-    },
-    {
-      "id": 11,
-      "name": "importações",
-      "permission": []
-    },
-    {
-      "id": 12,
       "name": "encomendas",
       "permission": []
     },
     {
-      "id": 13,
-      "name": "destaques",
-      "permission": []
-    },
-    {
-      "id": 14,
-      "name": "tags",
-      "permission": []
-    },
-    {
-      "id": 15,
-      "name": "fornecedores",
-      "permission": []
-    },
-    {
-      "id": 16,
+      "id": 9,
       "name": "loja",
       "permission": []
     },
     {
-      "id": 17,
+      "id": 10,
+      "name": "proformas",
+      "permission": []
+    },
+    {
+      "id": 11,
+      "name": "campanhas",
+      "permission": []
+    },
+    {
+      "id": 12,
+      "name": "destaques",
+      "permission": []
+    },
+    {
+      "id": 13,
       "name": "envio",
       "permission": []
     },
     {
-      "id": 18,
+      "id": 14,
+      "name": "tickets",
+      "permission": []
+    },
+    {
+      "id": 15,
+      "name": "interação",
+      "permission": []
+    },
+    {
+      "id": 16,
+      "name": "tags",
+      "permission": []
+    },
+    {
+      "id": 17,
       "name": "auxiliares",
       "permission": []
     }
@@ -855,52 +754,6 @@
     {
       "name": "en",
       "id": 3
-    }
-  ],
-  "providers": [
-    {
-      "id": 1,
-      "name": "Fornecedor 1"
-    },
-    {
-      "id": 2,
-      "name": "Fornecedor 2"
-    },
-    {
-      "id": 3,
-      "name": "Fornecedor 3"
-    },
-    {
-      "id": 4,
-      "name": "Fornecedor 4"
-    },
-    {
-      "id": 5,
-      "name": "Fornecedor 5"
-    }
-  ],
-  "productProviderRel": [
-    {
-      "productId": 1,
-      "providerId": 1,
-      "ref": 123,
-      "ean": 456,
-      "price": 100,
-      "trackingProduct": 7,
-      "trackingGroup": 12,
-      "trackingProvider": 15,
-      "id": 1
-    },
-    {
-      "productId": 1,
-      "providerId": 2,
-      "ref": 233,
-      "ean": 455,
-      "price": 200,
-      "trackingProduct": 6,
-      "trackingGroup": 10,
-      "trackingProvider": 13,
-      "id": 2
     }
   ],
   "storages": [
