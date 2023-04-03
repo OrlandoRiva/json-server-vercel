@@ -713,32 +713,32 @@
   "attributeValues": [
     {
       "id": 1,
-      "attributeId": 3,
+      "attributeId": 1,
       "value": "S"
     },
     {
       "id": 2,
-      "attributeId": 3,
+      "attributeId": 1,
       "value": "M"
     },
     {
       "id": 3,
-      "attributeId": 3,
+      "attributeId": 1,
       "value": "L"
     },
     {
       "id": 4,
-      "attributeId": 4,
+      "attributeId": 2,
       "value": "Verde"
     },
     {
       "id": 5,
-      "attributeId": 4,
+      "attributeId": 2,
       "value": "Azul"
     },
     {
       "id": 6,
-      "attributeId": 4,
+      "attributeId": 2,
       "value": "Vermelho"
     }
   ],
@@ -820,34 +820,7 @@
       "multiple": 20
     }
   ],
-  "productsRel": [
-    {
-      "productId": 1,
-      "categoryId": 2,
-      "name": "Product 1",
-      "ref": "Ref 1",
-      "ean": "Ean 1",
-      "id": 2
-    },
-    {
-      "productId": 1,
-      "categoryId": 2,
-      "name": "Product 3",
-      "ref": "Ref 3",
-      "ean": "Ean 3",
-      "id": 3
-    }
-  ],
-  "productsOpt": [
-    {
-      "productId": 1,
-      "categoryId": 1,
-      "name": "Product 1",
-      "ref": "Ref 1",
-      "ean": "Ean 1",
-      "id": 1
-    }
-  ],
+  "productsOpt": [],
   "taxes": [
     {
       "id": 1,
