@@ -457,20 +457,6 @@
       "permission": []
     }
   ],
-  "languages": [
-    {
-      "name": "pt",
-      "id": 1
-    },
-    {
-      "name": "es",
-      "id": 2
-    },
-    {
-      "name": "en",
-      "id": 3
-    }
-  ],
   "storages": [
     {
       "name": "A1",
@@ -514,38 +500,6 @@
     }
   ],
   "productsOpt": [],
-  "taxes": [
-    {
-      "id": 1,
-      "percentage": 6
-    },
-    {
-      "id": 2,
-      "percentage": 13
-    },
-    {
-      "id": 3,
-      "percentage": 23
-    }
-  ],
-  "campaigns": [
-    {
-      "id": 1,
-      "name": "Dia da Mãe"
-    },
-    {
-      "id": 2,
-      "name": "Dia da Pai"
-    },
-    {
-      "id": 3,
-      "name": "Natal"
-    },
-    {
-      "id": 4,
-      "name": "Sem Iva"
-    }
-  ],
   "notifications": [
     {
       "id": 1,
