@@ -521,7 +521,7 @@
   "sales_data": [
     {
       "id": "RV",
-      "color": "#2357bc",
+      "color": "#d5b29f",
       "data_month_amount": [
         {
           "x": "1",
@@ -805,7 +805,7 @@
     },
     {
       "id": "MDE",
-      "color": "#2fbbb3",
+      "color": "#8ba7b5",
       "data_month_amount": [
         {
           "x": "1",
@@ -1145,7 +1145,7 @@
     },
     {
       "id": "VP",
-      "color": "#07b151",
+      "color": "#e1b8e0",
       "data_month_amount": [
         {
           "x": "1",
@@ -1429,7 +1429,7 @@
     },
     {
       "id": "CCF",
-      "color": "#8cc640",
+      "color": "#f1b5b5",
       "data_month_amount": [
         {
           "x": "1",
@@ -1769,7 +1769,7 @@
     },
     {
       "id": "CAD",
-      "color": "#4c489b",
+      "color": "#c9e0c3",
       "data_month_amount": [
         {
           "x": "1",
@@ -2109,7 +2109,7 @@
     },
     {
       "id": "RVES",
-      "color": "#733b97",
+      "color": "#f0e6b3",
       "data_month_amount": [
         {
           "x": "1",
