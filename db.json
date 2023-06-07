@@ -14,87 +14,138 @@
         {
           "id": 1,
           "name": "produtos",
-          "permission": ["w", "r"]
+          "permission": [
+            "w",
+            "r"
+          ]
         },
         {
           "id": 2,
           "name": "categorias",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 3,
           "name": "grupos",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 4,
           "name": "importações",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 5,
           "name": "fornecedores",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 6,
           "name": "clientes",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 7,
           "name": "cupões",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 8,
           "name": "encomendas",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 9,
           "name": "orçamentos",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 10,
           "name": "proformas",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 11,
           "name": "campanhas",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 12,
           "name": "destaques",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 13,
           "name": "tickets",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 14,
           "name": "interações",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 15,
           "name": "tags",
-          "permission": ["w", "r"]
+          "permission": [
+            "w",
+            "r"
+          ]
         },
         {
           "id": 16,
           "name": "atributos",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 17,
           "name": "auxiliares",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         }
       ],
       "storefronts": [
@@ -103,7 +154,9 @@
           "key": "riva",
           "host": "riva.dev",
           "external": false,
-          "locales": ["/api/locales/8"],
+          "locales": [
+            "/api/locales/8"
+          ],
           "permission": true
         },
         {
@@ -111,7 +164,9 @@
           "key": "cacifos",
           "host": "cacifos.dev",
           "external": false,
-          "locales": ["/api/locales/9"],
+          "locales": [
+            "/api/locales/9"
+          ],
           "permission": true
         },
         {
@@ -119,7 +174,9 @@
           "key": "test",
           "host": "localhost",
           "external": false,
-          "locales": ["/api/locales/9"],
+          "locales": [
+            "/api/locales/9"
+          ],
           "permission": true
         }
       ]
@@ -138,17 +195,26 @@
         {
           "id": 1,
           "name": "produtos",
-          "permission": ["w", "r"]
+          "permission": [
+            "w",
+            "r"
+          ]
         },
         {
           "id": 2,
           "name": "categorias",
-          "permission": ["w", "r"]
+          "permission": [
+            "w",
+            "r"
+          ]
         },
         {
           "id": 3,
           "name": "grupos",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 4,
@@ -158,12 +224,16 @@
         {
           "id": 5,
           "name": "fornecedores",
-          "permission": ["r"]
+          "permission": [
+            "r"
+          ]
         },
         {
           "id": 6,
           "name": "clientes",
-          "permission": ["r"]
+          "permission": [
+            "r"
+          ]
         },
         {
           "id": 7,
@@ -227,7 +297,9 @@
           "key": "riva",
           "host": "riva.dev",
           "external": false,
-          "locales": ["/api/locales/8"],
+          "locales": [
+            "/api/locales/8"
+          ],
           "permission": true
         },
         {
@@ -235,14 +307,18 @@
           "key": "cacifos",
           "host": "cacifos.dev",
           "external": false,
-          "locales": ["/api/locales/9"]
+          "locales": [
+            "/api/locales/9"
+          ]
         },
         {
           "id": 6,
           "key": "test",
           "host": "localhost",
           "external": false,
-          "locales": ["/api/locales/9"],
+          "locales": [
+            "/api/locales/9"
+          ],
           "permission": false
         }
       ]
@@ -261,12 +337,17 @@
         {
           "id": 1,
           "name": "produtos",
-          "permission": ["r", "w"]
+          "permission": [
+            "r",
+            "w"
+          ]
         },
         {
           "id": 2,
           "name": "categorias",
-          "permission": ["r"]
+          "permission": [
+            "r"
+          ]
         },
         {
           "id": 3,
@@ -350,7 +431,9 @@
           "key": "riva",
           "host": "riva.dev",
           "external": false,
-          "locales": ["/api/locales/8"],
+          "locales": [
+            "/api/locales/8"
+          ],
           "permission": true
         },
         {
@@ -358,14 +441,18 @@
           "key": "cacifos",
           "host": "cacifos.dev",
           "external": false,
-          "locales": ["/api/locales/9"]
+          "locales": [
+            "/api/locales/9"
+          ]
         },
         {
           "id": 6,
           "key": "test",
           "host": "localhost",
           "external": false,
-          "locales": ["/api/locales/9"]
+          "locales": [
+            "/api/locales/9"
+          ]
         }
       ]
     }
@@ -516,6 +603,67 @@
       "message": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
       "link": "",
       "seen": false
+    }
+  ],
+  "proforms": [
+    {
+      "client": 3,
+      "iban": 2,
+      "products": [
+        {
+          "id": null,
+          "product_name": "Cacifo Metálico Triplo 3 Cacifos 1700x900x500 mm S/ Pés Riva",
+          "product_stock": 10,
+          "product_description": "ABC",
+          "product_quantity": "3",
+          "product_price": "221.4900",
+          "product_discount": "10€",
+          "product_final_price": "211.49",
+          "alternatives": [
+            {
+              "id": null,
+              "product_name": "Cadeira de Escritório Giratória Tecido Cinzento-claro",
+              "product_stock": 0,
+              "product_description": "BBB",
+              "product_quantity": "5",
+              "product_price": "107.9900",
+              "product_discount": "20",
+              "product_final_price": "86.39",
+              "alternative": true,
+              "product_ref": "VX.3090194",
+              "product_ean": null,
+              "fakeId": 2
+            }
+          ],
+          "product_ref": "RV.DNG-03.CZSEMPES",
+          "product_ean": "5,60E+12",
+          "fakeId": 1
+        }
+      ],
+      "proform_notes": "Lorem Ipsum",
+      "id": 1
+    }
+  ],
+  "ibans": [
+    {
+      "id": 1,
+      "code": 6509210720
+    },
+    {
+      "id": 2,
+      "code": 7860607137
+    },
+    {
+      "id": 3,
+      "code": 3381395904
+    },
+    {
+      "id": 4,
+      "code": 2671880512
+    },
+    {
+      "id": 5,
+      "code": 1951150236
     }
   ],
   "sales_data": [
