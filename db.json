@@ -607,41 +607,256 @@
   ],
   "proforms": [
     {
-      "client": 3,
-      "iban": 2,
+      "ref": "PRF-54",
+      "client": {
+        "id": 2,
+        "email": "srgpinho@sapo.pt",
+        "time_created": "2023-06-06T14:23:45+00:00",
+        "time_last_visited": null,
+        "time_last_authed": null,
+        "google_id": null,
+        "apple_id": null,
+        "facebook_id": null,
+        "email_verified": true,
+        "name_first": "Sérgio Pinho",
+        "name_last": "Pinho",
+        "business": null,
+        "phone_number": "919618083",
+        "address_shipping": null,
+        "address_billing": null,
+        "has_password": true,
+        "consent": {
+          "id": 4,
+          "time": "2023-06-06T14:23:45+00:00",
+          "by_admin": false,
+          "marketing_via_email": true,
+          "marketing_via_phone": true
+        },
+        "addresses_active": [
+          {
+            "id": 4,
+            "time": "2023-06-06T15:07:17+00:00",
+            "active": true,
+            "name": "CASA SÉRGIO",
+            "addressee": "Sérgio Pinho",
+            "phone_number": "919618083",
+            "address_line_1": "TRAVESSA DO NOVAINHO",
+            "address_line_2": "26",
+            "postal_code": "4710-048",
+            "city": "Braga",
+            "country": "Portugal",
+            "tax_code": "1234566789"
+          }
+        ]
+      },
+      "iban": {
+        "id": 2,
+        "name": "Example BankAccount #2",
+        "swift": "12345",
+        "iban": "12345",
+        "nib": "12345",
+        "storefronts": [
+          {
+            "id": 1,
+            "key": "riva",
+            "host": "riva.dev"
+          },
+          {
+            "id": 2,
+            "key": "cacifos",
+            "host": "cacifos.dev"
+          },
+          {
+            "id": 3,
+            "key": "test",
+            "host": "localhost"
+          }
+        ]
+      },
       "products": [
         {
           "id": null,
-          "product_name": "Cacifo Metálico Triplo 3 Cacifos 1700x900x500 mm S/ Pés Riva",
-          "product_stock": 10,
-          "product_description": "ABC",
-          "product_quantity": "3",
-          "product_price": "221.4900",
-          "product_discount": "10€",
-          "product_final_price": "211.49",
+          "name": "Cacifo Metálico",
+          "description": " Duplo 2 Cacifos 1700x600x500 mm S/ Pés",
+          "quantity": "2",
+          "price": "149.86",
+          "is_abs": false,
+          "discount": "20",
+          "final_price": 149.86,
           "alternatives": [
             {
               "id": null,
-              "product_name": "Cadeira de Escritório Giratória Tecido Cinzento-claro",
-              "product_stock": 0,
-              "product_description": "BBB",
-              "product_quantity": "5",
-              "product_price": "107.9900",
-              "product_discount": "20",
-              "product_final_price": "86.39",
-              "alternative": true,
-              "product_ref": "VX.3090194",
+              "name": "Cadeira Operativa Luanda",
+              "description": " White Tecido Cinza Riva",
+              "quantity": "4",
+              "price": "173.59",
+              "is_abs": false,
+              "discount": "40",
+              "final_price": 173.59,
+              "alternatives": [],
+              "product_id": 505,
+              "product_ref": "RV.STL-R2BBR",
               "product_ean": null,
-              "fakeId": 2
+              "product_media": "https://www.ricardoevaz.com/images_cache/thumb_393x360_cadeira-dsc9019-2.jpg",
+              "fakeId": 3,
+              "type": "alternative",
+              "parentId": 2
             }
           ],
-          "product_ref": "RV.DNG-03.CZSEMPES",
-          "product_ean": "5,60E+12",
-          "fakeId": 1
+          "product_id": 455,
+          "product_ref": "0102.10.11-S/PES",
+          "product_ean": null,
+          "product_media": "https://www.ricardoevaz.com/images_cache/thumb_256x360_cacifo-duplo-duas-portas-dsc9080-sem-teto-sem-ps.jpg",
+          "fakeId": 2,
+          "type": "normal"
         }
       ],
-      "proform_notes": "Lorem Ipsum",
+      "seeAlso": [],
+      "notes": "O cliente pretende receber a proforma até dia 20.06",
+      "time_created": "12/06/2023 - 09:00",
+      "time_due": "12/07/2023 - 09:00",
+      "state": {
+        "id": 0,
+        "key": "RASCUNHO",
+        "time_state": "12/06/2023 - 09:00"
+      },
+      "values": {
+        "total": "1000.07",
+        "sub_total": "994.08",
+        "proform_iva": false,
+        "iva": "",
+        "is_abs": "",
+        "discount": "",
+        "shipping": 5.99
+      },
+      "user": "",
       "id": 1
+    },
+    {
+      "ref": "PRF-69",
+      "client": {
+        "id": 1,
+        "email": "customer@example.com",
+        "time_created": "2023-06-06T13:01:03+00:00",
+        "time_last_visited": null,
+        "time_last_authed": null,
+        "google_id": null,
+        "apple_id": null,
+        "facebook_id": null,
+        "email_verified": true,
+        "name_first": "Customer",
+        "name_last": "Example",
+        "business": null,
+        "phone_number": null,
+        "address_shipping": null,
+        "address_billing": null,
+        "has_password": true,
+        "consent": {
+          "id": 3,
+          "time": "2023-06-06T13:01:04+00:00",
+          "by_admin": false,
+          "marketing_via_email": true,
+          "marketing_via_phone": false
+        },
+        "addresses_active": [
+          {
+            "id": 2,
+            "time": "2023-06-06T13:01:04+00:00",
+            "active": true,
+            "name": "Address 2",
+            "addressee": "test",
+            "phone_number": "test",
+            "address_line_1": "test",
+            "address_line_2": null,
+            "postal_code": "test",
+            "city": "test",
+            "country": "test",
+            "tax_code": null
+          }
+        ]
+      },
+      "iban": {
+        "id": 1,
+        "name": "Example BankAccount #1",
+        "swift": "12345",
+        "iban": "12345",
+        "nib": "12345",
+        "storefronts": [
+          {
+            "id": 1,
+            "key": "riva",
+            "host": "riva.dev"
+          },
+          {
+            "id": 2,
+            "key": "cacifos",
+            "host": "cacifos.dev"
+          },
+          {
+            "id": 3,
+            "key": "test",
+            "host": "localhost"
+          }
+        ]
+      },
+      "products": [
+        {
+          "id": null,
+          "name": "Cacifo Metálico",
+          "description": " Duplo Cinza 8 Cacifos 1900x600x500mm Standard",
+          "quantity": "1",
+          "price": "303.02",
+          "is_abs": false,
+          "discount": "20",
+          "final_price": "242.42",
+          "alternatives": [
+            {
+              "id": null,
+              "name": "Cadeira de Escritório",
+              "description": " Executiva Barcelona Black Riva",
+              "quantity": "1",
+              "price": "152.31",
+              "is_abs": null,
+              "discount": null,
+              "final_price": "152.31",
+              "alternatives": [],
+              "product_id": 502,
+              "product_ref": "RV.STL-28A.PT",
+              "product_ean": "6,00373E+11",
+              "product_media": "https://www.ricardoevaz.com/images_cache/thumb_264x360_rvstl-28apt.PNG",
+              "fakeId": 4,
+              "type": "alternative",
+              "parentId": 3
+            }
+          ],
+          "product_id": 458,
+          "product_ref": "IND.0109.05.11.CZ",
+          "product_ean": "5,60E+12",
+          "product_media": "https://www.ricardoevaz.com/images_cache/thumb_184x360_ind01090511cz.PNG",
+          "fakeId": 3,
+          "type": "normal"
+        }
+      ],
+      "seeAlso": [],
+      "notes": "",
+      "time_created": "12/06/2023 - 09:14",
+      "time_due": "12/07/2023 - 09:14",
+      "state": {
+        "id": 0,
+        "key": "RASCUNHO",
+        "time_state": "12/06/2023 - 09:14"
+      },
+      "values": {
+        "total": "491.51",
+        "sub_total": "394.73",
+        "proform_iva": true,
+        "iva": "90.79",
+        "is_abs": "",
+        "discount": "",
+        "shipping": 5.99
+      },
+      "user": "",
+      "id": 2
     }
   ],
   "ibans": [
