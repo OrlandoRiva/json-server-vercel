@@ -61,14 +61,6 @@
         },
         {
           "id": 7,
-          "name": "cupões",
-          "permission": [
-            "r",
-            "w"
-          ]
-        },
-        {
-          "id": 8,
           "name": "encomendas",
           "permission": [
             "r",
@@ -76,8 +68,16 @@
           ]
         },
         {
+          "id": 8,
+          "name": "wishlist",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
           "id": 9,
-          "name": "orçamentos",
+          "name": "cupões",
           "permission": [
             "r",
             "w"
@@ -85,7 +85,7 @@
         },
         {
           "id": 10,
-          "name": "proformas",
+          "name": "orçamentos",
           "permission": [
             "r",
             "w"
@@ -93,7 +93,7 @@
         },
         {
           "id": 11,
-          "name": "campanhas",
+          "name": "proformas",
           "permission": [
             "r",
             "w"
@@ -101,7 +101,7 @@
         },
         {
           "id": 12,
-          "name": "destaques",
+          "name": "campanhas",
           "permission": [
             "r",
             "w"
@@ -109,7 +109,7 @@
         },
         {
           "id": 13,
-          "name": "tickets",
+          "name": "destaques",
           "permission": [
             "r",
             "w"
@@ -117,7 +117,7 @@
         },
         {
           "id": 14,
-          "name": "interações",
+          "name": "tickets",
           "permission": [
             "r",
             "w"
@@ -125,6 +125,14 @@
         },
         {
           "id": 15,
+          "name": "interações",
+          "permission": [
+            "r",
+            "w"
+          ]
+        },
+        {
+          "id": 16,
           "name": "tags",
           "permission": [
             "w",
@@ -132,7 +140,7 @@
           ]
         },
         {
-          "id": 16,
+          "id": 17,
           "name": "atributos",
           "permission": [
             "r",
@@ -140,7 +148,7 @@
           ]
         },
         {
-          "id": 17,
+          "id": 18,
           "name": "auxiliares",
           "permission": [
             "r",
@@ -237,56 +245,61 @@
         },
         {
           "id": 7,
-          "name": "cupões",
-          "permission": []
-        },
-        {
-          "id": 8,
           "name": "encomendas",
           "permission": []
         },
         {
+          "id": 8,
+          "name": "wishlist",
+          "permission": []
+        },
+        {
           "id": 9,
-          "name": "orçamentos",
+          "name": "cupões",
           "permission": []
         },
         {
           "id": 10,
-          "name": "proformas",
+          "name": "orçamentos",
           "permission": []
         },
         {
           "id": 11,
-          "name": "campanhas",
+          "name": "proformas",
           "permission": []
         },
         {
           "id": 12,
-          "name": "destaques",
+          "name": "campanhas",
           "permission": []
         },
         {
           "id": 13,
-          "name": "tickets",
+          "name": "destaques",
           "permission": []
         },
         {
           "id": 14,
-          "name": "interações",
+          "name": "tickets",
           "permission": []
         },
         {
           "id": 15,
-          "name": "tags",
+          "name": "interações",
           "permission": []
         },
         {
           "id": 16,
-          "name": "atributos",
+          "name": "tags",
           "permission": []
         },
         {
           "id": 17,
+          "name": "atributos",
+          "permission": []
+        },
+        {
+          "id": 18,
           "name": "auxiliares",
           "permission": []
         }
@@ -371,56 +384,61 @@
         },
         {
           "id": 7,
-          "name": "cupões",
-          "permission": []
-        },
-        {
-          "id": 8,
           "name": "encomendas",
           "permission": []
         },
         {
+          "id": 8,
+          "name": "wishlist",
+          "permission": []
+        },
+        {
           "id": 9,
-          "name": "orçamentos",
+          "name": "cupões",
           "permission": []
         },
         {
           "id": 10,
-          "name": "proformas",
+          "name": "orçamentos",
           "permission": []
         },
         {
           "id": 11,
-          "name": "campanhas",
+          "name": "proformas",
           "permission": []
         },
         {
           "id": 12,
-          "name": "destaques",
+          "name": "campanhas",
           "permission": []
         },
         {
           "id": 13,
-          "name": "tickets",
+          "name": "destaques",
           "permission": []
         },
         {
           "id": 14,
-          "name": "interações",
+          "name": "tickets",
           "permission": []
         },
         {
           "id": 15,
-          "name": "tags",
+          "name": "interações",
           "permission": []
         },
         {
           "id": 16,
-          "name": "atributos",
+          "name": "tags",
           "permission": []
         },
         {
           "id": 17,
+          "name": "atributos",
+          "permission": []
+        },
+        {
+          "id": 18,
           "name": "auxiliares",
           "permission": []
         }
@@ -490,51 +508,56 @@
     },
     {
       "id": 7,
-      "name": "cupões",
-      "permission": []
-    },
-    {
-      "id": 8,
       "name": "encomendas",
       "permission": []
     },
     {
+      "id": 8,
+      "name": "wishlist",
+      "permission": []
+    },
+    {
       "id": 9,
-      "name": "orçamentos",
+      "name": "cupões",
       "permission": []
     },
     {
       "id": 10,
-      "name": "proformas",
+      "name": "orçamentos",
       "permission": []
     },
     {
       "id": 11,
-      "name": "campanhas",
+      "name": "proformas",
       "permission": []
     },
     {
       "id": 12,
-      "name": "destaques",
+      "name": "campanhas",
       "permission": []
     },
     {
       "id": 13,
-      "name": "tickets",
+      "name": "destaques",
       "permission": []
     },
     {
       "id": 14,
-      "name": "interações",
+      "name": "tickets",
       "permission": []
     },
     {
       "id": 15,
-      "name": "tags",
+      "name": "interações",
       "permission": []
     },
     {
       "id": 16,
+      "name": "tags",
+      "permission": []
+    },
+    {
+      "id": 17,
       "name": "atributos",
       "permission": []
     },
@@ -721,12 +744,11 @@
         "time_state": "12/06/2023 - 09:00"
       },
       "values": {
-        "total": "1000.07",
+        "total": "980.19",
         "sub_total": "994.08",
-        "proform_iva": false,
         "iva": "",
-        "is_abs": "",
-        "discount": "",
+        "is_abs": false,
+        "discount": "20",
         "shipping": 5.99
       },
       "user": "",
@@ -857,6 +879,113 @@
       },
       "user": "",
       "id": 2
+    },
+    {
+      "ref": "PRF-33",
+      "client": {
+        "id": 5,
+        "email": "sergiopinho@nostri.pt",
+        "time_created": "2023-06-06T16:20:32+00:00",
+        "time_last_visited": null,
+        "time_last_authed": null,
+        "google_id": null,
+        "apple_id": null,
+        "facebook_id": null,
+        "email_verified": false,
+        "name_first": "Sérgio",
+        "name_last": "Teste Nostri",
+        "business": null,
+        "phone_number": null,
+        "address_shipping": null,
+        "address_billing": null,
+        "has_password": true,
+        "consent": {
+          "id": 6,
+          "time": "2023-06-06T16:20:33+00:00",
+          "by_admin": false,
+          "marketing_via_email": true,
+          "marketing_via_phone": false
+        },
+        "addresses_active": [
+          {
+            "id": 5,
+            "time": "2023-06-06T16:21:30+00:00",
+            "active": true,
+            "name": "Casa Nostri",
+            "addressee": "Sérgio Pinho",
+            "phone_number": "919618083",
+            "address_line_1": "Rua de Teste",
+            "address_line_2": null,
+            "postal_code": "4700-123",
+            "city": "BRaga",
+            "country": "Portugal",
+            "tax_code": "12345678"
+          }
+        ]
+      },
+      "iban": {
+        "id": 2,
+        "name": "Example BankAccount #2",
+        "swift": "12345",
+        "iban": "12345",
+        "nib": "12345",
+        "storefronts": [
+          {
+            "id": 1,
+            "key": "riva",
+            "host": "riva.dev"
+          },
+          {
+            "id": 2,
+            "key": "cacifos",
+            "host": "cacifos.dev"
+          },
+          {
+            "id": 3,
+            "key": "test",
+            "host": "localhost"
+          }
+        ]
+      },
+      "products": [
+        {
+          "id": null,
+          "name": "Cacifo Metálico",
+          "description": " Simples 2 Cacifos 1900x300x500mm Moeda C/recolha",
+          "quantity": "1",
+          "price": "274.51",
+          "is_abs": false,
+          "discount": "20",
+          "final_price": "219.61",
+          "alternatives": [],
+          "product_id": 461,
+          "product_ref": "0105.10.07",
+          "product_ean": null,
+          "product_media": "https://www.ricardoevaz.com/images_cache/thumb_294x360_105.10.07_52663abef0835.jpg",
+          "fakeId": 2,
+          "type": "normal"
+        }
+      ],
+      "seeAlso": [],
+      "notes": "",
+      "time_created": "12/06/2023 - 11:19",
+      "time_due": "12/07/2023 - 11:19",
+      "state": {
+        "id": 0,
+        "key": "RASCUNHO",
+        "time_state": "12/06/2023 - 11:19"
+      },
+      "values": {
+        "total": "225.60",
+        "sub_total": "219.61",
+        "proform_iva": false,
+        "iva": "",
+        "is_abs": "",
+        "discount": "",
+        "shipping": 5.99
+      },
+      "user": "",
+      "id": 3
     }
   ],
   "ibans": [
