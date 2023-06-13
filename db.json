@@ -630,7 +630,135 @@
   ],
   "proforms": [
     {
-      "ref": "PRF-54",
+      "ref": "PRF-3",
+      "client": {
+        "id": 6,
+        "email": "orlando.carvalho@riva-office.pt",
+        "time_created": "2023-06-12T09:02:08+00:00",
+        "time_last_visited": null,
+        "time_last_authed": null,
+        "google_id": null,
+        "apple_id": null,
+        "facebook_id": null,
+        "email_verified": true,
+        "name_first": "Orlando",
+        "name_last": "Carvalho",
+        "business": null,
+        "phone_number": null,
+        "address_shipping": null,
+        "address_billing": null,
+        "has_password": true,
+        "consent": {
+          "id": 7,
+          "time": "2023-06-12T09:02:09+00:00",
+          "by_admin": false,
+          "marketing_via_email": true,
+          "marketing_via_phone": false
+        },
+        "addresses_active": [
+          {
+            "id": 6,
+            "time": "2023-06-12T09:03:32+00:00",
+            "active": true,
+            "name": "Casa",
+            "addressee": "Orlando Carvalho",
+            "phone_number": "911828026",
+            "address_line_1": "Rua Sub Carreira Nº 22 Celeirós",
+            "address_line_2": null,
+            "postal_code": "4705",
+            "city": "457",
+            "country": "Portugal",
+            "tax_code": "123456789"
+          }
+        ]
+      },
+      "iban": {
+        "id": 9,
+        "name": "Sérgio Pinho",
+        "swift": "wift",
+        "iban": "PT501234567890",
+        "nib": "1234567890",
+        "storefronts": [
+          {
+            "id": 1,
+            "key": "riva",
+            "host": "riva.dev"
+          }
+        ]
+      },
+      "products": [
+        {
+          "id": null,
+          "name": "Cacifo Metálico",
+          "description": "Duplo 2 Cacifos 1700x600x500 mm S/ Pés",
+          "quantity": "1",
+          "price": "149.86",
+          "is_abs": null,
+          "discount": null,
+          "final_price": "149.86",
+          "alternatives": [],
+          "product_id": 455,
+          "product_ref": "0102.10.11-S/PES",
+          "product_ean": null,
+          "product_media": "https://www.ricardoevaz.com/images_cache/thumb_256x360_cacifo-duplo-duas-portas-dsc9080-sem-teto-sem-ps.jpg",
+          "fakeId": 2,
+          "type": "normal"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": null,
+          "name": "Cacifo Metálico",
+          "description": " Triplo 3 Cacifos 1700x900x500mm Standard",
+          "price": "210.45",
+          "is_abs": null,
+          "discount": null,
+          "final_price": "210.45",
+          "alternatives": [],
+          "type": "see_also",
+          "product_id": 451,
+          "product_ref": "0103.20.11",
+          "product_ean": "5,6086E+12",
+          "product_media": "https://www.ricardoevaz.com/images_cache/thumb_176x360_cacifotriplo1_5b59a5df22fec.JPG",
+          "fakeId": 1
+        }
+      ],
+      "notes": "",
+      "time_created": "13/06/2023 - 11:48",
+      "time_due": "13/07/2023 - 11:48",
+      "state": {
+        "id": 1,
+        "key": "ENVIO",
+        "time_state": "13/06/2023 - 11:48",
+        "user": ""
+      },
+      "states": [
+        {
+          "id": 0,
+          "key": "RASCUNHO",
+          "time_state": "13/06/2023 - 11:48"
+        },
+        {
+          "id": 1,
+          "key": "ENVIO",
+          "time_state": "13/06/2023 - 11:48",
+          "user": ""
+        }
+      ],
+      "values": {
+        "total": "190.32",
+        "sub_total": "149.86",
+        "proform_iva": true,
+        "iva": "34.47",
+        "is_abs": "",
+        "discount": "",
+        "shipping": 5.99
+      },
+      "user": "",
+      "id": 7
+    },
+    {
+      "ref": "PRF-7",
       "client": {
         "id": 2,
         "email": "srgpinho@sapo.pt",
@@ -641,7 +769,7 @@
         "apple_id": null,
         "facebook_id": null,
         "email_verified": true,
-        "name_first": "Sérgio Pinho",
+        "name_first": "Sérgio",
         "name_last": "Pinho",
         "business": null,
         "phone_number": "919618083",
@@ -657,8 +785,8 @@
         },
         "addresses_active": [
           {
-            "id": 4,
-            "time": "2023-06-06T15:07:17+00:00",
+            "id": 7,
+            "time": "2023-06-12T10:00:30+00:00",
             "active": true,
             "name": "CASA SÉRGIO",
             "addressee": "Sérgio Pinho",
@@ -669,249 +797,12 @@
             "city": "Braga",
             "country": "Portugal",
             "tax_code": "1234566789"
-          }
-        ]
-      },
-      "iban": {
-        "id": 2,
-        "name": "Example BankAccount #2",
-        "swift": "12345",
-        "iban": "12345",
-        "nib": "12345",
-        "storefronts": [
-          {
-            "id": 1,
-            "key": "riva",
-            "host": "riva.dev"
           },
           {
-            "id": 2,
-            "key": "cacifos",
-            "host": "cacifos.dev"
-          },
-          {
-            "id": 3,
-            "key": "test",
-            "host": "localhost"
-          }
-        ]
-      },
-      "products": [
-        {
-          "id": null,
-          "name": "Cacifo Metálico",
-          "description": " Duplo 2 Cacifos 1700x600x500 mm S/ Pés",
-          "quantity": "2",
-          "price": "149.86",
-          "is_abs": false,
-          "discount": "20",
-          "final_price": 149.86,
-          "alternatives": [
-            {
-              "id": null,
-              "name": "Cadeira Operativa Luanda",
-              "description": " White Tecido Cinza Riva",
-              "quantity": "4",
-              "price": "173.59",
-              "is_abs": false,
-              "discount": "40",
-              "final_price": 173.59,
-              "alternatives": [],
-              "product_id": 505,
-              "product_ref": "RV.STL-R2BBR",
-              "product_ean": null,
-              "product_media": "https://www.ricardoevaz.com/images_cache/thumb_393x360_cadeira-dsc9019-2.jpg",
-              "fakeId": 3,
-              "type": "alternative",
-              "parentId": 2
-            }
-          ],
-          "product_id": 455,
-          "product_ref": "0102.10.11-S/PES",
-          "product_ean": null,
-          "product_media": "https://www.ricardoevaz.com/images_cache/thumb_256x360_cacifo-duplo-duas-portas-dsc9080-sem-teto-sem-ps.jpg",
-          "fakeId": 2,
-          "type": "normal"
-        }
-      ],
-      "seeAlso": [],
-      "notes": "O cliente pretende receber a proforma até dia 20.06",
-      "time_created": "12/06/2023 - 09:00",
-      "time_due": "12/07/2023 - 09:00",
-      "state": {
-        "id": 0,
-        "key": "RASCUNHO",
-        "time_state": "12/06/2023 - 09:00"
-      },
-      "values": {
-        "total": "980.19",
-        "sub_total": "994.08",
-        "iva": "",
-        "is_abs": false,
-        "discount": "20",
-        "shipping": 5.99
-      },
-      "user": "",
-      "id": 1
-    },
-    {
-      "ref": "PRF-69",
-      "client": {
-        "id": 1,
-        "email": "customer@example.com",
-        "time_created": "2023-06-06T13:01:03+00:00",
-        "time_last_visited": null,
-        "time_last_authed": null,
-        "google_id": null,
-        "apple_id": null,
-        "facebook_id": null,
-        "email_verified": true,
-        "name_first": "Customer",
-        "name_last": "Example",
-        "business": null,
-        "phone_number": null,
-        "address_shipping": null,
-        "address_billing": null,
-        "has_password": true,
-        "consent": {
-          "id": 3,
-          "time": "2023-06-06T13:01:04+00:00",
-          "by_admin": false,
-          "marketing_via_email": true,
-          "marketing_via_phone": false
-        },
-        "addresses_active": [
-          {
-            "id": 2,
-            "time": "2023-06-06T13:01:04+00:00",
+            "id": 8,
+            "time": "2023-06-12T10:00:52+00:00",
             "active": true,
-            "name": "Address 2",
-            "addressee": "test",
-            "phone_number": "test",
-            "address_line_1": "test",
-            "address_line_2": null,
-            "postal_code": "test",
-            "city": "test",
-            "country": "test",
-            "tax_code": null
-          }
-        ]
-      },
-      "iban": {
-        "id": 1,
-        "name": "Example BankAccount #1",
-        "swift": "12345",
-        "iban": "12345",
-        "nib": "12345",
-        "storefronts": [
-          {
-            "id": 1,
-            "key": "riva",
-            "host": "riva.dev"
-          },
-          {
-            "id": 2,
-            "key": "cacifos",
-            "host": "cacifos.dev"
-          },
-          {
-            "id": 3,
-            "key": "test",
-            "host": "localhost"
-          }
-        ]
-      },
-      "products": [
-        {
-          "id": null,
-          "name": "Cacifo Metálico",
-          "description": " Duplo Cinza 8 Cacifos 1900x600x500mm Standard",
-          "quantity": "1",
-          "price": "303.02",
-          "is_abs": false,
-          "discount": "20",
-          "final_price": "242.42",
-          "alternatives": [
-            {
-              "id": null,
-              "name": "Cadeira de Escritório",
-              "description": " Executiva Barcelona Black Riva",
-              "quantity": "1",
-              "price": "152.31",
-              "is_abs": null,
-              "discount": null,
-              "final_price": "152.31",
-              "alternatives": [],
-              "product_id": 502,
-              "product_ref": "RV.STL-28A.PT",
-              "product_ean": "6,00373E+11",
-              "product_media": "https://www.ricardoevaz.com/images_cache/thumb_264x360_rvstl-28apt.PNG",
-              "fakeId": 4,
-              "type": "alternative",
-              "parentId": 3
-            }
-          ],
-          "product_id": 458,
-          "product_ref": "IND.0109.05.11.CZ",
-          "product_ean": "5,60E+12",
-          "product_media": "https://www.ricardoevaz.com/images_cache/thumb_184x360_ind01090511cz.PNG",
-          "fakeId": 3,
-          "type": "normal"
-        }
-      ],
-      "seeAlso": [],
-      "notes": "",
-      "time_created": "12/06/2023 - 09:14",
-      "time_due": "12/07/2023 - 09:14",
-      "state": {
-        "id": 0,
-        "key": "RASCUNHO",
-        "time_state": "12/06/2023 - 09:14"
-      },
-      "values": {
-        "total": "491.51",
-        "sub_total": "394.73",
-        "proform_iva": true,
-        "iva": "90.79",
-        "is_abs": "",
-        "discount": "",
-        "shipping": 5.99
-      },
-      "user": "",
-      "id": 2
-    },
-    {
-      "ref": "PRF-33",
-      "client": {
-        "id": 5,
-        "email": "sergiopinho@nostri.pt",
-        "time_created": "2023-06-06T16:20:32+00:00",
-        "time_last_visited": null,
-        "time_last_authed": null,
-        "google_id": null,
-        "apple_id": null,
-        "facebook_id": null,
-        "email_verified": false,
-        "name_first": "Sérgio",
-        "name_last": "Teste Nostri",
-        "business": null,
-        "phone_number": null,
-        "address_shipping": null,
-        "address_billing": null,
-        "has_password": true,
-        "consent": {
-          "id": 6,
-          "time": "2023-06-06T16:20:33+00:00",
-          "by_admin": false,
-          "marketing_via_email": true,
-          "marketing_via_phone": false
-        },
-        "addresses_active": [
-          {
-            "id": 5,
-            "time": "2023-06-06T16:21:30+00:00",
-            "active": true,
-            "name": "Casa Nostri",
+            "name": "TRABALHO",
             "addressee": "Sérgio Pinho",
             "phone_number": "919618083",
             "address_line_1": "Rua de Teste",
@@ -924,90 +815,83 @@
         ]
       },
       "iban": {
-        "id": 2,
-        "name": "Example BankAccount #2",
-        "swift": "12345",
-        "iban": "12345",
-        "nib": "12345",
+        "id": 9,
+        "name": "Sérgio Pinho",
+        "swift": "wift",
+        "iban": "PT501234567890",
+        "nib": "1234567890",
         "storefronts": [
           {
             "id": 1,
             "key": "riva",
             "host": "riva.dev"
-          },
-          {
-            "id": 2,
-            "key": "cacifos",
-            "host": "cacifos.dev"
-          },
-          {
-            "id": 3,
-            "key": "test",
-            "host": "localhost"
           }
         ]
       },
       "products": [
         {
           "id": null,
-          "name": "Cacifo Metálico",
-          "description": " Simples 2 Cacifos 1900x300x500mm Moeda C/recolha",
-          "quantity": "1",
-          "price": "274.51",
-          "is_abs": false,
-          "discount": "20",
-          "final_price": "219.61",
+          "name": "Envelopes Almofadados",
+          "description": "120X210mm 2B Branco 100M",
+          "quantity": "10",
+          "price": "0.32",
+          "is_abs": null,
+          "discount": null,
+          "final_price": "0.32",
           "alternatives": [],
-          "product_id": 461,
-          "product_ref": "0105.10.07",
+          "product_id": 494,
+          "product_ref": "001352B",
           "product_ean": null,
-          "product_media": "https://www.ricardoevaz.com/images_cache/thumb_294x360_105.10.07_52663abef0835.jpg",
+          "product_media": "https://www.ricardoevaz.com/images_cache/thumb_540x334_4_58adc0610dffb.png",
           "fakeId": 2,
           "type": "normal"
         }
       ],
-      "seeAlso": [],
+      "seeAlso": [
+        {
+          "id": null,
+          "name": "Envelopes Almofadados 220X340mm",
+          "description": "Nº 16 Kraft RIVA",
+          "price": "0.50",
+          "is_abs": null,
+          "discount": null,
+          "final_price": "0.50",
+          "alternatives": [],
+          "type": "see_also",
+          "product_id": 489,
+          "product_ref": "1356",
+          "product_ean": null,
+          "product_media": "https://www.ricardoevaz.com/images_cache/thumb_540x359_EARTH-IT_542943e3dd67f.jpg",
+          "fakeId": 1
+        }
+      ],
       "notes": "",
-      "time_created": "12/06/2023 - 11:19",
-      "time_due": "12/07/2023 - 11:19",
+      "time_created": "13/06/2023 - 11:50",
+      "time_due": "13/07/2023 - 11:50",
       "state": {
         "id": 0,
         "key": "RASCUNHO",
-        "time_state": "12/06/2023 - 11:19"
+        "time_state": "13/06/2023 - 11:50",
+        "user": ""
       },
+      "states": [
+        {
+          "id": 0,
+          "key": "RASCUNHO",
+          "time_state": "13/06/2023 - 11:50"
+        }
+      ],
       "values": {
-        "total": "225.60",
-        "sub_total": "219.61",
-        "proform_iva": false,
-        "iva": "",
-        "is_abs": "",
-        "discount": "",
+        "total": "9.14",
+        "sub_total": "3.20",
+        "proform_iva": true,
+        "iva": "0.74",
+        "is_abs": false,
+        "discount": "20",
         "shipping": 5.99
       },
       "user": "",
-      "id": 3
-    }
-  ],
-  "ibans": [
-    {
-      "id": 1,
-      "code": 6509210720
-    },
-    {
-      "id": 2,
-      "code": 7860607137
-    },
-    {
-      "id": 3,
-      "code": 3381395904
-    },
-    {
-      "id": 4,
-      "code": 2671880512
-    },
-    {
-      "id": 5,
-      "code": 1951150236
+      "id": 8
     }
   ],
   "sales_data": [
