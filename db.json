@@ -892,6 +892,169 @@
       },
       "user": "",
       "id": 8
+    },
+    {
+      "ref": "PRF-99",
+      "client": {
+        "id": 6,
+        "email": "orlando.carvalho@riva-office.pt",
+        "time_created": "2023-06-12T09:02:08+00:00",
+        "time_last_visited": null,
+        "time_last_authed": null,
+        "google_id": null,
+        "apple_id": null,
+        "facebook_id": null,
+        "email_verified": true,
+        "name_first": "Orlando",
+        "name_last": "Carvalho",
+        "business": null,
+        "phone_number": "911828026",
+        "address_shipping": null,
+        "address_billing": null,
+        "has_password": true,
+        "consent": {
+          "id": 7,
+          "time": "2023-06-12T09:02:09+00:00",
+          "by_admin": false,
+          "marketing_via_email": true,
+          "marketing_via_phone": false
+        },
+        "addresses_active": [
+          {
+            "id": 6,
+            "time": "2023-06-12T09:03:32+00:00",
+            "active": true,
+            "name": "Casa",
+            "addressee": "Orlando Carvalho",
+            "phone_number": "911828026",
+            "address_line_1": "Rua Sub Carreira Nº 22 Celeirós",
+            "address_line_2": null,
+            "postal_code": "4705",
+            "city": "457",
+            "country": "Portugal",
+            "tax_code": "123456789"
+          }
+        ]
+      },
+      "iban": {
+        "id": 1,
+        "name": "Example BankAccount #1",
+        "swift": "12345",
+        "iban": "12345",
+        "nib": "12345",
+        "storefronts": [
+          {
+            "id": 1,
+            "key": "riva",
+            "host": "riva.dev"
+          },
+          {
+            "id": 2,
+            "key": "cacifos",
+            "host": "cacifos.dev"
+          },
+          {
+            "id": 3,
+            "key": "test",
+            "host": "localhost"
+          }
+        ]
+      },
+      "products": [
+        {
+          "id": null,
+          "name": "Cacifo Metálico Duplo 2 Cacifos 1700x600x400mm Standard",
+          "description": "teste decription",
+          "quantity": "5",
+          "price": "149.86",
+          "is_abs": true,
+          "discount": "50",
+          "final_price": "99.86",
+          "alternatives": [
+            {
+              "id": null,
+              "name": "Cacifo Metálico P/ Indústria Sujos / Limpos 1 Cacifo 1900x450x500mm Cadeado Metálico",
+              "description": "alternative description",
+              "quantity": "10",
+              "price": "155.87",
+              "is_abs": false,
+              "discount": "20",
+              "final_price": "124.70",
+              "alternatives": [],
+              "product_id": 456,
+              "product_ref": "0114.10.04",
+              "product_ean": null,
+              "product_media": "https://www.ricardoevaz.com/images_cache/thumb_261x360_metalicos_galeria_0604_5e74fe8e31557.jpg",
+              "fakeId": 3,
+              "type": "alternative",
+              "parentId": 2
+            }
+          ],
+          "product_id": 454,
+          "product_ref": "0102.10.11",
+          "product_ean": null,
+          "product_media": "https://www.ricardoevaz.com/images_cache/thumb_208x360_cacifo-duplo-duas-portas-dsc9080-197.jpg",
+          "fakeId": 2,
+          "type": "normal"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": null,
+          "name": "Cadeira Operativa Malásia",
+          "description": "See Also Description",
+          "price": "156.99",
+          "is_abs": false,
+          "discount": "15",
+          "final_price": "133.44",
+          "alternatives": [],
+          "type": "see_also",
+          "product_id": 503,
+          "product_ref": "RV-HT-B91",
+          "product_ean": null,
+          "product_media": "https://www.ricardoevaz.com/images_cache/thumb_360x360_cadeira-executiva-malasia-1.jpg",
+          "fakeId": 1
+        }
+      ],
+      "notes": "Observations Teste",
+      "time_created": "14/06/2023 - 12:45",
+      "time_due": "14/07/2023 - 12:45",
+      "state": {
+        "id": 0,
+        "key": "RASCUNHO",
+        "time_state": "14/06/2023 - 13:08",
+        "user": ""
+      },
+      "states": [
+        {
+          "id": 0,
+          "key": "RASCUNHO",
+          "time_state": "14/06/2023 - 12:45"
+        },
+        {
+          "id": 1,
+          "key": "ENVIO",
+          "time_state": "14/06/2023 - 13:08",
+          "user": ""
+        },
+        {
+          "id": 0,
+          "key": "RASCUNHO",
+          "time_state": "14/06/2023 - 13:08",
+          "user": ""
+        }
+      ],
+      "values": {
+        "total": "2000.00",
+        "sub_total": "1746.30",
+        "proform_iva": true,
+        "iva": "401.65",
+        "is_abs": true,
+        "discount": "153.94",
+        "shipping": 5.99
+      },
+      "user": "",
+      "id": 9
     }
   ],
   "sales_data": [
