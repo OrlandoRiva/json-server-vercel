@@ -2977,5 +2977,103 @@
         }
       ]
     }
+  ],
+  "ship_discounts": [
+    {
+      "time_start": "2023-07-05T23:00:00.000Z",
+      "time_end": "2023-07-06T23:00:00.000Z",
+      "discount": {
+        "value": "125.00",
+        "is_abs": true
+      },
+      "vip": true,
+      "id": 1
+    },
+    {
+      "time_start": "2023-07-07T23:00:00.000Z",
+      "time_end": "2023-07-08T23:00:00.000Z",
+      "discount": {
+        "value": "0.2",
+        "is_abs": false
+      },
+      "vip": false,
+      "id": 2
+    },
+    {
+      "time_start": "2023-07-09T23:00:00.000Z",
+      "time_end": "2023-07-10T23:00:00.000Z",
+      "discount": {
+        "value": "300.00",
+        "is_abs": true
+      },
+      "vip": false,
+      "categories": [
+        {
+          "id": 3,
+          "name": "Category 3",
+          "fakeId": 3
+        },
+        {
+          "id": 2,
+          "name": "Category 2",
+          "fakeId": 2
+        },
+        {
+          "id": 1,
+          "name": "Category 1",
+          "fakeId": 1
+        }
+      ],
+      "clients": [
+        {
+          "id": 3,
+          "name_first": "Sérgio",
+          "name_last": "Pinho",
+          "fakeId": 3
+        },
+        {
+          "id": 2,
+          "name_first": "Tiago",
+          "name_last": "Pinto",
+          "fakeId": 2
+        }
+      ],
+      "id": 3
+    },
+    {
+      "time_start": "2023-07-14T23:00:00.000Z",
+      "time_end": "2023-07-15T23:00:00.000Z",
+      "discount": {
+        "value": "55.00",
+        "is_abs": true
+      },
+      "vip": false,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Category 1",
+          "fakeId": 1
+        }
+      ],
+      "clients": [
+        {
+          "id": 3,
+          "name_first": "Sérgio",
+          "name_last": "Pinho",
+          "phone_number": null,
+          "email": "srgpinho@sapo.pt",
+          "fakeId": 3
+        },
+        {
+          "id": 2,
+          "name_first": "Tiago",
+          "name_last": "Pinto",
+          "phone_number": null,
+          "email": "tiago_1998_pinto@hotmail.com",
+          "fakeId": 2
+        }
+      ],
+      "id": 4
+    }
   ]
 }
