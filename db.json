@@ -266,6 +266,40 @@
       "meter": "numbers",
       "description": "",
       "id": 4
+    },
+    {
+      "type": "Mensal",
+      "entity": "Encomendas",
+      "sub_entity": null,
+      "storefront": {
+        "id": 1,
+        "key": "riva",
+        "locales": [
+          "/api/locales/1"
+        ]
+      },
+      "initial_date": "2023-08-02T08:09:05.000Z",
+      "final_date": "2023-12-02T09:09:09.000Z",
+      "value": [
+        {
+          "value": "20"
+        },
+        {
+          "value": "30"
+        },
+        {
+          "value": "25"
+        },
+        {
+          "value": "30"
+        },
+        {
+          "value": "40"
+        }
+      ],
+      "meter": "numbers",
+      "description": "",
+      "id": 5
     }
   ],
   "productsOpt": [
