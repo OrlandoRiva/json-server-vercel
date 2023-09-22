@@ -471,11 +471,42 @@
       "seen": false
     }
   ],
-  "tickets" : [
+  "tickets": [
     {
       "id": 0,
-      "subject": "encomendas",
-      "recipient": "all"
+      "subject": 2,
+      "sender": {
+        "id": 1,
+        "username": "employee",
+        "name": "Employee",
+        "initials": "EP"
+      },
+      "code": "ENC-2309-5835",
+      "recipient": [],
+      "text": "Realizei uma encomenda, queria saber porque é que ainda não chegou",
+      "time": "2023-09-22T10:55:50+00:00"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 0,
+      "customer": {
+        "id": 1,
+        "email": "customer@example.com",
+        "name_first": "Customer",
+        "name_last": "Example",
+        "business": null,
+        "phone_number": null
+        },
+        "product": {
+          "id": 15904,
+          "name": "Cacifo Metálico Duplo 2 Cacifos 1700x600x400mm Standard",
+          "reference": "0102.10.11",
+          "ean": null
+          },
+          "score": 4,
+          "comment": "O material parece ser muito resistente e pouco propenso a riscos",
+          "time": "2023-09-22T10:55:50+00:00"
     }
   ],
   "ship_discounts": [
