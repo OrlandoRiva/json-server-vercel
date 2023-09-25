@@ -96,6 +96,38 @@
       "permission": []
     }
   ],
+  "survey_question_groups": [
+    {
+      "id": 1,
+      "order": 1,
+      "name": "Grupo 1",
+      "status": ""
+    },
+    {
+      "id": 2,
+      "order": 2,
+      "name": "Grupo 2",
+      "status": ""
+    }
+  ],
+  "survey_questions": [
+    {
+      "id": 1,
+      "survey_template_question_group": "api/survey_template_question_group/1",
+      "type": 1,
+      "order": 1,
+      "require": true,
+      "status": ""
+    },
+    {
+      "id": 2,
+      "survey_template_question_group": "api/survey_template_question_group/2",
+      "type": 0,
+      "order": 2,
+      "require": false,
+      "status": ""
+    }
+  ],
   "storages": [
     {
       "name": "A1",
