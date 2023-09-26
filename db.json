@@ -113,19 +113,27 @@
   "survey_questions": [
     {
       "id": 1,
-      "survey_template_question_group": "api/survey_template_question_group/1",
+      "survey_template_question_group":  {
+        "id": 1,
+        "name": "Grupo 1"
+      },
       "type": 1,
       "order": 1,
       "require": true,
-      "status": ""
+      "status": "",
+      "question": "Pergunta 1 ou 2?"
     },
     {
       "id": 2,
-      "survey_template_question_group": "api/survey_template_question_group/2",
+      "survey_template_question_group": {
+        "id": 2,
+        "name": "Grupo 2"
+      },
       "type": 0,
       "order": 2,
       "require": false,
-      "status": ""
+      "status": "",
+      "question": "Pergunta 2 ou 3?"
     }
   ],
   "storages": [
