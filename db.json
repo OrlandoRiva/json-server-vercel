@@ -113,7 +113,7 @@
   "survey_questions": [
     {
       "id": 1,
-      "survey_template_question_group":  {
+      "survey_template_question_group": {
         "id": 1,
         "name": "Grupo 1"
       },
@@ -522,23 +522,6 @@
   ],
   "tickets": [
     {
-      "id": 0,
-      "subject": {
-        "id": 2,
-        "subject": "Proformas"
-      },
-      "sender": {
-        "id": 1,
-        "username": "employee",
-        "name": "Employee",
-        "initials": "EP"
-      },
-      "code": "ENC-2309-5835",
-      "recipient": [],
-      "text": "Realizei uma encomenda, queria saber porque é que ainda não chegou",
-      "time": "2023-09-22T10:55:50+00:00"
-    },
-    {
       "recipient": [],
       "subject": {
         "id": 1,
@@ -553,10 +536,21 @@
         "initials": "EP"
       },
       "seen": false,
-      "id": 1
+      "id": 1,
+      "states": [
+        {
+          "id": 1,
+          "state": "CRIADA"
+        }
+      ]
     },
     {
-      "recipient": "api/users/1",
+      "recipient": [
+        {
+          "id": 3,
+          "name": "Sérgio Pinho"
+        }
+      ],
       "subject": {
         "id": 4,
         "subject": "Vouchers"
@@ -570,7 +564,88 @@
         "initials": "EP"
       },
       "seen": false,
-      "id": 2
+      "id": 2,
+      "states": [
+        {
+          "id": 1,
+          "state": "CRIADA"
+        }
+      ]
+    },
+    {
+      "recipient": [],
+      "subject": {
+        "id": 0,
+        "subject": "Campanhas"
+      },
+      "title": "Confirmar descontos ",
+      "text": "Produto abc tem um desconto maior do que o permitido",
+      "time_for_conclusion": "2023-09-28T23:00:00.000Z",
+      "storefront": [
+        {
+          "id": 10,
+          "key": "riva"
+        }
+      ],
+      "media": "",
+      "subject_code": "Campanha Teste",
+      "sender": {
+        "id": 4,
+        "username": "employee",
+        "name": "Employee",
+        "initials": "EP"
+      },
+      "seen": false,
+      "type": "internal",
+      "states": [
+        {
+          "id": 1,
+          "state": "CRIADA"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "recipient": [
+        {
+        "id": 4,
+        "name": "Employee"
+      }
+    ],
+      "subject": {
+        "id": 0,
+        "subject": "Campanhas"
+      },
+      "title": "Rever Stocks",
+      "text": "É necessário rever os stocks das cadeiras",
+      "time_for_conclusion": "2023-09-29T12:00:00.000Z",
+      "storefront": [
+        {
+          "id": 10,
+          "key": "riva"
+        },
+        {
+          "id": 11,
+          "key": "cacifos"
+        }
+      ],
+      "doc-file": "",
+      "subject_code": "Campanha Teste",
+      "sender": {
+        "id": 4,
+        "username": "employee",
+        "name": "Employee",
+        "initials": "EP"
+      },
+      "seen": false,
+      "type": "internal",
+      "states": [
+        {
+          "id": 1,
+          "state": "CRIADA"
+        }
+      ],
+      "id": 4
     }
   ],
   "reviews": [
