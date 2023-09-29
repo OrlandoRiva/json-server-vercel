@@ -540,7 +540,7 @@
       "states": [
         {
           "id": 1,
-          "state": "CRIADA"
+          "state": "CRIADO"
         }
       ]
     },
@@ -568,7 +568,7 @@
       "states": [
         {
           "id": 1,
-          "state": "CRIADA"
+          "state": "CRIADO"
         }
       ]
     },
@@ -600,18 +600,23 @@
       "states": [
         {
           "id": 1,
-          "state": "CRIADA"
+          "state": "CRIADO"
         }
       ],
-      "id": 3
+      "id": 3,
+      "state": {
+        "id": 1,
+        "state": "CRIADO"
+      },
+      "doc-file": ""
     },
     {
       "recipient": [
         {
-        "id": 4,
-        "name": "Employee"
-      }
-    ],
+          "id": 4,
+          "name": "Employee"
+        }
+      ],
       "subject": {
         "id": 0,
         "subject": "Campanhas"
@@ -642,10 +647,18 @@
       "states": [
         {
           "id": 1,
-          "state": "CRIADA"
+          "state": "CRIADO"
+        },
+        {
+          "id": 2,
+          "state": "POR TRATAR"
         }
       ],
-      "id": 4
+      "id": 4,
+      "state": {
+        "id": 2,
+        "state": "POR TRATAR"
+      }
     }
   ],
   "reviews": [
