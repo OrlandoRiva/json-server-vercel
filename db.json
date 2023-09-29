@@ -652,12 +652,26 @@
         {
           "id": 2,
           "state": "POR TRATAR"
+        },
+        {
+          "id": 4,
+          "state": "CONCLUÍDO"
         }
       ],
       "id": 4,
       "state": {
-        "id": 2,
-        "state": "POR TRATAR"
+        "id": 4,
+        "state": "CONCLUÍDO"
+      },
+      "response_title": "Stocks confirmados",
+      "response_text": "Foram removidos os artigos x e y",
+      "response": {
+        "title": "Stocks confirmados",
+        "text": "Foram removidos os artigos x e y",
+        "user": {
+          "id": 4,
+          "name": "Employee"
+        }
       }
     }
   ],
