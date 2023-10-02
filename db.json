@@ -100,14 +100,49 @@
     {
       "id": 1,
       "order": 1,
-      "name": "Grupo 1",
-      "status": ""
+      "name": "Inquério da Encomenda",
+      "status": "",
+      "questions": [
+        "api/survey_questions/1",
+        "api/survey_questions/2"
+      ]
     },
     {
       "id": 2,
       "order": 2,
-      "name": "Grupo 2",
-      "status": ""
+      "name": "Inquérito do Produto",
+      "status": "",
+      "questions": [
+        "api/survey_questions/3"
+      ]
+    }
+  ],
+  "survey_templates": [
+    {
+      "name": "Modelo de Encomenda",
+      "groups": [
+        {
+          "id": 1,
+          "order": 1,
+          "name": "Inquério da Encomenda",
+          "status": "",
+          "questions": [
+            "api/survey_questions/1",
+            "api/survey_questions/2"
+          ]
+        },
+        {
+          "id": 2,
+          "order": 2,
+          "name": "Inquérito do Produto",
+          "status": "",
+          "questions": [
+            "api/survey_questions/3"
+          ]
+        }
+      ],
+      "date": "2023-10-02T15:56:23.551Z",
+      "id": 1
     }
   ],
   "survey_questions": [
@@ -115,25 +150,37 @@
       "id": 1,
       "survey_template_question_group": {
         "id": 1,
-        "name": "Grupo 1"
+        "name": "Inquério da Encomenda"
       },
       "type": 1,
       "order": 1,
       "require": true,
       "status": "",
-      "question": "Pergunta 1 ou 2?"
+      "question": "A encomenda foi entregue no prazo previsto?"
     },
     {
       "id": 2,
       "survey_template_question_group": {
-        "id": 2,
-        "name": "Grupo 2"
+        "id": 1,
+        "name": "Inquério da Encomenda"
       },
       "type": 0,
       "order": 2,
       "require": false,
       "status": "",
-      "question": "Pergunta 2 ou 3?"
+      "question": "Como avalia a entrega?"
+    },
+    {
+      "id": 3,
+      "survey_template_question_group": {
+        "id": 2,
+        "name": "Inquérito do Produto"
+      },
+      "type": 0,
+      "order": 2,
+      "require": false,
+      "status": "",
+      "question": "O produto corresponde às expectativas?"
     }
   ],
   "storages": [
