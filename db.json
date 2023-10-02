@@ -101,7 +101,7 @@
       "id": 1,
       "order": 1,
       "name": "Inquério da Encomenda",
-      "status": "",
+      "status": 0,
       "questions": [
         "api/survey_questions/1",
         "api/survey_questions/2"
@@ -111,7 +111,7 @@
       "id": 2,
       "order": 2,
       "name": "Inquérito do Produto",
-      "status": "",
+      "status": 0,
       "questions": [
         "api/survey_questions/3"
       ]
@@ -125,7 +125,7 @@
           "id": 1,
           "order": 1,
           "name": "Inquério da Encomenda",
-          "status": "",
+          "status": 0,
           "questions": [
             "api/survey_questions/1",
             "api/survey_questions/2"
@@ -135,7 +135,7 @@
           "id": 2,
           "order": 2,
           "name": "Inquérito do Produto",
-          "status": "",
+          "status": 0,
           "questions": [
             "api/survey_questions/3"
           ]
@@ -155,7 +155,7 @@
       "type": 1,
       "order": 1,
       "require": true,
-      "status": "",
+      "status": 0,
       "question": "A encomenda foi entregue no prazo previsto?"
     },
     {
@@ -167,7 +167,7 @@
       "type": 0,
       "order": 2,
       "require": false,
-      "status": "",
+      "status": 0,
       "question": "Como avalia a entrega?"
     },
     {
@@ -179,7 +179,7 @@
       "type": 0,
       "order": 2,
       "require": false,
-      "status": "",
+      "status": 0,
       "question": "O produto corresponde às expectativas?"
     }
   ],
