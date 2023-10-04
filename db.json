@@ -214,6 +214,443 @@
       "question": "O produto corresponde às expectativas?"
     }
   ],
+  "products": [
+    {
+    "id": 14322,
+    "name": "BANDRIDGE - Cabo Jack 1m VAL3301",
+    "reference": "EE.01.828.004.00166",
+    "ean": "8717587602559",
+    "eans_extra": null,
+    "time_created": "2023-09-27T11:48:47+00:00",
+    "time_updated": "2023-09-27T11:48:47+00:00",
+    "group": {},
+    "brand": {
+    "id": 417,
+    "name": "Bandridge"
+    },
+    "available": true,
+    "availability_reason": 0,
+    "is_gift_card": false,
+    "is_free_gift": false,
+    "amount_min": null,
+    "amount_bulk": null,
+    "ask_for_assembly": false,
+    "has_express_shipping": false,
+    "days_to_prepare": null,
+    "stock_amount": null,
+    "supply_price": null,
+    "warehouse_location": null,
+    "weight": null,
+    "search_score_group_mult": null,
+    "notes": null,
+    "import_info": {
+    "id": "01.828.004.00166",
+    "source": "expert",
+    "data": null
+    },
+    "medias": [
+    {
+    "id": 55437,
+    "order": 0,
+    "media": null,
+    "image_link": "https://experteletro.pt/img/p/2/6/1/8/0/8/261808.jpg",
+    "video_link": null
+    },
+    {
+    "id": 55438,
+    "order": 0,
+    "media": null,
+    "image_link": "https://experteletro.pt/img/p/2/6/1/8/0/9/261809.jpg",
+    "video_link": null
+    }
+    ],
+    "attribute_value_rels": [],
+    "storefront_rels": [
+    {
+    "id": 14125,
+    "storefront": "/api/storefronts/10",
+    "available": true,
+    "active_price": {
+    "id": 14125,
+    "time": "2023-09-27T11:48:47+00:00",
+    "value": "1.6179",
+    "tax": {
+    "id": 7,
+    "name": "IVA Taxa Normal",
+    "value": "0.2300"
+    }
+    },
+    "active_discount": null,
+    "active_result": {
+    "price_raw": "1.61790000000000",
+    "price_raw_calc": "1.61790000000000",
+    "price_tax": "1.99001700000000",
+    "price_orig_raw": null,
+    "price_orig_tax": null,
+    "discount_pct": null
+    }
+    }
+    ],
+    "supplier_rels": [],
+    "tag_rels": [],
+    "relateds": [],
+    "translations": {
+    "pt": {
+    "name": "BANDRIDGE - Cabo Jack 1m VAL3301",
+    "summary": " <b>PRINC. CARACTERÍSTICAS: </b><br /><b>Tipo:</b> Cabo Jack 3.5mm",
+    "description": "Bandridge Portable Audio Cable, 1.0m. Conector 1: 3.5mm, Conector 2: 3.5mm, Comprimento do cabo: 1 m, Cor da caixa: Preto"
+    }
+    }
+    },
+    {
+    "id": 14323,
+    "name": "BANDRIDGE - Cabo Jack 2m VAL3302",
+    "reference": "EE.01.828.004.00167",
+    "ean": "8717587602580",
+    "eans_extra": null,
+    "time_created": "2023-09-27T11:48:47+00:00",
+    "time_updated": "2023-09-27T11:48:47+00:00",
+    "group": {},
+    "brand": {
+    "id": 417,
+    "name": "Bandridge"
+    },
+    "available": true,
+    "availability_reason": 0,
+    "is_gift_card": false,
+    "is_free_gift": false,
+    "amount_min": null,
+    "amount_bulk": null,
+    "ask_for_assembly": false,
+    "has_express_shipping": false,
+    "days_to_prepare": null,
+    "stock_amount": null,
+    "supply_price": null,
+    "warehouse_location": null,
+    "weight": null,
+    "search_score_group_mult": null,
+    "notes": null,
+    "import_info": {
+    "id": "01.828.004.00167",
+    "source": "expert",
+    "data": null
+    },
+    "medias": [
+    {
+    "id": 55439,
+    "order": 0,
+    "media": null,
+    "image_link": "https://experteletro.pt/img/p/2/6/1/8/0/6/261806.jpg",
+    "video_link": null
+    },
+    {
+    "id": 55440,
+    "order": 0,
+    "media": null,
+    "image_link": "https://experteletro.pt/img/p/2/6/1/8/0/7/261807.jpg",
+    "video_link": null
+    }
+    ],
+    "attribute_value_rels": [],
+    "storefront_rels": [
+    {
+    "id": 14126,
+    "storefront": "/api/storefronts/10",
+    "available": true,
+    "active_price": {
+    "id": 14126,
+    "time": "2023-09-27T11:48:47+00:00",
+    "value": "2.4309",
+    "tax": {
+    "id": 7,
+    "name": "IVA Taxa Normal",
+    "value": "0.2300"
+    }
+    },
+    "active_discount": null,
+    "active_result": {
+    "price_raw": "2.43090000000000",
+    "price_raw_calc": "2.43090000000000",
+    "price_tax": "2.99000700000000",
+    "price_orig_raw": null,
+    "price_orig_tax": null,
+    "discount_pct": null
+    }
+    }
+    ],
+    "supplier_rels": [],
+    "tag_rels": [],
+    "relateds": [],
+    "translations": {
+    "pt": {
+    "name": "BANDRIDGE - Cabo Jack 2m VAL3302",
+    "summary": " <b>PRINC. CARACTERÍSTICAS: </b><br /><b>Tipo:</b> Cabo Jack 3.5mm",
+    "description": "Bandridge VAL3302. Conector 1: 3.5mm, Conector 2: 3.5mm, Comprimento do cabo: 2 m, Cor da caixa: Preto"
+    }
+    }
+    },
+    {
+    "id": 14324,
+    "name": "BANDRIDGE - Cabo Jack 1m VAL3401",
+    "reference": "EE.01.828.004.00168",
+    "ean": "8717587602610",
+    "eans_extra": null,
+    "time_created": "2023-09-27T11:48:47+00:00",
+    "time_updated": "2023-09-27T11:48:47+00:00",
+    "group": {},
+    "brand": {
+    "id": 417,
+    "name": "Bandridge"
+    },
+    "available": true,
+    "availability_reason": 0,
+    "is_gift_card": false,
+    "is_free_gift": false,
+    "amount_min": null,
+    "amount_bulk": null,
+    "ask_for_assembly": false,
+    "has_express_shipping": false,
+    "days_to_prepare": null,
+    "stock_amount": null,
+    "supply_price": null,
+    "warehouse_location": null,
+    "weight": null,
+    "search_score_group_mult": null,
+    "notes": null,
+    "import_info": {
+    "id": "01.828.004.00168",
+    "source": "expert",
+    "data": null
+    },
+    "medias": [
+    {
+    "id": 55441,
+    "order": 0,
+    "media": null,
+    "image_link": "https://experteletro.pt/img/p/2/6/1/8/0/4/261804.jpg",
+    "video_link": null
+    },
+    {
+    "id": 55442,
+    "order": 0,
+    "media": null,
+    "image_link": "https://experteletro.pt/img/p/2/6/1/8/0/5/261805.jpg",
+    "video_link": null
+    }
+    ],
+    "attribute_value_rels": [],
+    "storefront_rels": [
+    {
+    "id": 14127,
+    "storefront": "/api/storefronts/10",
+    "available": true,
+    "active_price": {
+    "id": 14127,
+    "time": "2023-09-27T11:48:47+00:00",
+    "value": "1.6179",
+    "tax": {
+    "id": 7,
+    "name": "IVA Taxa Normal",
+    "value": "0.2300"
+    }
+    },
+    "active_discount": null,
+    "active_result": {
+    "price_raw": "1.61790000000000",
+    "price_raw_calc": "1.61790000000000",
+    "price_tax": "1.99001700000000",
+    "price_orig_raw": null,
+    "price_orig_tax": null,
+    "discount_pct": null
+    }
+    }
+    ],
+    "supplier_rels": [],
+    "tag_rels": [],
+    "relateds": [],
+    "translations": {
+    "pt": {
+    "name": "BANDRIDGE - Cabo Jack 1m VAL3401",
+    "summary": " <b>PRINC. CARACTERÍSTICAS: </b><br /><b>Tipo:</b> Cabo Jack 3.5mm",
+    "description": "Bandridge VAL3401. Conector 1: 3.5mm, Conector 2: 2 x RCA, Comprimento do cabo: 1 m, Cor da caixa: Preto, Vermelho, Branco"
+    }
+    }
+    },
+    {
+    "id": 14325,
+    "name": "BANDRIDGE - Cabo Jack 2m VAL3402",
+    "reference": "EE.01.828.004.00169",
+    "ean": "8717587602641",
+    "eans_extra": null,
+    "time_created": "2023-09-27T11:48:47+00:00",
+    "time_updated": "2023-09-27T11:48:47+00:00",
+    "group": {},
+    "brand": {
+    "id": 417,
+    "name": "Bandridge"
+    },
+    "available": true,
+    "availability_reason": 0,
+    "is_gift_card": false,
+    "is_free_gift": false,
+    "amount_min": null,
+    "amount_bulk": null,
+    "ask_for_assembly": false,
+    "has_express_shipping": false,
+    "days_to_prepare": null,
+    "stock_amount": null,
+    "supply_price": null,
+    "warehouse_location": null,
+    "weight": null,
+    "search_score_group_mult": null,
+    "notes": null,
+    "import_info": {
+    "id": "01.828.004.00169",
+    "source": "expert",
+    "data": null
+    },
+    "medias": [
+    {
+    "id": 55443,
+    "order": 0,
+    "media": null,
+    "image_link": "https://experteletro.pt/img/p/2/6/1/8/0/2/261802.jpg",
+    "video_link": null
+    },
+    {
+    "id": 55444,
+    "order": 0,
+    "media": null,
+    "image_link": "https://experteletro.pt/img/p/2/6/1/8/0/3/261803.jpg",
+    "video_link": null
+    }
+    ],
+    "attribute_value_rels": [],
+    "storefront_rels": [
+    {
+    "id": 14128,
+    "storefront": "/api/storefronts/10",
+    "available": true,
+    "active_price": {
+    "id": 14128,
+    "time": "2023-09-27T11:48:47+00:00",
+    "value": "2.4309",
+    "tax": {
+    "id": 7,
+    "name": "IVA Taxa Normal",
+    "value": "0.2300"
+    }
+    },
+    "active_discount": null,
+    "active_result": {
+    "price_raw": "2.43090000000000",
+    "price_raw_calc": "2.43090000000000",
+    "price_tax": "2.99000700000000",
+    "price_orig_raw": null,
+    "price_orig_tax": null,
+    "discount_pct": null
+    }
+    }
+    ],
+    "supplier_rels": [],
+    "tag_rels": [],
+    "relateds": [],
+    "translations": {
+    "pt": {
+    "name": "BANDRIDGE - Cabo Jack 2m VAL3402",
+    "summary": " <b>PRINC. CARACTERÍSTICAS: </b><br /><b>Tipo:</b> Cabo Jack 3.5mm",
+    "description": "Bandridge Computer Audio Cable, 2.0m. Conector 1: 3.5mm, Conector 2: 2 x RCA, Comprimento do cabo: 2 m, Cor da caixa: Preto, Vermelho, Branco"
+    }
+    }
+    },
+    {
+    "id": 14326,
+    "name": "BANDRIDGE - Cabo Audio 1m VAL4201",
+    "reference": "EE.01.828.004.00170",
+    "ean": "8717587602702",
+    "eans_extra": null,
+    "time_created": "2023-09-27T11:48:47+00:00",
+    "time_updated": "2023-09-27T11:48:47+00:00",
+    "group": {},
+    "brand": {
+    "id": 417,
+    "name": "Bandridge"
+    },
+    "available": true,
+    "availability_reason": 0,
+    "is_gift_card": false,
+    "is_free_gift": false,
+    "amount_min": null,
+    "amount_bulk": null,
+    "ask_for_assembly": false,
+    "has_express_shipping": false,
+    "days_to_prepare": null,
+    "stock_amount": null,
+    "supply_price": null,
+    "warehouse_location": null,
+    "weight": null,
+    "search_score_group_mult": null,
+    "notes": null,
+    "import_info": {
+    "id": "01.828.004.00170",
+    "source": "expert",
+    "data": null
+    },
+    "medias": [
+    {
+    "id": 55445,
+    "order": 0,
+    "media": null,
+    "image_link": "https://experteletro.pt/img/p/2/6/1/8/0/0/261800.jpg",
+    "video_link": null
+    },
+    {
+    "id": 55446,
+    "order": 0,
+    "media": null,
+    "image_link": "https://experteletro.pt/img/p/2/6/1/8/0/1/261801.jpg",
+    "video_link": null
+    }
+    ],
+    "attribute_value_rels": [],
+    "storefront_rels": [
+    {
+    "id": 14129,
+    "storefront": "/api/storefronts/10",
+    "available": true,
+    "active_price": {
+    "id": 14129,
+    "time": "2023-09-27T11:48:47+00:00",
+    "value": "1.6179",
+    "tax": {
+    "id": 7,
+    "name": "IVA Taxa Normal",
+    "value": "0.2300"
+    }
+    },
+    "active_discount": null,
+    "active_result": {
+    "price_raw": "1.61790000000000",
+    "price_raw_calc": "1.61790000000000",
+    "price_tax": "1.99001700000000",
+    "price_orig_raw": null,
+    "price_orig_tax": null,
+    "discount_pct": null
+    }
+    }
+    ],
+    "supplier_rels": [],
+    "tag_rels": [],
+    "relateds": [],
+    "translations": {
+    "pt": {
+    "name": "BANDRIDGE - Cabo Audio 1m VAL4201",
+    "summary": " <b>PRINC. CARACTERÍSTICAS: </b><br /><b>Tipo:</b> Cabo RCA",
+    "description": "Bandridge Stereo Audio Cable, 1.0m. Conector 2: 2 x RCA, Comprimento do cabo: 1 m, Cor da caixa: Preto, Vermelho, Branco"
+    }
+    }
+    }
+  ],    
   "storages": [
     {
       "name": "A1",
