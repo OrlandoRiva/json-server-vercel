@@ -96,6 +96,37 @@
       "permission": []
     }
   ],
+  "surveys_answered": [
+    {
+      "id": 1,
+      "date": "2023-10-03T15:56:23.551Z",
+      "survey_templates": "api/survey_templates/1",
+      "answers": [
+        {
+          "id": 0,
+          "answer": 4
+        },
+        {
+          "id": 1,
+          "answer": 3
+        },
+        {
+          "id": 2,
+          "answer": "Sim, é igual ao que é apresentado no site."
+        }
+      ],
+      "customer": {
+        "id": 5,
+        "email": "srgpinho@sapo.pt",
+        "name_first": "Sérgio",
+        "name_last": "Pinho"
+      },
+      "order": {
+        "id": 3,
+        "code": "ENC-2309-6426"
+      }
+    }
+  ],
   "survey_question_groups": [
     {
       "id": 1,
@@ -164,9 +195,9 @@
         "id": 1,
         "name": "Inquério da Encomenda"
       },
-      "type": 0,
+      "type": 1,
       "order": 2,
-      "require": false,
+      "require": true,
       "status": 0,
       "question": "Como avalia a entrega?"
     },
@@ -673,7 +704,13 @@
       "states": [
         {
           "id": 1,
-          "state": "CRIADO"
+          "state": "CRIADO",
+          "date": "2023-10-02T15:56:23.551Z",
+          "employee": {
+            "id": 4,
+            "username": "employee",
+            "name": "Employee"
+          }
         }
       ]
     },
@@ -701,7 +738,13 @@
       "states": [
         {
           "id": 1,
-          "state": "CRIADO"
+          "state": "CRIADO",
+          "date": "2023-10-02T15:56:23.551Z",
+          "employee": {
+            "id": 4,
+            "username": "employee",
+            "name": "Employee"
+          }
         }
       ]
     },
@@ -733,13 +776,25 @@
       "states": [
         {
           "id": 1,
-          "state": "CRIADO"
+          "state": "CRIADO",
+          "date": "2023-10-02T15:56:23.551Z",
+          "employee": {
+            "id": 4,
+            "username": "employee",
+            "name": "Employee"
+          }
         }
       ],
       "id": 3,
       "state": {
         "id": 1,
-        "state": "CRIADO"
+        "state": "CRIADO",
+        "date": "2023-10-02T15:56:23.551Z",
+        "employee": {
+          "id": 4,
+          "username": "employee",
+          "name": "Employee"
+        }
       },
       "doc-file": ""
     },
@@ -780,32 +835,66 @@
       "states": [
         {
           "id": 1,
-          "state": "CRIADO"
+          "state": "CRIADO",
+          "date": "2023-10-02T15:56:23.551Z",
+          "employee": {
+            "id": 4,
+            "username": "employee",
+            "name": "Employee"
+          }
         },
         {
           "id": 2,
-          "state": "POR TRATAR"
+          "state": "POR TRATAR",
+          "date": "2023-10-02T15:56:23.551Z",
+          "employee": {
+            "id": 4,
+            "username": "employee",
+            "name": "Employee"
+          }
         },
         {
           "id": 4,
-          "state": "CONCLUÍDO"
+          "state": "CONCLUÍDO",
+          "date": "2023-10-02T15:56:23.551Z",
+          "employee": {
+            "id": 4,
+            "username": "employee",
+            "name": "Employee"
+          }
         }
       ],
       "id": 4,
       "state": {
         "id": 4,
-        "state": "CONCLUÍDO"
-      },
-      "response_title": "Stocks confirmados",
-      "response_text": "Foram removidos os artigos x e y",
-      "response": {
-        "title": "Stocks confirmados",
-        "text": "Foram removidos os artigos x e y",
-        "user": {
+        "state": "CONCLUÍDO",
+        "date": "2023-10-02T15:56:23.551Z",
+        "employee": {
           "id": 4,
+          "username": "employee",
           "name": "Employee"
         }
-      }
+      },
+      "response": [
+        {
+          "id": 0,
+          "title": "Stocks confirmados",
+          "text": "Foram removidos os artigos x e y",
+          "user": {
+            "id": 4,
+            "name": "Employee"
+          }
+        },
+        {
+          "id": 1,
+          "title": "Stocks adicionados",
+          "text": "Foram adicionados os artigos a, b e c",
+          "user": {
+            "id": 4,
+            "name": "Employee"
+          }
+        }
+      ]
     }
   ],
   "reviews": [
