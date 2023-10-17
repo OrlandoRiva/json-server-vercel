@@ -1151,6 +1151,12 @@
             "name": "Employee"
           }
         }
+      ],
+      "storefront": [
+        {
+          "id": 10,
+          "key": "riva"
+        }
       ]
     },
     {
@@ -1175,6 +1181,16 @@
       "seen": false,
       "id": 2,
       "priority": "Urgente",
+      "storefront": [
+        {
+          "id": 10,
+          "key": "riva"
+        },
+        {
+          "id": 11,
+          "key": "cacifos"
+        }
+      ],
       "states": [
         {
           "id": 1,
