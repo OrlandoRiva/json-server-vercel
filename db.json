@@ -1457,5 +1457,59 @@
       ],
       "id": 3
     }
+  ],
+  "categories_refactor": [
+    {
+      "textfield": "Category 1",
+      "select": 1,
+      "autocomplete": {
+        "id": 1,
+        "value": "Teste 1"
+      },
+      "datetimepicker": "2023-09-07T16:00:00.000Z",
+      "color": "#00bb07",
+      "toggle": true,
+      "id": 1,
+      "select_multiple": [1, 2, 3, 4]
+    },
+    {
+      "textfield": "Categoria 2",
+      "select": 2,
+      "autocomplete": {
+        "id": 2,
+        "value": "Teste 2"
+      },
+      "datetimepicker": "2023-09-09T12:30:00.000Z",
+      "color": "#1f34f3",
+      "toggle": false,
+      "id": 2,
+      "select_multiple": [2]
+    },
+    {
+      "textfield": "Categoria 3",
+      "select": 3,
+      "autocomplete": {
+        "id": 3,
+        "value": "Teste 3"
+      },
+      "datetimepicker": "2023-09-21T09:25:00.000Z",
+      "color": "#ed0e0e",
+      "toggle": true,
+      "id": 3,
+      "select_multiple": [3, 4]
+    },
+    {
+      "textfield": "Categoria 4",
+      "select": 1,
+      "select_multiple": [1],
+      "autocomplete": {
+        "id": 1,
+        "value": "Teste 1"
+      },
+      "datetimepicker": "2023-09-14T00:10:00.000Z",
+      "color": "#932f2f",
+      "toggle": true,
+      "id": 4
+    }
   ]
 }
