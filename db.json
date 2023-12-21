@@ -1288,5 +1288,153 @@
       ],
       "id": 3
     }
+  ],
+  "teams": [
+    {
+      "id": 0,
+      "name": "Sousa",
+      "department": {
+        "departmentId": 1,
+        "departmentName": "Logística"
+      },
+      "daysOff": [],
+      "vacations": [],
+      "absence": [],
+      "events": []
+    },
+    {
+      "id": 1,
+      "name": "Ramalho",
+      "department": {
+        "departmentId": 1,
+        "departmentName": "Logística"
+      },
+      "daysOff": [],
+      "vacations": [],
+      "absence": [],
+      "events": []
+    },
+    {
+      "id": 2,
+      "name": "Tatiana",
+      "department": {
+        "departmentId": 1,
+        "departmentName": "Logística"
+      },
+      "daysOff": [],
+      "vacations": [],
+      "absence": [],
+      "events": []
+    },
+    {
+      "id": 3,
+      "name": "Rita",
+      "department": {
+        "departmentId": 2,
+        "departmentName": "Fornecedores"
+      },
+      "daysOff": [],
+      "vacations": [],
+      "absence": [],
+      "events": []
+    },
+    {
+      "id": 4,
+      "name": "Leandro",
+      "department": {
+        "departmentId": 2,
+        "departmentName": "Fornecedores"
+      },
+      "daysOff": [],
+      "vacations": [],
+      "absence": [],
+      "events": []
+    },
+    {
+      "id": 5,
+      "name": "Rui",
+      "department": {
+        "departmentId": 2,
+        "departmentName": "Fornecedores"
+      },
+      "daysOff": [],
+      "vacations": [],
+      "absence": [],
+      "events": []
+    },
+    {
+      "id": 6,
+      "name": "Paulo",
+      "department": {
+        "departmentId": 3,
+        "departmentName": "Comercial"
+      },
+      "daysOff": [],
+      "vacations": [],
+      "absence": [],
+      "events": []
+    },
+    {
+      "id": 7,
+      "name": "Nuno",
+      "department": {
+        "departmentId": 3,
+        "departmentName": "Comercial"
+      },
+      "daysOff": [],
+      "vacations": [],
+      "absence": [],
+      "events": []
+    },
+    {
+      "id": 8,
+      "name": "Pinto",
+      "department": {
+        "departmentId": 3,
+        "departmentName": "Comercial"
+      },
+      "daysOff": [],
+      "vacations": [],
+      "absence": [],
+      "events": []
+    },
+    {
+      "id": 9,
+      "name": "Tânia",
+      "department": {
+        "departmentId": 4,
+        "departmentName": "Atendimento"
+      },
+      "daysOff": [],
+      "vacations": [],
+      "absence": [],
+      "events": []
+    },
+    {
+      "id": 10,
+      "name": "Luz",
+      "department": {
+        "departmentId": 4,
+        "departmentName": "Atendimento"
+      },
+      "daysOff": [],
+      "vacations": [],
+      "absence": [],
+      "events": []
+    },
+    {
+      "id": 11,
+      "name": "Isabel",
+      "department": {
+        "departmentId": 4,
+        "departmentName": "Atendimento"
+      },
+      "daysOff": [],
+      "vacations": [],
+      "absence": [],
+      "events": []
+    }
   ]
+
+  
 }
