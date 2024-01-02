@@ -699,7 +699,7 @@
       "entity": "Proformas",
       "sub_entity": null,
       "storefront": {
-        "id": 7,
+        "id": 1,
         "key": "riva",
         "locales": [
           "/api/locales/11"
@@ -720,7 +720,7 @@
         "name": "Teste Orlando"
       },
       "storefront": {
-        "id": 8,
+        "id": 2,
         "key": "cacifos",
         "locales": [
           "/api/locales/12"
@@ -738,7 +738,7 @@
       "entity": "Proformas",
       "sub_entity": null,
       "storefront": {
-        "id": 7,
+        "id": 1,
         "key": "riva",
         "locales": [
           "/api/locales/11"
@@ -772,7 +772,7 @@
       "entity": "Orçamentos",
       "sub_entity": null,
       "storefront": {
-        "id": 7,
+        "id": 1,
         "key": "riva",
         "locales": [
           "/api/locales/11"
