@@ -1446,5 +1446,3793 @@
       "absence": [],
       "events": []
     }
+  ],
+  "categoriesFromExcel": [
+    {
+      "id": 1,
+      "name": "Grelhadores e Acessórios",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 2,
+      "name": "Outros produtos para o lar",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 3,
+      "name": "Isqueiros, cigarreiras e cinzeiros",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 4,
+      "name": "Bengaleiros e prateleiras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 5,
+      "name": "Relógios de parede e de mesa",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 6,
+      "name": "Almofadas e travesseiros",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 7,
+      "name": "Puffs e bancos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 8,
+      "name": "Quadros e cartazes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 9,
+      "name": "Móveis para a TV e auxiliares",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 10,
+      "name": "Candeeiros",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 11,
+      "name": "Gavetas, armários e aparadores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 12,
+      "name": "Câmaras IP",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 13,
+      "name": "Tomadas inteligentes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 14,
+      "name": "Mesas e cadeiras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 15,
+      "name": "Humidificadores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 16,
+      "name": "Ar condicionado e ventiladores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 17,
+      "name": "Lâmpadas inteligentes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 18,
+      "name": "Iluminação LED",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 19,
+      "name": "Aspiradores e robôs",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 20,
+      "name": "Videocâmaras de vigilância",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 21,
+      "name": "Secadores, ferros de engomar e estendais",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 22,
+      "name": "Máquinas de costura",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 23,
+      "name": "Radiadores e aquecedores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 24,
+      "name": "Repelentes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 25,
+      "name": "Cortinas e tapetes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 26,
+      "name": "Limpeza a vapor",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 27,
+      "name": "Acessórios e torneiras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 28,
+      "name": "Balanças",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 29,
+      "name": "Esfregonas e vassouras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 30,
+      "name": "Molduras e porta-retratos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 31,
+      "name": "Lâmpadas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 32,
+      "name": "Sistemas de segurança",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 33,
+      "name": "Outros artigos de decoração",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 34,
+      "name": "Despertadores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 35,
+      "name": "Intercomunicador para bebés",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 36,
+      "name": "Espelhos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 37,
+      "name": "Tapetes e cobertores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 38,
+      "name": "Toalhas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 39,
+      "name": "Jardinagem",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 40,
+      "name": "Purificadores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 41,
+      "name": "Velas perfumadas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 42,
+      "name": "Óleos essenciais",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 43,
+      "name": "Saúde e higiene",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 44,
+      "name": "Ambientadores elétricos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 45,
+      "name": "Ambientadores automáticos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 46,
+      "name": "Ambientadores em spray",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 47,
+      "name": "Ambientadores para o carro",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 48,
+      "name": "Ambientadores mikado",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 49,
+      "name": "Camas e colchões",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 50,
+      "name": "Viajar e passear",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 51,
+      "name": "Velas e castiçais",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 52,
+      "name": "Decoração natalícia",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 53,
+      "name": "Equipamento para alimentação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 54,
+      "name": "Brinquedos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 55,
+      "name": "Decoração, iluminação e mobiliário",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 56,
+      "name": "Faixas e toalhas de mesa",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 57,
+      "name": "Centros de mesa e jarros",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 58,
+      "name": "Caixas de jóias e jarros de cerâmica",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 59,
+      "name": "Mealherios",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 60,
+      "name": "Iluminação e decoração de exteriores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 61,
+      "name": "Secretárias",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 62,
+      "name": "Mangueiras e sistemas de rega",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 63,
+      "name": "Organizadores de sapatos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 64,
+      "name": "Estantes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 65,
+      "name": "Cómodas, toucadores e armarios",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 66,
+      "name": "Cadeiras de relaxamento",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 67,
+      "name": "Lençóis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 68,
+      "name": "Estores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 69,
+      "name": "Cortinas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 70,
+      "name": "Colchas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 71,
+      "name": "Capas de edredão",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 72,
+      "name": "Capas de edredão nórdicas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 73,
+      "name": "Colchões",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 74,
+      "name": "Poltronas, cadeiras de balanço e sofás",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 75,
+      "name": "Sofás e sofá-camas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 76,
+      "name": "Baús",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 77,
+      "name": "Cabeceiras e pés de cama",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 78,
+      "name": "Mesas de cabeceira",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 79,
+      "name": "Suportes para guarda-chuvas e revistas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 80,
+      "name": "Biombos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 81,
+      "name": "Iluminação solar",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 82,
+      "name": "Roupões de banho",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 83,
+      "name": "Almofadas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 84,
+      "name": "Batentes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 85,
+      "name": "Protetores de berço",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 86,
+      "name": "Comida para animais",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 87,
+      "name": "Extratores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 88,
+      "name": "Capas de sofá",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 89,
+      "name": "Outros acessórios e utensílios de cozinha",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 90,
+      "name": "Canecas e garrafas térmicas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 91,
+      "name": "Decoração, acessórios e moldes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 92,
+      "name": "Sanduicheiras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 93,
+      "name": "Fritadeiras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 94,
+      "name": "Torradeiras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 95,
+      "name": "Trituradores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 96,
+      "name": "Espremedores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 97,
+      "name": "Chaleiras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 98,
+      "name": "Cafeteiras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 99,
+      "name": "Amassadeiras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 100,
+      "name": "Outros eletrodomésticos de cozinha",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 101,
+      "name": "Batedeiras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 102,
+      "name": "Chapas e grelhadores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 103,
+      "name": "Máquinas de crepes e waffles",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 104,
+      "name": "Lava-louças",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 105,
+      "name": "Exaustores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 106,
+      "name": "Micro-ondas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 107,
+      "name": "Placas de fogão",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 108,
+      "name": "Fornos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 109,
+      "name": "Torneiras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 110,
+      "name": "Micro-ondas e fornos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 111,
+      "name": "Máquinas de embalamento por vácuo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 112,
+      "name": "Máquinas de arroz",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 113,
+      "name": "Refrigeradores e congeladores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 114,
+      "name": "Balanças de cozinha",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 115,
+      "name": "Cápsulas de café",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 116,
+      "name": "Tachos e panelas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 117,
+      "name": "Conjuntos de tachos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 118,
+      "name": "Raladores, cortadores e descascadores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 119,
+      "name": "Facas e afiadores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 120,
+      "name": "Fondues",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 121,
+      "name": "Geladeiras e iogurteiras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 122,
+      "name": "Copos e jarros",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 123,
+      "name": "Pequeno-almoço e laticínios",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 124,
+      "name": "Tábuas de cozinha",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 125,
+      "name": "Frigideiras elétrico",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 126,
+      "name": "Pratos, bandejas e travessas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 127,
+      "name": "Lancheiras, porta-alimentos e saladeiras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 128,
+      "name": "Liquidificadores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 129,
+      "name": "Robôs de cozinha",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 130,
+      "name": "Açúcar e adoçantes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 131,
+      "name": "Petiscos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 132,
+      "name": "Bebidas, refrigerantes e infusões",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 133,
+      "name": "Alimentação infantil",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 134,
+      "name": "Porta-copos, jogos americanos e guardanapos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 135,
+      "name": "Papel e sacos de conservação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 136,
+      "name": "Panos de cozinha",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 137,
+      "name": "Saca-rolhas, abridor de lata e abridor de garrafas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 138,
+      "name": "Presuntos e suportes de presunto",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 139,
+      "name": "Conjuntos de degustação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 140,
+      "name": "Recipientes para especiarias e molhos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 141,
+      "name": "Azeite",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 142,
+      "name": "Caixas de cozinha e caixas de pão",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 143,
+      "name": "Especiarias, caldos e cremes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 144,
+      "name": "Maionese, molhos e óleos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 145,
+      "name": "Azeitonas e picles",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 146,
+      "name": "Arroz e massas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 147,
+      "name": "Pão e farinhas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 148,
+      "name": "Conservas e pratos combinados",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 149,
+      "name": "Fontes e fondues",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 150,
+      "name": "Fatos de banho desportivos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 151,
+      "name": "Atividades subaquáticas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 152,
+      "name": "Garrafas e cantis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 153,
+      "name": "Adaptadores para tomadas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 154,
+      "name": "Autocolantes e tuning",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 155,
+      "name": "Sensores e eletrónica para carros",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 156,
+      "name": "Proteção e segurança do carro",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 157,
+      "name": "Skateboard",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 158,
+      "name": "Acessórios de ciclismo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 159,
+      "name": "Nécessaires",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 160,
+      "name": "Dança e Ginásio",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 161,
+      "name": "Acessórios de running e atletismo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 162,
+      "name": "Aparelhos de Musculação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 163,
+      "name": "Lanternas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 164,
+      "name": "Malas de Porão e de Cabine",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 165,
+      "name": "Acessórios e organizadores para veículos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 166,
+      "name": "Cintos Vibratorios e Electrostimuladores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 167,
+      "name": "Acessórios de campismo e montanhismo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 168,
+      "name": "Leggings e perneiras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 169,
+      "name": "Capacetes de bicicleta",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 170,
+      "name": "Caixas térmicas portáteis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 171,
+      "name": "Kits de emergência e reparação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 172,
+      "name": "Caixas térmicas de praia",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 173,
+      "name": "Mochilas e sacos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 174,
+      "name": "Piscinas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 175,
+      "name": "Conjuntos de viagem",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 176,
+      "name": "Proteções de corpo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 177,
+      "name": "Limpeza e manutenção de carros",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 178,
+      "name": "Conjuntos para fazer desporto",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 179,
+      "name": "Chinelos e meias de natação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 180,
+      "name": "Toalhas de praia e piscina",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 181,
+      "name": "Gorros de desporto",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 182,
+      "name": "Sweatshirts de desporto",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 183,
+      "name": "Meias",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 184,
+      "name": "Roupa de montanha",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 185,
+      "name": "Mochilas e sacos de desporto",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 186,
+      "name": "Leggings",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 187,
+      "name": "Calças para Desporto",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 188,
+      "name": "Acessórios para futebol",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 189,
+      "name": "Sacos de praia",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 190,
+      "name": "Pesca",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 191,
+      "name": "Óculos de mergulho e snorkeling",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 192,
+      "name": "Camas de rede",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 193,
+      "name": "Bolas de basquete",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 194,
+      "name": "Cadeiras de praia e piscina",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 195,
+      "name": "Brinquedos para a praia",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 196,
+      "name": "Sacos-Cama",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 197,
+      "name": "Bolas de praia",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 198,
+      "name": "Boias insufláveis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 199,
+      "name": "Tapetes Insufláveis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 200,
+      "name": "Raquetes de ténis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 201,
+      "name": "Badminton",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 202,
+      "name": "Guarda-sóis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 203,
+      "name": "Tendas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 204,
+      "name": "Caça e tiro",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 205,
+      "name": "Toucas de natação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 206,
+      "name": "Binóculos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 207,
+      "name": "Tenis de mesa",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 208,
+      "name": "Rugby",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 209,
+      "name": "Voleibol",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 210,
+      "name": "Óculos de natação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 211,
+      "name": "Identificadores de bagagem",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 212,
+      "name": "Casacos de desporto",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 213,
+      "name": "Fatos de banho",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 214,
+      "name": "Golf e mini golf",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 215,
+      "name": "Bússolas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 216,
+      "name": "Coletes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 217,
+      "name": "Insufláveis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 218,
+      "name": "Almofadas Cervicais",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 219,
+      "name": "Porta-documentos de viagem",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 220,
+      "name": "Mantas de viagem",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 221,
+      "name": "Poltronas insufláveis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 222,
+      "name": "Bandas elásticas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 223,
+      "name": "T-shirts de desporto",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 224,
+      "name": "Equipamento de futebol",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 225,
+      "name": "T-shirts de running e atletismo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 226,
+      "name": "Roupa e acessórios de trabalho para mecânicos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 227,
+      "name": "Bolas de futebol",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 228,
+      "name": "Bolas de futebol de salão",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 229,
+      "name": "Acessórios para ténis e padel",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 230,
+      "name": "Produtos para a manutenção do carro",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 231,
+      "name": "Baterias para carros",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 232,
+      "name": "Sapatilhas de running",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 233,
+      "name": "Sapatilhas de ténis e padel",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 234,
+      "name": "Fatos de Treino",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 235,
+      "name": "Calças de running e atletismo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 236,
+      "name": "Bolas de ténis e padel",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 237,
+      "name": "Artes marciais",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 238,
+      "name": "T-shirts de futebol",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 239,
+      "name": "Meias de natação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 240,
+      "name": "Acessórios para natação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 241,
+      "name": "Meias de futebol",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 242,
+      "name": "Pedómetros",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 243,
+      "name": "Agulhas para bombas de ar",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 244,
+      "name": "Sweatshirts de running e atletismo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 245,
+      "name": "Luvas de musculação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 246,
+      "name": "Luvas de Guarda-Redes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 247,
+      "name": "Boxe",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 248,
+      "name": "Andebol",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 249,
+      "name": "Coletes desportivos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 250,
+      "name": "Leggings de running e atletismo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 251,
+      "name": "Punhos com pesos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 252,
+      "name": "Sutiãs de desporto",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 253,
+      "name": "Acessórios de basquetebol",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 254,
+      "name": "Sapatilhas de basquetebol",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 255,
+      "name": "Chinelos de natação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 256,
+      "name": "Raquetes de padel",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 257,
+      "name": "Roupa e acessórios de racing",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 258,
+      "name": "Bombas de ar",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 259,
+      "name": "Peças para automóvel e peças sobresselentes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 260,
+      "name": "Iluminação LED/HID e lâmpadas para o carro",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 261,
+      "name": "Produtos para o cuidado de motas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 262,
+      "name": "Hockey",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 263,
+      "name": "Luvas de bicicleta",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 264,
+      "name": "Cronómetros",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 265,
+      "name": "Assentos e acessórios para veículos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 266,
+      "name": "Patinagem",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 267,
+      "name": "Tintas e acessórios de pintura",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 268,
+      "name": "Roupa e acessórios de karting",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 269,
+      "name": "Caneleiras de futebol",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 270,
+      "name": "Calças de futebol e futebol de salão",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 271,
+      "name": "Sapatilhas de futebol de salão",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 272,
+      "name": "Chuteiras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 273,
+      "name": "T-shirts de ténis e padel",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 274,
+      "name": "Porta-Dorsais",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 275,
+      "name": "Squash",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 276,
+      "name": "Pulsómetros",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 277,
+      "name": "Lanternas de running",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 278,
+      "name": "Faróis e iluminação para ciclismo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 279,
+      "name": "Steps",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 280,
+      "name": "Travesseiros e almofadas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 281,
+      "name": "Produtos de relaxamento",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 282,
+      "name": "Conjunto de primeiros-socorros",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 283,
+      "name": "Secadores de cabelo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 284,
+      "name": "Alisadores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 285,
+      "name": "Óculos de leitura e lupas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 286,
+      "name": "Escovas e pentes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 287,
+      "name": "Depilação e acessórios para barbear",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 288,
+      "name": "Máquina de cortar cabelo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 289,
+      "name": "Tensiómetros e termómetros",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 290,
+      "name": "Manicure e pedicure",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 291,
+      "name": "Massajadores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 292,
+      "name": "Protetores solares faciais",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 293,
+      "name": "Máscaras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 294,
+      "name": "Géis de fixação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 295,
+      "name": "Condicionadores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 296,
+      "name": "Tintas de cabelo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 297,
+      "name": "Bronzeadores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 298,
+      "name": "Protetores solares para o corpo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 299,
+      "name": "Champôs",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 300,
+      "name": "Lacas para o cabelo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 301,
+      "name": "After sun",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 302,
+      "name": "Anticelulíticos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 303,
+      "name": "Ceras para o cabelo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 304,
+      "name": "Ativadores de bronzeamento",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 305,
+      "name": "Autobronzeadores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 306,
+      "name": "Espumas para o cabelo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 307,
+      "name": "Autobronzeadores em spray",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 308,
+      "name": "Óleos solares",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 309,
+      "name": "Champôs a seco",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 310,
+      "name": "Protetores solares infantis em spray",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 311,
+      "name": "After sun em spray",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 312,
+      "name": "Espumas e lacas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 313,
+      "name": "Cremes corporais protetores em spray",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 314,
+      "name": "Protetores solares capilares em spray",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 315,
+      "name": "Protetores solares infantis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 316,
+      "name": "Bronzeadores em spray",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 317,
+      "name": "Sapatos, meias e palmilhas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 318,
+      "name": "Aquecedores de mão",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 319,
+      "name": "Lotes de proteção solar",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 320,
+      "name": "Cremes e body milk",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 321,
+      "name": "Higiene oral",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 322,
+      "name": "Acessórios e organizadores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 323,
+      "name": "Limpeza da pele e exfoliantes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 324,
+      "name": "Tônicos e leites de limpeza",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 325,
+      "name": "Perfumes para mulher",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 326,
+      "name": "Perfumes para homem",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 327,
+      "name": "Perfumes unisexo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 328,
+      "name": "Perfumes infantis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 329,
+      "name": "Contorno de olhos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 330,
+      "name": "Cremes anti-rugas e hidratantes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 331,
+      "name": "Desodorizantes para pés",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 332,
+      "name": "Sabonetes e Géis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 333,
+      "name": "Creme anti-celulite e reafirmantes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 334,
+      "name": "Cremes de Barbear",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 335,
+      "name": "Géis de barbear",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 336,
+      "name": "Espumas de barbear",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 337,
+      "name": "Desmaquilhantes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 338,
+      "name": "Máscaras faciais",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 339,
+      "name": "Batons e gloss",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 340,
+      "name": "Sérum",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 341,
+      "name": "After shave e loções",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 342,
+      "name": "Maquilhagem e bases",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 343,
+      "name": "Higiene íntima",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 344,
+      "name": "Pós compactos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 345,
+      "name": "Desodorizantes em Spray",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 346,
+      "name": "Rímel",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 347,
+      "name": "Blushers",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 348,
+      "name": "Eyeliners e lápis de olhos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 349,
+      "name": "Sombras de olhos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 350,
+      "name": "Desodorizantes Roll-On",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 351,
+      "name": "Desodorizantes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 352,
+      "name": "Desodorizantes em Stick",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 353,
+      "name": "Perfumes eróticos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 354,
+      "name": "Perfumes para animais de estimação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 355,
+      "name": "Biquínis e fatos de banho",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 356,
+      "name": "Roupa interior",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 357,
+      "name": "Pulseiras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 358,
+      "name": "Calças",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 359,
+      "name": "Relógios de homem",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 360,
+      "name": "Relógios de mulher",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 361,
+      "name": "Relógios infantis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 362,
+      "name": "Relógios unissexo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 363,
+      "name": "Anéis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 364,
+      "name": "Colares",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 365,
+      "name": "Brincos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 366,
+      "name": "Missangas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 367,
+      "name": "Óculos de sol unissexo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 368,
+      "name": "Óculos de sol mulher",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 369,
+      "name": "Broches e botões de punho",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 370,
+      "name": "Óculos de sol infantis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 371,
+      "name": "Óculos de sol homem",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 372,
+      "name": "Chaveiros",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 373,
+      "name": "Bolsas e carteiras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 374,
+      "name": "Pólos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 375,
+      "name": "Gorros e cachecóis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 376,
+      "name": "T-shirts",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 377,
+      "name": "Sapatos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 378,
+      "name": "Cintos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 379,
+      "name": "Saias",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 380,
+      "name": "Bonés",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 381,
+      "name": "Outros acessórios",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 382,
+      "name": "Pijamas e mantas com mangas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 383,
+      "name": "Vestidos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 384,
+      "name": "Chinelas e tamancos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 385,
+      "name": "Calçado desportivo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 386,
+      "name": "Chinelos de casa",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 387,
+      "name": "Camisas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 388,
+      "name": "Sweatshirts",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 389,
+      "name": "Camisolas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 390,
+      "name": "Ténis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 391,
+      "name": "Guarda-Chuvas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 392,
+      "name": "Blusões",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 393,
+      "name": "Outros presentes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 394,
+      "name": "Botas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 395,
+      "name": "Outros acessórios para o calçado",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 396,
+      "name": "Sandálias",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 397,
+      "name": "Calções e bermudas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 398,
+      "name": "Palmilhas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 399,
+      "name": "Casacos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 400,
+      "name": "Leggings",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 401,
+      "name": "Galochas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 402,
+      "name": "Passeios e viagens",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 403,
+      "name": "Roupa e calçado para crianças",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 404,
+      "name": "Utensílios infantis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 405,
+      "name": "Hora do banho",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 406,
+      "name": "Trotinetes e triciclos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 407,
+      "name": "Complementos para fantasias",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 408,
+      "name": "Artigos de festa",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 409,
+      "name": "Acessórios para festas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 410,
+      "name": "Artigos eróticos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 411,
+      "name": "Veículos, circuitos e brinquedos telecomandados",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 412,
+      "name": "Outro material escolar",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 413,
+      "name": "Quadros",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 414,
+      "name": "Outros brinquedos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 415,
+      "name": "Canetas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 416,
+      "name": "Jogos de mesa para crianças",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 417,
+      "name": "Calculadoras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 418,
+      "name": "Estojos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 419,
+      "name": "Hora de dormir",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 420,
+      "name": "Bonecas e peluches",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 421,
+      "name": "Jogos de mesa",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 422,
+      "name": "Jogos educativos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 423,
+      "name": "Figuras de ação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 424,
+      "name": "Segurança infantil em casa",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 425,
+      "name": "Maquilhagem",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 426,
+      "name": "Amamentação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 427,
+      "name": "Disfarces",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 428,
+      "name": "Clipes",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 429,
+      "name": "Conjuntos de papelaria",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 430,
+      "name": "Borrachas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 431,
+      "name": "Blocos de notas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 432,
+      "name": "Mochilas escolares",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 433,
+      "name": "Marcadores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 434,
+      "name": "Fantasias infantis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 435,
+      "name": "Perucas e chapéus",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 436,
+      "name": "Guarda-chuvas e gorros infantis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 437,
+      "name": "Cadernetas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 438,
+      "name": "Agendas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 439,
+      "name": "Pastas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 440,
+      "name": "Lápis de cor",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 441,
+      "name": "Culturas e tradições",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 442,
+      "name": "Princesas e reis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 443,
+      "name": "Halloween",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 444,
+      "name": "Sexy",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 445,
+      "name": "Palhaços",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 446,
+      "name": "Religião",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 447,
+      "name": "Filmes e séries",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 448,
+      "name": "Profissões",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 449,
+      "name": "Décadas de 50, 60, 70, 80",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 450,
+      "name": "Originais e divertidos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 451,
+      "name": "Piratas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 452,
+      "name": "Fantasia",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 453,
+      "name": "Super-heróis e videojogos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 454,
+      "name": "Cantores e música",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 455,
+      "name": "Comidas e bebidas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 456,
+      "name": "Disney",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 457,
+      "name": "Desenhos animados",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 458,
+      "name": "Animais",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 459,
+      "name": "Medieval",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 460,
+      "name": "Natal",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 461,
+      "name": "Cavernícolas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 462,
+      "name": "Puzzles e construções",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 463,
+      "name": "Animais de brincar",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 464,
+      "name": "Máscaras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 465,
+      "name": "Brinquedos para bebés",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 466,
+      "name": "Jogos de exterior",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 467,
+      "name": "Adesivos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 468,
+      "name": "Relaxamento e diversão",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 469,
+      "name": "Lápis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 470,
+      "name": "Decoração",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 471,
+      "name": "Etiquetas adesivas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 472,
+      "name": "Quadro de notas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 473,
+      "name": "Lápis de cera coloridos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 474,
+      "name": "Réguas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 475,
+      "name": "Pastas para documentos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 476,
+      "name": "Canetas de feltro",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 477,
+      "name": "Bicicletas infantis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 478,
+      "name": "Afia-lápis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 479,
+      "name": "Artigos românticos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 480,
+      "name": "Capas para telemóveis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 481,
+      "name": "Acessórios para telemóveis e tablets",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 482,
+      "name": "Caixas de som",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 483,
+      "name": "Telemóveis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 484,
+      "name": "TPV e acessórios",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 485,
+      "name": "Armários Rack",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 486,
+      "name": "Pontos de acesso",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 487,
+      "name": "Redes com fios",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 488,
+      "name": "Redes WIFI",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 489,
+      "name": "Telefones fixos e IP",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 490,
+      "name": "Routers e modems",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 491,
+      "name": "Impressoras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 492,
+      "name": "Adaptadores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 493,
+      "name": "SAI",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 494,
+      "name": "Acessórios de Informática",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 495,
+      "name": "Multi-leitores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 496,
+      "name": "Ratos e tapetes Gaming",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 497,
+      "name": "Teclados",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 498,
+      "name": "Teclados de Jogo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 499,
+      "name": "CD e DVD",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 500,
+      "name": "Pen drives e memórias USB",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 501,
+      "name": "Discos rígidos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 502,
+      "name": "Cartões de memória",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 503,
+      "name": "Cabos de áudio e vídeo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 504,
+      "name": "Cartuchos de tinta original",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 505,
+      "name": "Redes sem fios",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 506,
+      "name": "Switches",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 507,
+      "name": "Ventilação Gaming",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 508,
+      "name": "Refrigeradores portáteis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 509,
+      "name": "Carregadores para PC",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 510,
+      "name": "Torres e caixas Gaming",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 511,
+      "name": "Altifalantes para PC",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 512,
+      "name": "Papel para impressoras",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 513,
+      "name": "Os ratos e Mouse",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 514,
+      "name": "Auriculares Bluetooth",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 515,
+      "name": "Webcam",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 516,
+      "name": "Acessórios",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 517,
+      "name": "HUB USB",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 518,
+      "name": "Memórias RAM",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 519,
+      "name": "Suporte para Televisão",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 520,
+      "name": "Cabos de segurança",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 521,
+      "name": "Extensões",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 522,
+      "name": "Capas para Tablets",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 523,
+      "name": "Malas e bolsas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 524,
+      "name": "Auriculares para Desporto",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 525,
+      "name": "MP3, Mp4 e MP5",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 526,
+      "name": "Cabos para impressoras e scanners",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 527,
+      "name": "Cabos de rede",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 528,
+      "name": "Suporte para ecrãs",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 529,
+      "name": "Fontes de alimentação Gaming",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 530,
+      "name": "Placas PCI",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 531,
+      "name": "Placas de som Gaming",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 532,
+      "name": "Monitores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 533,
+      "name": "Torres e caixas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 534,
+      "name": "Acessórios Gaming",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 535,
+      "name": "Auriculares com Microfone",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 536,
+      "name": "Tóners originais",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 537,
+      "name": "Carregadores e cabos USB",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 538,
+      "name": "Pilhas alcalinas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 539,
+      "name": "Colunas Bluetooth",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 540,
+      "name": "Óculos de realidade virtual",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 541,
+      "name": "Cabos USB",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 542,
+      "name": "Microfones e auriculares",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 543,
+      "name": "Auriculares Gaming",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 544,
+      "name": "Gaming Placas Gráficas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 545,
+      "name": "Fontes de alimentação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 546,
+      "name": "Tóners reciclados",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 547,
+      "name": "Cartuchos de tinta reciclada",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 548,
+      "name": "Projetores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 549,
+      "name": "Power Bank",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 550,
+      "name": "Suporte para telemóveis e tablets",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 551,
+      "name": "Auriculares Sem Fios",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 552,
+      "name": "Walkie Talkies",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 553,
+      "name": "Auscultadores Intra-auriculares",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 554,
+      "name": "Sintonizadores TDT e satélites",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 555,
+      "name": "Placas de som",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 556,
+      "name": "NAS",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 557,
+      "name": "Auriculares de Diadema",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 558,
+      "name": "Scanners",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 559,
+      "name": "Redes Home Plug",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 560,
+      "name": "Câmaras de Vídeo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 561,
+      "name": "Cabos de alimentação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 562,
+      "name": "Gamepad",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 563,
+      "name": "Acessórios para Consolas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 564,
+      "name": "Trituradoras de papel",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 565,
+      "name": "Telecomandos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 566,
+      "name": "Reprodutores e gravadores de DVD e Blu-Ray",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 567,
+      "name": "Auriculares Bluetooth com Microfone",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 568,
+      "name": "Cabos ATA",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 569,
+      "name": "Ventilação",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 570,
+      "name": "Equipamento de Música",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 571,
+      "name": "Placas mãe",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 572,
+      "name": "Software",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 573,
+      "name": "Switch KVM",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 574,
+      "name": "Transistores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 575,
+      "name": "Processadores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 576,
+      "name": "Placas mãe Gaming",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 577,
+      "name": "Torres de Som",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 578,
+      "name": "Pilhas de Botão",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 579,
+      "name": "PC de mesa",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 580,
+      "name": "Mãos livres Bluetooth para o carro",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 581,
+      "name": "Tablets",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 582,
+      "name": "Placas gráficas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 583,
+      "name": "Acessórios para Máquinas Fotográficas e Câmaras de Vídeo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 584,
+      "name": "Cabos DisplayPort",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 585,
+      "name": "Ecrãs para projetores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 586,
+      "name": "Livros Eletrónicos e Capas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 587,
+      "name": "Mini PC",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 588,
+      "name": "Televisões e Smart TV",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 589,
+      "name": "Carregadores USB para o Carro",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 590,
+      "name": "Quadros interativos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 591,
+      "name": "Notebooks",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 592,
+      "name": "Smartwatches",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 593,
+      "name": "Trotinetas elétricas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 594,
+      "name": "Barras de Som",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 595,
+      "name": "Gira-discos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 596,
+      "name": "Carregadores de Pilhas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 597,
+      "name": "Servidores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 598,
+      "name": "Rádio CD",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 599,
+      "name": "Consolas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 600,
+      "name": "Alto-falantes de jogos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 601,
+      "name": "Rádio-Despertador",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 602,
+      "name": "Gravadores de áudio",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 603,
+      "name": "Carregadores Gaming",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 604,
+      "name": "Pilhas Recarregáveis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 605,
+      "name": "Protetores de Ecrã",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 606,
+      "name": "Drones e robôs",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 607,
+      "name": "Pulseiras de Atividade",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 608,
+      "name": "Streaming TV",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 609,
+      "name": "Máquinas Fotográficas Compactas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 610,
+      "name": "Videojogos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 611,
+      "name": "Máquinas fotográficas desportivas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 612,
+      "name": "Navegadores de GPS",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 613,
+      "name": "Bastões de selfie",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 614,
+      "name": "Kits de robótica",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 615,
+      "name": "Pilhas Salinas",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 616,
+      "name": "Kits de eletrónica",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 617,
+      "name": "Componentes e acessórios de robótica",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 618,
+      "name": "Mãos livres Bluetooth",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 619,
+      "name": "Brinquedos interativos",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 620,
+      "name": "Acessórios para impressoras 3D",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 621,
+      "name": "Componentes e acessórios",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 622,
+      "name": "Tambores",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 623,
+      "name": "Baterias para portáteis",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "name": "DVD",
+      "riva_name": "Etiquetas Auto. A4 e P/cd, Dvd",
+      "has_no_name_assigned": null,
+      "id": 624
+    },
+    {
+      "id": 625,
+      "name": "Vídeo e Home Cinema",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 626,
+      "name": "Cabos série/paralelo",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 627,
+      "name": "Impressoras 3D",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 628,
+      "name": "Altifalantes do Carro",
+      "riva_name": "",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 629,
+      "name": "Cinema em Casa",
+      "riva_name": "Cacifos Cinza",
+      "has_no_name_assigned": null
+    },
+    {
+      "id": 630,
+      "name": "Máquinas Fotográficas Reflex",
+      "riva_name": "Cacifos Cinza",
+      "has_no_name_assigned": null
+    },
+    {
+      "name": "Tinta de alimentação contínua",
+      "riva_name": "Cacifos Cinza",
+      "has_no_name_assigned": null,
+      "id": 631
+    }
   ]
 }
