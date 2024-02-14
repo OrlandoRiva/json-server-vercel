@@ -1306,8 +1306,8 @@
       "id": 2,
       "name": "Sousa",
       "department": {
-        "departmentId": 1,
-        "departmentName": "Logística"
+        "departmentId": 3,
+        "departmentName": "Papelaria"
       },
       "daysOff": [],
       "vacations": [],
@@ -1318,8 +1318,8 @@
       "id": 3,
       "name": "Ramalho",
       "department": {
-        "departmentId": 1,
-        "departmentName": "Logística"
+        "departmentId": 4,
+        "departmentName": "Mobiliário"
       },
       "daysOff": [],
       "vacations": [],
@@ -1330,8 +1330,8 @@
       "id": 4,
       "name": "Tatiana",
       "department": {
-        "departmentId": 1,
-        "departmentName": "Logística"
+        "departmentId": 3,
+        "departmentName": "Papelaria"
       },
       "daysOff": [],
       "vacations": [],
@@ -1342,7 +1342,7 @@
       "id": 5,
       "name": "Rita",
       "department": {
-        "departmentId": 2,
+        "departmentId": 6,
         "departmentName": "Fornecedores"
       },
       "daysOff": [],
@@ -1354,7 +1354,7 @@
       "id": 6,
       "name": "Leandro",
       "department": {
-        "departmentId": 2,
+        "departmentId": 6,
         "departmentName": "Fornecedores"
       },
       "daysOff": [],
@@ -1366,7 +1366,7 @@
       "id": 7,
       "name": "Rui",
       "department": {
-        "departmentId": 2,
+        "departmentId": 6,
         "departmentName": "Fornecedores"
       },
       "daysOff": [],
@@ -1378,8 +1378,8 @@
       "id": 8,
       "name": "Paulo",
       "department": {
-        "departmentId": 3,
-        "departmentName": "Comercial"
+        "departmentId": 2,
+        "departmentName": "Vendas"
       },
       "daysOff": [],
       "vacations": [],
@@ -1388,10 +1388,10 @@
     },
     {
       "id": 9,
-      "name": "Nuno",
+      "name": "Barros",
       "department": {
-        "departmentId": 3,
-        "departmentName": "Comercial"
+        "departmentId": 2,
+        "departmentName": "Vendas"
       },
       "daysOff": [],
       "vacations": [],
@@ -1402,8 +1402,8 @@
       "id": 10,
       "name": "Pinto",
       "department": {
-        "departmentId": 3,
-        "departmentName": "Comercial"
+        "departmentId": 2,
+        "departmentName": "Vendas"
       },
       "daysOff": [],
       "vacations": [],
@@ -1414,8 +1414,8 @@
       "id": 11,
       "name": "Tânia",
       "department": {
-        "departmentId": 4,
-        "departmentName": "Atendimento"
+        "departmentId": 1,
+        "departmentName": "Faturação"
       },
       "daysOff": [],
       "vacations": [],
@@ -1426,8 +1426,8 @@
       "id": 12,
       "name": "Luz",
       "department": {
-        "departmentId": 4,
-        "departmentName": "Atendimento"
+        "departmentId": 1,
+        "departmentName": "Faturação"
       },
       "daysOff": [],
       "vacations": [],
@@ -1438,8 +1438,44 @@
       "id": 13,
       "name": "Isabel",
       "department": {
+        "departmentId": 1,
+        "departmentName": "Faturação"
+      },
+      "daysOff": [],
+      "vacations": [],
+      "absence": [],
+      "events": []
+    },
+    {
+      "id": 14,
+      "name": "Tiago",
+      "department": {
         "departmentId": 4,
-        "departmentName": "Atendimento"
+        "departmentName": "Mobiliário"
+      },
+      "daysOff": [],
+      "vacations": [],
+      "absence": [],
+      "events": []
+    },
+    {
+      "id": 15,
+      "name": "Xavier",
+      "department": {
+        "departmentId": 5,
+        "departmentName": "Entregas"
+      },
+      "daysOff": [],
+      "vacations": [],
+      "absence": [],
+      "events": []
+    },
+    {
+      "id": 16,
+      "name": "Malheiro",
+      "department": {
+        "departmentId": 5,
+        "departmentName": "Entregas"
       },
       "daysOff": [],
       "vacations": [],
