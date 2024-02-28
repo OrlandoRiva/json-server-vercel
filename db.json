@@ -7088,7 +7088,7 @@
       "id": 760
     },
     {
-      "name": "VXL > Artigos desportivos > Atividades ao ar livre > Caça e tiro > Equipamentos de proteção para caça e tiro",
+      "name": "VXL > Artigos desportivos > Atividades ao ar livre > Caça e tiro > Equipamentos de proteção para caça e tiro > ",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -12000,6 +12000,14 @@
       "id": 1450
     },
     {
+      "name": "VXL > Malas e sacos > ",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "vidaXL",
+      "id": 1451
+    },
+    {
       "name": "VXL > Malas e sacos > Acessórios para malas > Suportes para malas",
       "riva_name": "",
       "riva_id": null,
@@ -12952,7 +12960,7 @@
       "id": 1586
     },
     {
-      "name": "Casa Jardim > Animais de Estimação > Brinquedos",
+      "name": "BB > Casa Jardim > Animais de Estimação > Brinquedos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -12960,7 +12968,7 @@
       "id": 1588
     },
     {
-      "name": "Casa Jardim > Animais de Estimação > Camas e colchões",
+      "name": "BB > Casa Jardim > Animais de Estimação > Camas e colchões",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -12968,7 +12976,7 @@
       "id": 1589
     },
     {
-      "name": "Casa Jardim > Animais de Estimação > Comida para animais",
+      "name": "BB > Casa Jardim > Animais de Estimação > Comida para animais",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -12976,7 +12984,7 @@
       "id": 1590
     },
     {
-      "name": "Casa Jardim > Animais de Estimação > Equipamento para alimentação",
+      "name": "BB > Casa Jardim > Animais de Estimação > Equipamento para alimentação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -12984,7 +12992,7 @@
       "id": 1591
     },
     {
-      "name": "Casa Jardim > Animais de Estimação > Saúde e higiene",
+      "name": "BB > Casa Jardim > Animais de Estimação > Saúde e higiene",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -12992,7 +13000,7 @@
       "id": 1592
     },
     {
-      "name": "Casa Jardim > Animais de Estimação > Viajar e passear",
+      "name": "BB > Casa Jardim > Animais de Estimação > Viajar e passear",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13000,7 +13008,7 @@
       "id": 1593
     },
     {
-      "name": "Casa Jardim > Banho > Acessórios e torneiras",
+      "name": "BB > Casa Jardim > Banho > Acessórios e torneiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13008,7 +13016,7 @@
       "id": 1594
     },
     {
-      "name": "Casa Jardim > Banho > Balanças",
+      "name": "BB > Casa Jardim > Banho > Balanças",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13016,7 +13024,7 @@
       "id": 1595
     },
     {
-      "name": "Casa Jardim > Banho > Cortinas e tapetes",
+      "name": "BB > Casa Jardim > Banho > Cortinas e tapetes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13024,7 +13032,7 @@
       "id": 1596
     },
     {
-      "name": "Casa Jardim > Banho > Extratores",
+      "name": "BB > Casa Jardim > Banho > Extratores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13032,7 +13040,7 @@
       "id": 1597
     },
     {
-      "name": "Casa Jardim > Bricolage e Ferramentas",
+      "name": "BB > Casa Jardim > Bricolage e Ferramentas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13040,7 +13048,7 @@
       "id": 1598
     },
     {
-      "name": "Casa Jardim > Climatização e Aquecimento > Ar condicionado e ventiladores",
+      "name": "BB > Casa Jardim > Climatização e Aquecimento > Ar condicionado e ventiladores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13048,7 +13056,7 @@
       "id": 1599
     },
     {
-      "name": "Casa Jardim > Climatização e Aquecimento > Humidificadores",
+      "name": "BB > Casa Jardim > Climatização e Aquecimento > Humidificadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13056,7 +13064,7 @@
       "id": 1600
     },
     {
-      "name": "Casa Jardim > Climatização e Aquecimento > Radiadores e aquecedores",
+      "name": "BB > Casa Jardim > Climatização e Aquecimento > Radiadores e aquecedores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13064,7 +13072,7 @@
       "id": 1601
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Batentes",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Batentes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13072,7 +13080,7 @@
       "id": 1603
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Caixas de jóias e jarros de cerâmica",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Caixas de jóias e jarros de cerâmica",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13080,7 +13088,7 @@
       "id": 1604
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Candeeiros",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Candeeiros",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13088,7 +13096,7 @@
       "id": 1605
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Centros de mesa e jarros",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Centros de mesa e jarros",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13096,7 +13104,7 @@
       "id": 1606
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Decoração natalícia",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Decoração natalícia",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13104,7 +13112,7 @@
       "id": 1607
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Despertadores",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Despertadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13112,7 +13120,7 @@
       "id": 1608
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Espelhos",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Espelhos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13120,7 +13128,7 @@
       "id": 1609
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Iluminação LED",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Iluminação LED",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13128,7 +13136,7 @@
       "id": 1610
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Iluminação solar",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Iluminação solar",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13136,7 +13144,7 @@
       "id": 1611
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Isqueiros, cigarreiras e cinzeiros",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Isqueiros, cigarreiras e cinzeiros",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13144,7 +13152,7 @@
       "id": 1612
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Lâmpadas",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Lâmpadas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13152,7 +13160,7 @@
       "id": 1613
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Mealherios",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Mealherios",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13160,7 +13168,7 @@
       "id": 1614
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Molduras e porta-retratos",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Molduras e porta-retratos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13168,7 +13176,7 @@
       "id": 1615
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Outros artigos de decoração",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Outros artigos de decoração",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13176,7 +13184,7 @@
       "id": 1616
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Quadros e cartazes",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Quadros e cartazes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13184,7 +13192,7 @@
       "id": 1617
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Relógios de parede e de mesa",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Relógios de parede e de mesa",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13192,7 +13200,7 @@
       "id": 1618
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Suportes para guarda-chuvas e revistas",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Suportes para guarda-chuvas e revistas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13200,7 +13208,7 @@
       "id": 1619
     },
     {
-      "name": "Casa Jardim > Decoração e Iluminaçao > Velas e castiçais",
+      "name": "BB > Casa Jardim > Decoração e Iluminaçao > Velas e castiçais",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13208,7 +13216,7 @@
       "id": 1620
     },
     {
-      "name": "Casa Jardim > Jardim e Terraço > Decoração, iluminação e mobiliário",
+      "name": "BB > Casa Jardim > Jardim e Terraço > Decoração, iluminação e mobiliário",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13216,7 +13224,7 @@
       "id": 1622
     },
     {
-      "name": "Casa Jardim > Jardim e Terraço > Grelhadores e Acessórios",
+      "name": "BB > Casa Jardim > Jardim e Terraço > Grelhadores e Acessórios",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13224,7 +13232,7 @@
       "id": 1623
     },
     {
-      "name": "Casa Jardim > Jardim e Terraço > Iluminação e decoração de exteriores",
+      "name": "BB > Casa Jardim > Jardim e Terraço > Iluminação e decoração de exteriores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13232,7 +13240,7 @@
       "id": 1624
     },
     {
-      "name": "Casa Jardim > Jardim e Terraço > Jardinagem",
+      "name": "BB > Casa Jardim > Jardim e Terraço > Jardinagem",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13240,7 +13248,7 @@
       "id": 1625
     },
     {
-      "name": "Casa Jardim > Jardim e Terraço > Mangueiras e sistemas de rega",
+      "name": "BB > Casa Jardim > Jardim e Terraço > Mangueiras e sistemas de rega",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13248,7 +13256,7 @@
       "id": 1626
     },
     {
-      "name": "Casa Jardim > Jardim e Terraço > Repelentes",
+      "name": "BB > Casa Jardim > Jardim e Terraço > Repelentes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13256,7 +13264,7 @@
       "id": 1627
     },
     {
-      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Ambientadores automáticos",
+      "name": "BB > Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Ambientadores automáticos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13264,7 +13272,7 @@
       "id": 1629
     },
     {
-      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Ambientadores elétricos",
+      "name": "BB > Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Ambientadores elétricos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13272,7 +13280,7 @@
       "id": 1630
     },
     {
-      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Ambientadores em spray",
+      "name": "BB > Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Ambientadores em spray",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13280,7 +13288,7 @@
       "id": 1631
     },
     {
-      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Ambientadores mikado",
+      "name": "BB > Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Ambientadores mikado",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13288,7 +13296,7 @@
       "id": 1632
     },
     {
-      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Ambientadores para o carro",
+      "name": "BB > Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Ambientadores para o carro",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13296,7 +13304,7 @@
       "id": 1633
     },
     {
-      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Aspiradores e robôs",
+      "name": "BB > Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Aspiradores e robôs",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13304,7 +13312,7 @@
       "id": 1634
     },
     {
-      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Esfregonas e vassouras",
+      "name": "BB > Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Esfregonas e vassouras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13312,7 +13320,7 @@
       "id": 1635
     },
     {
-      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Limpeza a vapor",
+      "name": "BB > Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Limpeza a vapor",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13320,7 +13328,7 @@
       "id": 1636
     },
     {
-      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Máquinas de costura",
+      "name": "BB > Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Máquinas de costura",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13328,7 +13336,7 @@
       "id": 1637
     },
     {
-      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Outros produtos para o lar",
+      "name": "BB > Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Outros produtos para o lar",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13336,7 +13344,7 @@
       "id": 1638
     },
     {
-      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Purificadores",
+      "name": "BB > Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Purificadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13344,7 +13352,7 @@
       "id": 1639
     },
     {
-      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Secadores, ferros de engomar e estendais",
+      "name": "BB > Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Secadores, ferros de engomar e estendais",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13352,7 +13360,7 @@
       "id": 1640
     },
     {
-      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Velas perfumadas",
+      "name": "BB > Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Velas perfumadas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13360,7 +13368,7 @@
       "id": 1641
     },
     {
-      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Óleos essenciais",
+      "name": "BB > Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Óleos essenciais",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13368,7 +13376,7 @@
       "id": 1642
     },
     {
-      "name": "Casa Jardim > Mobiliário > Baús",
+      "name": "BB > Casa Jardim > Mobiliário > Baús",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13376,7 +13384,7 @@
       "id": 1643
     },
     {
-      "name": "Casa Jardim > Mobiliário > Bengaleiros e prateleiras",
+      "name": "BB > Casa Jardim > Mobiliário > Bengaleiros e prateleiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13384,7 +13392,7 @@
       "id": 1644
     },
     {
-      "name": "Casa Jardim > Mobiliário > Biombos",
+      "name": "BB > Casa Jardim > Mobiliário > Biombos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13392,7 +13400,7 @@
       "id": 1645
     },
     {
-      "name": "Casa Jardim > Mobiliário > Cabeceiras e pés de cama",
+      "name": "BB > Casa Jardim > Mobiliário > Cabeceiras e pés de cama",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13400,7 +13408,7 @@
       "id": 1646
     },
     {
-      "name": "Casa Jardim > Mobiliário > Cadeiras de relaxamento",
+      "name": "BB > Casa Jardim > Mobiliário > Cadeiras de relaxamento",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13408,7 +13416,7 @@
       "id": 1647
     },
     {
-      "name": "Casa Jardim > Mobiliário > Cómodas, toucadores e armarios",
+      "name": "BB > Casa Jardim > Mobiliário > Cómodas, toucadores e armarios",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13416,7 +13424,7 @@
       "id": 1648
     },
     {
-      "name": "Casa Jardim > Mobiliário > Estantes",
+      "name": "BB > Casa Jardim > Mobiliário > Estantes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13424,7 +13432,7 @@
       "id": 1649
     },
     {
-      "name": "Casa Jardim > Mobiliário > Gavetas, armários e aparadores",
+      "name": "BB > Casa Jardim > Mobiliário > Gavetas, armários e aparadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13432,7 +13440,7 @@
       "id": 1650
     },
     {
-      "name": "Casa Jardim > Mobiliário > Mesas de cabeceira",
+      "name": "BB > Casa Jardim > Mobiliário > Mesas de cabeceira",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13440,7 +13448,7 @@
       "id": 1651
     },
     {
-      "name": "Casa Jardim > Mobiliário > Mesas e cadeiras",
+      "name": "BB > Casa Jardim > Mobiliário > Mesas e cadeiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13448,7 +13456,7 @@
       "id": 1652
     },
     {
-      "name": "Casa Jardim > Mobiliário > Móveis para a TV e auxiliares",
+      "name": "BB > Casa Jardim > Mobiliário > Móveis para a TV e auxiliares",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13456,7 +13464,7 @@
       "id": 1653
     },
     {
-      "name": "Casa Jardim > Mobiliário > Organizadores de sapatos",
+      "name": "BB > Casa Jardim > Mobiliário > Organizadores de sapatos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13464,7 +13472,7 @@
       "id": 1654
     },
     {
-      "name": "Casa Jardim > Mobiliário > Poltronas, cadeiras de balanço e sofás",
+      "name": "BB > Casa Jardim > Mobiliário > Poltronas, cadeiras de balanço e sofás",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13472,7 +13480,7 @@
       "id": 1655
     },
     {
-      "name": "Casa Jardim > Mobiliário > Puffs e bancos",
+      "name": "BB > Casa Jardim > Mobiliário > Puffs e bancos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13480,7 +13488,7 @@
       "id": 1656
     },
     {
-      "name": "Casa Jardim > Mobiliário > Secretárias",
+      "name": "BB > Casa Jardim > Mobiliário > Secretárias",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13488,7 +13496,7 @@
       "id": 1657
     },
     {
-      "name": "Casa Jardim > Mobiliário > Sofás e sofá-camas",
+      "name": "BB > Casa Jardim > Mobiliário > Sofás e sofá-camas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13496,7 +13504,7 @@
       "id": 1658
     },
     {
-      "name": "Casa Jardim > Organizadores",
+      "name": "BB > Casa Jardim > Organizadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13504,7 +13512,7 @@
       "id": 1659
     },
     {
-      "name": "Casa Jardim > Relaxamento > Almofadas",
+      "name": "BB > Casa Jardim > Relaxamento > Almofadas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13512,7 +13520,7 @@
       "id": 1660
     },
     {
-      "name": "Casa Jardim > Relaxamento > Colchões",
+      "name": "BB > Casa Jardim > Relaxamento > Colchões",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13520,7 +13528,7 @@
       "id": 1661
     },
     {
-      "name": "Casa Jardim > Segurança em Casa > Câmaras IP",
+      "name": "BB > Casa Jardim > Segurança em Casa > Câmaras IP",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13528,7 +13536,7 @@
       "id": 1663
     },
     {
-      "name": "Casa Jardim > Segurança em Casa > Intercomunicador para bebés",
+      "name": "BB > Casa Jardim > Segurança em Casa > Intercomunicador para bebés",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13536,7 +13544,7 @@
       "id": 1664
     },
     {
-      "name": "Casa Jardim > Segurança em Casa > Lâmpadas inteligentes",
+      "name": "BB > Casa Jardim > Segurança em Casa > Lâmpadas inteligentes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13544,7 +13552,7 @@
       "id": 1665
     },
     {
-      "name": "Casa Jardim > Segurança em Casa > Sistemas de segurança",
+      "name": "BB > Casa Jardim > Segurança em Casa > Sistemas de segurança",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13552,7 +13560,7 @@
       "id": 1666
     },
     {
-      "name": "Casa Jardim > Segurança em Casa > Tomadas inteligentes",
+      "name": "BB > Casa Jardim > Segurança em Casa > Tomadas inteligentes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13560,7 +13568,7 @@
       "id": 1667
     },
     {
-      "name": "Casa Jardim > Segurança em Casa > Videocâmaras de vigilância",
+      "name": "BB > Casa Jardim > Segurança em Casa > Videocâmaras de vigilância",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13568,7 +13576,7 @@
       "id": 1668
     },
     {
-      "name": "Casa Jardim > Têxtil para uso doméstico > Almofadas e travesseiros",
+      "name": "BB > Casa Jardim > Têxtil para uso doméstico > Almofadas e travesseiros",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13576,7 +13584,7 @@
       "id": 1669
     },
     {
-      "name": "Casa Jardim > Têxtil para uso doméstico > Capas de edredão",
+      "name": "BB > Casa Jardim > Têxtil para uso doméstico > Capas de edredão",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13584,7 +13592,7 @@
       "id": 1670
     },
     {
-      "name": "Casa Jardim > Têxtil para uso doméstico > Capas de edredão nórdicas",
+      "name": "BB > Casa Jardim > Têxtil para uso doméstico > Capas de edredão nórdicas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13592,7 +13600,7 @@
       "id": 1671
     },
     {
-      "name": "Casa Jardim > Têxtil para uso doméstico > Colchas",
+      "name": "BB > Casa Jardim > Têxtil para uso doméstico > Colchas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13600,7 +13608,7 @@
       "id": 1672
     },
     {
-      "name": "Casa Jardim > Têxtil para uso doméstico > Cortinas",
+      "name": "BB > Casa Jardim > Têxtil para uso doméstico > Cortinas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13608,7 +13616,7 @@
       "id": 1673
     },
     {
-      "name": "Casa Jardim > Têxtil para uso doméstico > Estores",
+      "name": "BB > Casa Jardim > Têxtil para uso doméstico > Estores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13616,7 +13624,7 @@
       "id": 1674
     },
     {
-      "name": "Casa Jardim > Têxtil para uso doméstico > Faixas e toalhas de mesa",
+      "name": "BB > Casa Jardim > Têxtil para uso doméstico > Faixas e toalhas de mesa",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13624,7 +13632,7 @@
       "id": 1675
     },
     {
-      "name": "Casa Jardim > Têxtil para uso doméstico > Lençóis",
+      "name": "BB > Casa Jardim > Têxtil para uso doméstico > Lençóis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13632,7 +13640,7 @@
       "id": 1676
     },
     {
-      "name": "Casa Jardim > Têxtil para uso doméstico > Roupões de banho",
+      "name": "BB > Casa Jardim > Têxtil para uso doméstico > Roupões de banho",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13640,7 +13648,7 @@
       "id": 1677
     },
     {
-      "name": "Casa Jardim > Têxtil para uso doméstico > Tapetes e cobertores",
+      "name": "BB > Casa Jardim > Têxtil para uso doméstico > Tapetes e cobertores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13648,7 +13656,7 @@
       "id": 1678
     },
     {
-      "name": "Casa Jardim > Têxtil para uso doméstico > Toalhas",
+      "name": "BB > Casa Jardim > Têxtil para uso doméstico > Toalhas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13656,7 +13664,7 @@
       "id": 1679
     },
     {
-      "name": "Cozinha Gourmet > Alimentação > Alimentação infantil",
+      "name": "BB > Cozinha Gourmet > Alimentação > Alimentação infantil",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13664,7 +13672,7 @@
       "id": 1680
     },
     {
-      "name": "Cozinha Gourmet > Alimentação > Arroz e massas",
+      "name": "BB > Cozinha Gourmet > Alimentação > Arroz e massas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13672,7 +13680,7 @@
       "id": 1681
     },
     {
-      "name": "Cozinha Gourmet > Alimentação > Azeitonas e picles",
+      "name": "BB > Cozinha Gourmet > Alimentação > Azeitonas e picles",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13680,7 +13688,7 @@
       "id": 1682
     },
     {
-      "name": "Cozinha Gourmet > Alimentação > Açúcar e adoçantes",
+      "name": "BB > Cozinha Gourmet > Alimentação > Açúcar e adoçantes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13688,7 +13696,7 @@
       "id": 1683
     },
     {
-      "name": "Cozinha Gourmet > Alimentação > Bebidas, refrigerantes e infusões",
+      "name": "BB > Cozinha Gourmet > Alimentação > Bebidas, refrigerantes e infusões",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13696,7 +13704,7 @@
       "id": 1684
     },
     {
-      "name": "Cozinha Gourmet > Alimentação > Conservas e pratos combinados",
+      "name": "BB > Cozinha Gourmet > Alimentação > Conservas e pratos combinados",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13704,7 +13712,7 @@
       "id": 1685
     },
     {
-      "name": "Cozinha Gourmet > Alimentação > Especiarias, caldos e cremes",
+      "name": "BB > Cozinha Gourmet > Alimentação > Especiarias, caldos e cremes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13712,7 +13720,7 @@
       "id": 1686
     },
     {
-      "name": "Cozinha Gourmet > Alimentação > Maionese, molhos e óleos",
+      "name": "BB > Cozinha Gourmet > Alimentação > Maionese, molhos e óleos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13720,7 +13728,7 @@
       "id": 1687
     },
     {
-      "name": "Cozinha Gourmet > Alimentação > Pequeno-almoço e laticínios",
+      "name": "BB > Cozinha Gourmet > Alimentação > Pequeno-almoço e laticínios",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13728,7 +13736,7 @@
       "id": 1688
     },
     {
-      "name": "Cozinha Gourmet > Alimentação > Petiscos",
+      "name": "BB > Cozinha Gourmet > Alimentação > Petiscos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13736,7 +13744,7 @@
       "id": 1689
     },
     {
-      "name": "Cozinha Gourmet > Alimentação > Pão e farinhas",
+      "name": "BB > Cozinha Gourmet > Alimentação > Pão e farinhas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13744,7 +13752,7 @@
       "id": 1690
     },
     {
-      "name": "Cozinha Gourmet > Confeitaria > Decoração, acessórios e moldes",
+      "name": "BB > Cozinha Gourmet > Confeitaria > Decoração, acessórios e moldes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13752,7 +13760,7 @@
       "id": 1691
     },
     {
-      "name": "Cozinha Gourmet > Confeitaria > Fontes e fondues",
+      "name": "BB > Cozinha Gourmet > Confeitaria > Fontes e fondues",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13760,7 +13768,7 @@
       "id": 1692
     },
     {
-      "name": "Cozinha Gourmet > Confeitaria > Geladeiras e iogurteiras",
+      "name": "BB > Cozinha Gourmet > Confeitaria > Geladeiras e iogurteiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13768,7 +13776,7 @@
       "id": 1693
     },
     {
-      "name": "Cozinha Gourmet > Confeitaria > Máquinas de crepes e waffles",
+      "name": "BB > Cozinha Gourmet > Confeitaria > Máquinas de crepes e waffles",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13776,7 +13784,7 @@
       "id": 1694
     },
     {
-      "name": "Cozinha Gourmet > Enologia",
+      "name": "BB > Cozinha Gourmet > Enologia",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13784,7 +13792,7 @@
       "id": 1695
     },
     {
-      "name": "Cozinha Gourmet > Equipamento de Cozinha > Exaustores",
+      "name": "BB > Cozinha Gourmet > Equipamento de Cozinha > Exaustores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13792,7 +13800,7 @@
       "id": 1696
     },
     {
-      "name": "Cozinha Gourmet > Equipamento de Cozinha > Lava-louças",
+      "name": "BB > Cozinha Gourmet > Equipamento de Cozinha > Lava-louças",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13800,7 +13808,7 @@
       "id": 1697
     },
     {
-      "name": "Cozinha Gourmet > Equipamento de Cozinha > Torneiras",
+      "name": "BB > Cozinha Gourmet > Equipamento de Cozinha > Torneiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13808,7 +13816,7 @@
       "id": 1698
     },
     {
-      "name": "Cozinha Gourmet > Garrafeiras",
+      "name": "BB > Cozinha Gourmet > Garrafeiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13816,7 +13824,7 @@
       "id": 1699
     },
     {
-      "name": "Cozinha Gourmet > Gourmet > Azeite",
+      "name": "BB > Cozinha Gourmet > Gourmet > Azeite",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13824,7 +13832,7 @@
       "id": 1700
     },
     {
-      "name": "Cozinha Gourmet > Gourmet > Conjuntos de degustação",
+      "name": "BB > Cozinha Gourmet > Gourmet > Conjuntos de degustação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13832,7 +13840,7 @@
       "id": 1701
     },
     {
-      "name": "Cozinha Gourmet > Gourmet > Cápsulas de café",
+      "name": "BB > Cozinha Gourmet > Gourmet > Cápsulas de café",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13840,7 +13848,7 @@
       "id": 1702
     },
     {
-      "name": "Cozinha Gourmet > Gourmet > Presuntos e suportes de presunto",
+      "name": "BB > Cozinha Gourmet > Gourmet > Presuntos e suportes de presunto",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13848,7 +13856,7 @@
       "id": 1703
     },
     {
-      "name": "Cozinha Gourmet > Licores e Acessórios",
+      "name": "BB > Cozinha Gourmet > Licores e Acessórios",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13856,7 +13864,7 @@
       "id": 1704
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Amassadeiras",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Amassadeiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13864,7 +13872,7 @@
       "id": 1705
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Balanças de cozinha",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Balanças de cozinha",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13872,7 +13880,7 @@
       "id": 1706
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Batedeiras",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Batedeiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13880,7 +13888,7 @@
       "id": 1707
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Cafeteiras",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Cafeteiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13888,7 +13896,7 @@
       "id": 1708
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Chaleiras",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Chaleiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13896,7 +13904,7 @@
       "id": 1709
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Chapas e grelhadores",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Chapas e grelhadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13904,7 +13912,7 @@
       "id": 1710
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Espremedores",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Espremedores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13912,7 +13920,7 @@
       "id": 1711
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Fondues",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Fondues",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13920,7 +13928,7 @@
       "id": 1712
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Fornos",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Fornos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13928,7 +13936,7 @@
       "id": 1713
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Frigideiras elétrico",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Frigideiras elétrico",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13936,7 +13944,7 @@
       "id": 1714
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Fritadeiras",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Fritadeiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13944,7 +13952,7 @@
       "id": 1715
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Liquidificadores",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Liquidificadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13952,7 +13960,7 @@
       "id": 1716
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Micro-ondas",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Micro-ondas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13960,7 +13968,7 @@
       "id": 1717
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Micro-ondas e fornos",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Micro-ondas e fornos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13968,7 +13976,7 @@
       "id": 1718
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Máquinas de arroz",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Máquinas de arroz",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13976,7 +13984,7 @@
       "id": 1719
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Máquinas de embalamento por vácuo",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Máquinas de embalamento por vácuo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13984,7 +13992,7 @@
       "id": 1720
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Outros eletrodomésticos de cozinha",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Outros eletrodomésticos de cozinha",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -13992,7 +14000,7 @@
       "id": 1721
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Placas de fogão",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Placas de fogão",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14000,7 +14008,7 @@
       "id": 1722
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Refrigeradores e congeladores",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Refrigeradores e congeladores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14008,7 +14016,7 @@
       "id": 1723
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Robôs de cozinha",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Robôs de cozinha",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14016,7 +14024,7 @@
       "id": 1724
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Sanduicheiras",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Sanduicheiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14024,7 +14032,7 @@
       "id": 1725
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Torradeiras",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Torradeiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14032,7 +14040,7 @@
       "id": 1726
     },
     {
-      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Trituradores",
+      "name": "BB > Cozinha Gourmet > Pequenos Eletrodomésticos > Trituradores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14040,7 +14048,7 @@
       "id": 1727
     },
     {
-      "name": "Cozinha Gourmet > Utensílios de Cozinha > Canecas e garrafas térmicas",
+      "name": "BB > Cozinha Gourmet > Utensílios de Cozinha > Canecas e garrafas térmicas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14048,7 +14056,7 @@
       "id": 1728
     },
     {
-      "name": "Cozinha Gourmet > Utensílios de Cozinha > Conjuntos de tachos",
+      "name": "BB > Cozinha Gourmet > Utensílios de Cozinha > Conjuntos de tachos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14056,7 +14064,7 @@
       "id": 1729
     },
     {
-      "name": "Cozinha Gourmet > Utensílios de Cozinha > Copos e jarros",
+      "name": "BB > Cozinha Gourmet > Utensílios de Cozinha > Copos e jarros",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14064,7 +14072,7 @@
       "id": 1730
     },
     {
-      "name": "Cozinha Gourmet > Utensílios de Cozinha > Facas e afiadores",
+      "name": "BB > Cozinha Gourmet > Utensílios de Cozinha > Facas e afiadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14072,7 +14080,7 @@
       "id": 1731
     },
     {
-      "name": "Cozinha Gourmet > Utensílios de Cozinha > Panos de cozinha",
+      "name": "BB > Cozinha Gourmet > Utensílios de Cozinha > Panos de cozinha",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14080,7 +14088,7 @@
       "id": 1732
     },
     {
-      "name": "Cozinha Gourmet > Utensílios de Cozinha > Porta-copos, jogos americanos e guardanapos",
+      "name": "BB > Cozinha Gourmet > Utensílios de Cozinha > Porta-copos, jogos americanos e guardanapos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14088,7 +14096,7 @@
       "id": 1733
     },
     {
-      "name": "Cozinha Gourmet > Utensílios de Cozinha > Pratos, bandejas e travessas",
+      "name": "BB > Cozinha Gourmet > Utensílios de Cozinha > Pratos, bandejas e travessas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14096,7 +14104,7 @@
       "id": 1734
     },
     {
-      "name": "Cozinha Gourmet > Utensílios de Cozinha > Tachos e panelas",
+      "name": "BB > Cozinha Gourmet > Utensílios de Cozinha > Tachos e panelas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14104,7 +14112,7 @@
       "id": 1735
     },
     {
-      "name": "Cozinha Gourmet > Utensílios e accessorios de cozinha > Caixas de cozinha e caixas de pão",
+      "name": "BB > Cozinha Gourmet > Utensílios e accessorios de cozinha > Caixas de cozinha e caixas de pão",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14112,7 +14120,7 @@
       "id": 1737
     },
     {
-      "name": "Cozinha Gourmet > Utensílios e accessorios de cozinha > Lancheiras, porta-alimentos e saladeiras",
+      "name": "BB > Cozinha Gourmet > Utensílios e accessorios de cozinha > Lancheiras, porta-alimentos e saladeiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14120,7 +14128,7 @@
       "id": 1738
     },
     {
-      "name": "Cozinha Gourmet > Utensílios e accessorios de cozinha > Outros acessórios e utensílios de cozinha",
+      "name": "BB > Cozinha Gourmet > Utensílios e accessorios de cozinha > Outros acessórios e utensílios de cozinha",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14128,7 +14136,7 @@
       "id": 1739
     },
     {
-      "name": "Cozinha Gourmet > Utensílios e accessorios de cozinha > Papel e sacos de conservação",
+      "name": "BB > Cozinha Gourmet > Utensílios e accessorios de cozinha > Papel e sacos de conservação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14136,7 +14144,7 @@
       "id": 1740
     },
     {
-      "name": "Cozinha Gourmet > Utensílios e accessorios de cozinha > Raladores, cortadores e descascadores",
+      "name": "BB > Cozinha Gourmet > Utensílios e accessorios de cozinha > Raladores, cortadores e descascadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14144,7 +14152,7 @@
       "id": 1741
     },
     {
-      "name": "Cozinha Gourmet > Utensílios e accessorios de cozinha > Recipientes para especiarias e molhos",
+      "name": "BB > Cozinha Gourmet > Utensílios e accessorios de cozinha > Recipientes para especiarias e molhos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14152,7 +14160,7 @@
       "id": 1742
     },
     {
-      "name": "Cozinha Gourmet > Utensílios e accessorios de cozinha > Saca-rolhas, abridor de lata e abridor de garrafas",
+      "name": "BB > Cozinha Gourmet > Utensílios e accessorios de cozinha > Saca-rolhas, abridor de lata e abridor de garrafas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14160,7 +14168,7 @@
       "id": 1743
     },
     {
-      "name": "Cozinha Gourmet > Utensílios e accessorios de cozinha > Tábuas de cozinha",
+      "name": "BB > Cozinha Gourmet > Utensílios e accessorios de cozinha > Tábuas de cozinha",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14168,7 +14176,7 @@
       "id": 1744
     },
     {
-      "name": "Desporto Lazer > Acessórios para Automóveis > Acessórios e organizadores para veículos",
+      "name": "BB > Desporto Lazer > Acessórios para Automóveis > Acessórios e organizadores para veículos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14176,7 +14184,7 @@
       "id": 1746
     },
     {
-      "name": "Desporto Lazer > Acessórios para Automóveis > Assentos e acessórios para veículos",
+      "name": "BB > Desporto Lazer > Acessórios para Automóveis > Assentos e acessórios para veículos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14184,7 +14192,7 @@
       "id": 1747
     },
     {
-      "name": "Desporto Lazer > Acessórios para Automóveis > Autocolantes e tuning",
+      "name": "BB > Desporto Lazer > Acessórios para Automóveis > Autocolantes e tuning",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14192,7 +14200,7 @@
       "id": 1748
     },
     {
-      "name": "Desporto Lazer > Acessórios para Automóveis > Baterias para carros",
+      "name": "BB > Desporto Lazer > Acessórios para Automóveis > Baterias para carros",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14200,7 +14208,7 @@
       "id": 1749
     },
     {
-      "name": "Desporto Lazer > Acessórios para Automóveis > Iluminação LED/HID e lâmpadas para o carro",
+      "name": "BB > Desporto Lazer > Acessórios para Automóveis > Iluminação LED/HID e lâmpadas para o carro",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14208,7 +14216,7 @@
       "id": 1750
     },
     {
-      "name": "Desporto Lazer > Acessórios para Automóveis > Kits de emergência e reparação",
+      "name": "BB > Desporto Lazer > Acessórios para Automóveis > Kits de emergência e reparação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14216,7 +14224,7 @@
       "id": 1751
     },
     {
-      "name": "Desporto Lazer > Acessórios para Automóveis > Limpeza e manutenção de carros",
+      "name": "BB > Desporto Lazer > Acessórios para Automóveis > Limpeza e manutenção de carros",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14224,7 +14232,7 @@
       "id": 1752
     },
     {
-      "name": "Desporto Lazer > Acessórios para Automóveis > Peças para automóvel e peças sobresselentes",
+      "name": "BB > Desporto Lazer > Acessórios para Automóveis > Peças para automóvel e peças sobresselentes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14232,7 +14240,7 @@
       "id": 1753
     },
     {
-      "name": "Desporto Lazer > Acessórios para Automóveis > Produtos para a manutenção do carro",
+      "name": "BB > Desporto Lazer > Acessórios para Automóveis > Produtos para a manutenção do carro",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14240,7 +14248,7 @@
       "id": 1754
     },
     {
-      "name": "Desporto Lazer > Acessórios para Automóveis > Produtos para o cuidado de motas",
+      "name": "BB > Desporto Lazer > Acessórios para Automóveis > Produtos para o cuidado de motas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14248,7 +14256,7 @@
       "id": 1755
     },
     {
-      "name": "Desporto Lazer > Acessórios para Automóveis > Proteção e segurança do carro",
+      "name": "BB > Desporto Lazer > Acessórios para Automóveis > Proteção e segurança do carro",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14256,7 +14264,7 @@
       "id": 1756
     },
     {
-      "name": "Desporto Lazer > Acessórios para Automóveis > Roupa e acessórios de karting",
+      "name": "BB > Desporto Lazer > Acessórios para Automóveis > Roupa e acessórios de karting",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14264,7 +14272,7 @@
       "id": 1757
     },
     {
-      "name": "Desporto Lazer > Acessórios para Automóveis > Roupa e acessórios de racing",
+      "name": "BB > Desporto Lazer > Acessórios para Automóveis > Roupa e acessórios de racing",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14272,7 +14280,7 @@
       "id": 1758
     },
     {
-      "name": "Desporto Lazer > Acessórios para Automóveis > Roupa e acessórios de trabalho para mecânicos",
+      "name": "BB > Desporto Lazer > Acessórios para Automóveis > Roupa e acessórios de trabalho para mecânicos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14280,7 +14288,7 @@
       "id": 1759
     },
     {
-      "name": "Desporto Lazer > Acessórios para Automóveis > Sensores e eletrónica para carros",
+      "name": "BB > Desporto Lazer > Acessórios para Automóveis > Sensores e eletrónica para carros",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14288,7 +14296,7 @@
       "id": 1760
     },
     {
-      "name": "Desporto Lazer > Acessórios para Automóveis > Tintas e acessórios de pintura",
+      "name": "BB > Desporto Lazer > Acessórios para Automóveis > Tintas e acessórios de pintura",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14296,7 +14304,7 @@
       "id": 1761
     },
     {
-      "name": "Desporto Lazer > Atividades ao Ar Livre",
+      "name": "BB > Desporto Lazer > Atividades ao Ar Livre",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14304,7 +14312,7 @@
       "id": 1762
     },
     {
-      "name": "Desporto Lazer > Basquetebol > Acessórios de basquetebol",
+      "name": "BB > Desporto Lazer > Basquetebol > Acessórios de basquetebol",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14312,7 +14320,7 @@
       "id": 1763
     },
     {
-      "name": "Desporto Lazer > Basquetebol > Bolas de basquete",
+      "name": "BB > Desporto Lazer > Basquetebol > Bolas de basquete",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14320,7 +14328,7 @@
       "id": 1764
     },
     {
-      "name": "Desporto Lazer > Basquetebol > Sapatilhas de basquetebol",
+      "name": "BB > Desporto Lazer > Basquetebol > Sapatilhas de basquetebol",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14328,7 +14336,7 @@
       "id": 1765
     },
     {
-      "name": "Desporto Lazer > Campismo e Montanha > Acessórios de campismo e montanhismo",
+      "name": "BB > Desporto Lazer > Campismo e Montanha > Acessórios de campismo e montanhismo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14336,7 +14344,7 @@
       "id": 1767
     },
     {
-      "name": "Desporto Lazer > Campismo e Montanha > Binóculos",
+      "name": "BB > Desporto Lazer > Campismo e Montanha > Binóculos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14344,7 +14352,7 @@
       "id": 1768
     },
     {
-      "name": "Desporto Lazer > Campismo e Montanha > Bússolas",
+      "name": "BB > Desporto Lazer > Campismo e Montanha > Bússolas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14352,7 +14360,7 @@
       "id": 1769
     },
     {
-      "name": "Desporto Lazer > Campismo e Montanha > Caixas térmicas portáteis",
+      "name": "BB > Desporto Lazer > Campismo e Montanha > Caixas térmicas portáteis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14360,7 +14368,7 @@
       "id": 1770
     },
     {
-      "name": "Desporto Lazer > Campismo e Montanha > Garrafas e cantis",
+      "name": "BB > Desporto Lazer > Campismo e Montanha > Garrafas e cantis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14368,7 +14376,7 @@
       "id": 1771
     },
     {
-      "name": "Desporto Lazer > Campismo e Montanha > Lanternas",
+      "name": "BB > Desporto Lazer > Campismo e Montanha > Lanternas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14376,7 +14384,7 @@
       "id": 1772
     },
     {
-      "name": "Desporto Lazer > Campismo e Montanha > Mochilas e sacos",
+      "name": "BB > Desporto Lazer > Campismo e Montanha > Mochilas e sacos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14384,7 +14392,7 @@
       "id": 1773
     },
     {
-      "name": "Desporto Lazer > Campismo e Montanha > Roupa de montanha",
+      "name": "BB > Desporto Lazer > Campismo e Montanha > Roupa de montanha",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14392,7 +14400,7 @@
       "id": 1774
     },
     {
-      "name": "Desporto Lazer > Campismo e Montanha > Sacos-Cama",
+      "name": "BB > Desporto Lazer > Campismo e Montanha > Sacos-Cama",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14400,7 +14408,7 @@
       "id": 1775
     },
     {
-      "name": "Desporto Lazer > Campismo e Montanha > Tendas",
+      "name": "BB > Desporto Lazer > Campismo e Montanha > Tendas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14408,7 +14416,7 @@
       "id": 1776
     },
     {
-      "name": "Desporto Lazer > Ciclismo > Acessórios de ciclismo",
+      "name": "BB > Desporto Lazer > Ciclismo > Acessórios de ciclismo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14416,7 +14424,7 @@
       "id": 1777
     },
     {
-      "name": "Desporto Lazer > Ciclismo > Agulhas para bombas de ar",
+      "name": "BB > Desporto Lazer > Ciclismo > Agulhas para bombas de ar",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14424,7 +14432,7 @@
       "id": 1778
     },
     {
-      "name": "Desporto Lazer > Ciclismo > Bombas de ar",
+      "name": "BB > Desporto Lazer > Ciclismo > Bombas de ar",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14432,7 +14440,7 @@
       "id": 1779
     },
     {
-      "name": "Desporto Lazer > Ciclismo > Capacetes de bicicleta",
+      "name": "BB > Desporto Lazer > Ciclismo > Capacetes de bicicleta",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14440,7 +14448,7 @@
       "id": 1780
     },
     {
-      "name": "Desporto Lazer > Ciclismo > Faróis e iluminação para ciclismo",
+      "name": "BB > Desporto Lazer > Ciclismo > Faróis e iluminação para ciclismo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14448,7 +14456,7 @@
       "id": 1781
     },
     {
-      "name": "Desporto Lazer > Ciclismo > Luvas de bicicleta",
+      "name": "BB > Desporto Lazer > Ciclismo > Luvas de bicicleta",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14456,7 +14464,7 @@
       "id": 1782
     },
     {
-      "name": "Desporto Lazer > Fitness > Aparelhos de Musculação",
+      "name": "BB > Desporto Lazer > Fitness > Aparelhos de Musculação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14464,7 +14472,7 @@
       "id": 1784
     },
     {
-      "name": "Desporto Lazer > Fitness > Bandas elásticas",
+      "name": "BB > Desporto Lazer > Fitness > Bandas elásticas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14472,7 +14480,7 @@
       "id": 1785
     },
     {
-      "name": "Desporto Lazer > Fitness > Cintos Vibratorios e Electrostimuladores",
+      "name": "BB > Desporto Lazer > Fitness > Cintos Vibratorios e Electrostimuladores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14480,7 +14488,7 @@
       "id": 1786
     },
     {
-      "name": "Desporto Lazer > Fitness > Luvas de musculação",
+      "name": "BB > Desporto Lazer > Fitness > Luvas de musculação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14488,7 +14496,7 @@
       "id": 1787
     },
     {
-      "name": "Desporto Lazer > Fitness > Punhos com pesos",
+      "name": "BB > Desporto Lazer > Fitness > Punhos com pesos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14496,7 +14504,7 @@
       "id": 1788
     },
     {
-      "name": "Desporto Lazer > Fitness > Steps",
+      "name": "BB > Desporto Lazer > Fitness > Steps",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14504,7 +14512,7 @@
       "id": 1789
     },
     {
-      "name": "Desporto Lazer > Futebol e futebol de salão > Acessórios para futebol",
+      "name": "BB > Desporto Lazer > Futebol e futebol de salão > Acessórios para futebol",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14512,7 +14520,7 @@
       "id": 1790
     },
     {
-      "name": "Desporto Lazer > Futebol e futebol de salão > Bolas de futebol",
+      "name": "BB > Desporto Lazer > Futebol e futebol de salão > Bolas de futebol",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14520,7 +14528,7 @@
       "id": 1791
     },
     {
-      "name": "Desporto Lazer > Futebol e futebol de salão > Bolas de futebol de salão",
+      "name": "BB > Desporto Lazer > Futebol e futebol de salão > Bolas de futebol de salão",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14528,7 +14536,7 @@
       "id": 1792
     },
     {
-      "name": "Desporto Lazer > Futebol e futebol de salão > Calças de futebol e futebol de salão",
+      "name": "BB > Desporto Lazer > Futebol e futebol de salão > Calças de futebol e futebol de salão",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14536,7 +14544,7 @@
       "id": 1793
     },
     {
-      "name": "Desporto Lazer > Futebol e futebol de salão > Calças de guarda-redes",
+      "name": "BB > Desporto Lazer > Futebol e futebol de salão > Calças de guarda-redes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14544,7 +14552,7 @@
       "id": 1794
     },
     {
-      "name": "Desporto Lazer > Futebol e futebol de salão > Caneleiras de futebol",
+      "name": "BB > Desporto Lazer > Futebol e futebol de salão > Caneleiras de futebol",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14552,7 +14560,7 @@
       "id": 1795
     },
     {
-      "name": "Desporto Lazer > Futebol e futebol de salão > Chuteiras",
+      "name": "BB > Desporto Lazer > Futebol e futebol de salão > Chuteiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14560,7 +14568,7 @@
       "id": 1796
     },
     {
-      "name": "Desporto Lazer > Futebol e futebol de salão > Coletes desportivos",
+      "name": "BB > Desporto Lazer > Futebol e futebol de salão > Coletes desportivos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14568,7 +14576,7 @@
       "id": 1797
     },
     {
-      "name": "Desporto Lazer > Futebol e futebol de salão > Equipamento de futebol",
+      "name": "BB > Desporto Lazer > Futebol e futebol de salão > Equipamento de futebol",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14576,7 +14584,7 @@
       "id": 1798
     },
     {
-      "name": "Desporto Lazer > Futebol e futebol de salão > Leggings e perneiras",
+      "name": "BB > Desporto Lazer > Futebol e futebol de salão > Leggings e perneiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14584,7 +14592,7 @@
       "id": 1799
     },
     {
-      "name": "Desporto Lazer > Futebol e futebol de salão > Luvas de Guarda-Redes",
+      "name": "BB > Desporto Lazer > Futebol e futebol de salão > Luvas de Guarda-Redes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14592,7 +14600,7 @@
       "id": 1800
     },
     {
-      "name": "Desporto Lazer > Futebol e futebol de salão > Meias de futebol",
+      "name": "BB > Desporto Lazer > Futebol e futebol de salão > Meias de futebol",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14600,7 +14608,7 @@
       "id": 1801
     },
     {
-      "name": "Desporto Lazer > Futebol e futebol de salão > Sapatilhas de futebol de salão",
+      "name": "BB > Desporto Lazer > Futebol e futebol de salão > Sapatilhas de futebol de salão",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14608,7 +14616,7 @@
       "id": 1802
     },
     {
-      "name": "Desporto Lazer > Futebol e futebol de salão > T-shirts de futebol",
+      "name": "BB > Desporto Lazer > Futebol e futebol de salão > T-shirts de futebol",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14616,7 +14624,7 @@
       "id": 1803
     },
     {
-      "name": "Desporto Lazer > Material e equipamento desportivo > Calças para Desporto",
+      "name": "BB > Desporto Lazer > Material e equipamento desportivo > Calças para Desporto",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14624,7 +14632,7 @@
       "id": 1805
     },
     {
-      "name": "Desporto Lazer > Material e equipamento desportivo > Casacos de desporto",
+      "name": "BB > Desporto Lazer > Material e equipamento desportivo > Casacos de desporto",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14632,7 +14640,7 @@
       "id": 1806
     },
     {
-      "name": "Desporto Lazer > Material e equipamento desportivo > Coletes",
+      "name": "BB > Desporto Lazer > Material e equipamento desportivo > Coletes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14640,7 +14648,7 @@
       "id": 1807
     },
     {
-      "name": "Desporto Lazer > Material e equipamento desportivo > Conjuntos para fazer desporto",
+      "name": "BB > Desporto Lazer > Material e equipamento desportivo > Conjuntos para fazer desporto",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14648,7 +14656,7 @@
       "id": 1808
     },
     {
-      "name": "Desporto Lazer > Material e equipamento desportivo > Fatos de Treino",
+      "name": "BB > Desporto Lazer > Material e equipamento desportivo > Fatos de Treino",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14656,7 +14664,7 @@
       "id": 1809
     },
     {
-      "name": "Desporto Lazer > Material e equipamento desportivo > Gorros de desporto",
+      "name": "BB > Desporto Lazer > Material e equipamento desportivo > Gorros de desporto",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14664,7 +14672,7 @@
       "id": 1810
     },
     {
-      "name": "Desporto Lazer > Material e equipamento desportivo > Leggings",
+      "name": "BB > Desporto Lazer > Material e equipamento desportivo > Leggings",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14672,7 +14680,7 @@
       "id": 1811
     },
     {
-      "name": "Desporto Lazer > Material e equipamento desportivo > Meias",
+      "name": "BB > Desporto Lazer > Material e equipamento desportivo > Meias",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14680,7 +14688,7 @@
       "id": 1812
     },
     {
-      "name": "Desporto Lazer > Material e equipamento desportivo > Mochilas e sacos de desporto",
+      "name": "BB > Desporto Lazer > Material e equipamento desportivo > Mochilas e sacos de desporto",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14688,7 +14696,7 @@
       "id": 1813
     },
     {
-      "name": "Desporto Lazer > Material e equipamento desportivo > Pedómetros",
+      "name": "BB > Desporto Lazer > Material e equipamento desportivo > Pedómetros",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14696,7 +14704,7 @@
       "id": 1814
     },
     {
-      "name": "Desporto Lazer > Material e equipamento desportivo > Proteções de corpo",
+      "name": "BB > Desporto Lazer > Material e equipamento desportivo > Proteções de corpo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14704,7 +14712,7 @@
       "id": 1815
     },
     {
-      "name": "Desporto Lazer > Material e equipamento desportivo > Pulsómetros",
+      "name": "BB > Desporto Lazer > Material e equipamento desportivo > Pulsómetros",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14712,7 +14720,7 @@
       "id": 1816
     },
     {
-      "name": "Desporto Lazer > Material e equipamento desportivo > Sutiãs de desporto",
+      "name": "BB > Desporto Lazer > Material e equipamento desportivo > Sutiãs de desporto",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14720,7 +14728,7 @@
       "id": 1817
     },
     {
-      "name": "Desporto Lazer > Material e equipamento desportivo > Sweatshirts de desporto",
+      "name": "BB > Desporto Lazer > Material e equipamento desportivo > Sweatshirts de desporto",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14728,7 +14736,7 @@
       "id": 1818
     },
     {
-      "name": "Desporto Lazer > Material e equipamento desportivo > T-shirts de desporto",
+      "name": "BB > Desporto Lazer > Material e equipamento desportivo > T-shirts de desporto",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14736,7 +14744,7 @@
       "id": 1819
     },
     {
-      "name": "Desporto Lazer > Natação > Acessórios para natação",
+      "name": "BB > Desporto Lazer > Natação > Acessórios para natação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14744,7 +14752,7 @@
       "id": 1820
     },
     {
-      "name": "Desporto Lazer > Natação > Chinelos de natação",
+      "name": "BB > Desporto Lazer > Natação > Chinelos de natação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14752,7 +14760,7 @@
       "id": 1821
     },
     {
-      "name": "Desporto Lazer > Natação > Fatos de banho desportivos",
+      "name": "BB > Desporto Lazer > Natação > Fatos de banho desportivos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14760,7 +14768,7 @@
       "id": 1822
     },
     {
-      "name": "Desporto Lazer > Natação > Meias de natação",
+      "name": "BB > Desporto Lazer > Natação > Meias de natação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14768,7 +14776,7 @@
       "id": 1823
     },
     {
-      "name": "Desporto Lazer > Natação > Toucas de natação",
+      "name": "BB > Desporto Lazer > Natação > Toucas de natação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14776,7 +14784,7 @@
       "id": 1824
     },
     {
-      "name": "Desporto Lazer > Natação > Óculos de natação",
+      "name": "BB > Desporto Lazer > Natação > Óculos de natação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14784,7 +14792,7 @@
       "id": 1825
     },
     {
-      "name": "Desporto Lazer > Outros Desportos > Andebol",
+      "name": "BB > Desporto Lazer > Outros Desportos > Andebol",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14792,7 +14800,7 @@
       "id": 1827
     },
     {
-      "name": "Desporto Lazer > Outros Desportos > Artes marciais",
+      "name": "BB > Desporto Lazer > Outros Desportos > Artes marciais",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14800,7 +14808,7 @@
       "id": 1828
     },
     {
-      "name": "Desporto Lazer > Outros Desportos > Atividades subaquáticas",
+      "name": "BB > Desporto Lazer > Outros Desportos > Atividades subaquáticas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14808,7 +14816,7 @@
       "id": 1829
     },
     {
-      "name": "Desporto Lazer > Outros Desportos > Badminton",
+      "name": "BB > Desporto Lazer > Outros Desportos > Badminton",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14816,7 +14824,7 @@
       "id": 1830
     },
     {
-      "name": "Desporto Lazer > Outros Desportos > Boxe",
+      "name": "BB > Desporto Lazer > Outros Desportos > Boxe",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14824,7 +14832,7 @@
       "id": 1831
     },
     {
-      "name": "Desporto Lazer > Outros Desportos > Caça e tiro",
+      "name": "BB > Desporto Lazer > Outros Desportos > Caça e tiro",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14832,7 +14840,7 @@
       "id": 1832
     },
     {
-      "name": "Desporto Lazer > Outros Desportos > Dança e Ginásio",
+      "name": "BB > Desporto Lazer > Outros Desportos > Dança e Ginásio",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14840,7 +14848,7 @@
       "id": 1833
     },
     {
-      "name": "Desporto Lazer > Outros Desportos > Frontenis",
+      "name": "BB > Desporto Lazer > Outros Desportos > Frontenis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14848,7 +14856,7 @@
       "id": 1834
     },
     {
-      "name": "Desporto Lazer > Outros Desportos > Golf e mini golf",
+      "name": "BB > Desporto Lazer > Outros Desportos > Golf e mini golf",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14856,7 +14864,7 @@
       "id": 1835
     },
     {
-      "name": "Desporto Lazer > Outros Desportos > Patinagem",
+      "name": "BB > Desporto Lazer > Outros Desportos > Patinagem",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14864,7 +14872,7 @@
       "id": 1836
     },
     {
-      "name": "Desporto Lazer > Outros Desportos > Pesca",
+      "name": "BB > Desporto Lazer > Outros Desportos > Pesca",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14872,7 +14880,7 @@
       "id": 1837
     },
     {
-      "name": "Desporto Lazer > Outros Desportos > Rugby",
+      "name": "BB > Desporto Lazer > Outros Desportos > Rugby",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14880,7 +14888,7 @@
       "id": 1838
     },
     {
-      "name": "Desporto Lazer > Outros Desportos > Skateboard",
+      "name": "BB > Desporto Lazer > Outros Desportos > Skateboard",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14888,7 +14896,7 @@
       "id": 1839
     },
     {
-      "name": "Desporto Lazer > Outros Desportos > Squash",
+      "name": "BB > Desporto Lazer > Outros Desportos > Squash",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14896,7 +14904,7 @@
       "id": 1840
     },
     {
-      "name": "Desporto Lazer > Outros Desportos > Tenis de mesa",
+      "name": "BB > Desporto Lazer > Outros Desportos > Tenis de mesa",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14904,7 +14912,7 @@
       "id": 1841
     },
     {
-      "name": "Desporto Lazer > Outros Desportos > Voleibol",
+      "name": "BB > Desporto Lazer > Outros Desportos > Voleibol",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14912,7 +14920,7 @@
       "id": 1842
     },
     {
-      "name": "Desporto Lazer > Para Viajar > Adaptadores para tomadas",
+      "name": "BB > Desporto Lazer > Para Viajar > Adaptadores para tomadas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14920,7 +14928,7 @@
       "id": 1844
     },
     {
-      "name": "Desporto Lazer > Para Viajar > Almofadas Cervicais",
+      "name": "BB > Desporto Lazer > Para Viajar > Almofadas Cervicais",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14928,7 +14936,7 @@
       "id": 1845
     },
     {
-      "name": "Desporto Lazer > Para Viajar > Conjuntos de viagem",
+      "name": "BB > Desporto Lazer > Para Viajar > Conjuntos de viagem",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14936,7 +14944,7 @@
       "id": 1846
     },
     {
-      "name": "Desporto Lazer > Para Viajar > Identificadores de bagagem",
+      "name": "BB > Desporto Lazer > Para Viajar > Identificadores de bagagem",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14944,7 +14952,7 @@
       "id": 1847
     },
     {
-      "name": "Desporto Lazer > Para Viajar > Malas de Porão e de Cabine",
+      "name": "BB > Desporto Lazer > Para Viajar > Malas de Porão e de Cabine",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14952,7 +14960,7 @@
       "id": 1848
     },
     {
-      "name": "Desporto Lazer > Para Viajar > Mantas de viagem",
+      "name": "BB > Desporto Lazer > Para Viajar > Mantas de viagem",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14960,7 +14968,7 @@
       "id": 1849
     },
     {
-      "name": "Desporto Lazer > Para Viajar > Nécessaires",
+      "name": "BB > Desporto Lazer > Para Viajar > Nécessaires",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14968,7 +14976,7 @@
       "id": 1850
     },
     {
-      "name": "Desporto Lazer > Para Viajar > Porta-documentos de viagem",
+      "name": "BB > Desporto Lazer > Para Viajar > Porta-documentos de viagem",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14976,7 +14984,7 @@
       "id": 1851
     },
     {
-      "name": "Desporto Lazer > Praia e Piscina > Boias insufláveis",
+      "name": "BB > Desporto Lazer > Praia e Piscina > Boias insufláveis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14984,7 +14992,7 @@
       "id": 1853
     },
     {
-      "name": "Desporto Lazer > Praia e Piscina > Bolas de praia",
+      "name": "BB > Desporto Lazer > Praia e Piscina > Bolas de praia",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -14992,7 +15000,7 @@
       "id": 1854
     },
     {
-      "name": "Desporto Lazer > Praia e Piscina > Brinquedos para a praia",
+      "name": "BB > Desporto Lazer > Praia e Piscina > Brinquedos para a praia",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15000,7 +15008,7 @@
       "id": 1855
     },
     {
-      "name": "Desporto Lazer > Praia e Piscina > Cadeiras de praia e piscina",
+      "name": "BB > Desporto Lazer > Praia e Piscina > Cadeiras de praia e piscina",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15008,7 +15016,7 @@
       "id": 1856
     },
     {
-      "name": "Desporto Lazer > Praia e Piscina > Caixas térmicas de praia",
+      "name": "BB > Desporto Lazer > Praia e Piscina > Caixas térmicas de praia",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15016,7 +15024,7 @@
       "id": 1857
     },
     {
-      "name": "Desporto Lazer > Praia e Piscina > Camas de rede",
+      "name": "BB > Desporto Lazer > Praia e Piscina > Camas de rede",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15024,7 +15032,7 @@
       "id": 1858
     },
     {
-      "name": "Desporto Lazer > Praia e Piscina > Chinelos e meias de natação",
+      "name": "BB > Desporto Lazer > Praia e Piscina > Chinelos e meias de natação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15032,7 +15040,7 @@
       "id": 1859
     },
     {
-      "name": "Desporto Lazer > Praia e Piscina > Fatos de banho",
+      "name": "BB > Desporto Lazer > Praia e Piscina > Fatos de banho",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15040,7 +15048,7 @@
       "id": 1860
     },
     {
-      "name": "Desporto Lazer > Praia e Piscina > Guarda-sóis",
+      "name": "BB > Desporto Lazer > Praia e Piscina > Guarda-sóis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15048,7 +15056,7 @@
       "id": 1861
     },
     {
-      "name": "Desporto Lazer > Praia e Piscina > Insufláveis",
+      "name": "BB > Desporto Lazer > Praia e Piscina > Insufláveis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15056,7 +15064,7 @@
       "id": 1862
     },
     {
-      "name": "Desporto Lazer > Praia e Piscina > Piscinas",
+      "name": "BB > Desporto Lazer > Praia e Piscina > Piscinas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15064,7 +15072,7 @@
       "id": 1863
     },
     {
-      "name": "Desporto Lazer > Praia e Piscina > Poltronas insufláveis",
+      "name": "BB > Desporto Lazer > Praia e Piscina > Poltronas insufláveis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15072,7 +15080,7 @@
       "id": 1864
     },
     {
-      "name": "Desporto Lazer > Praia e Piscina > Pés de pato",
+      "name": "BB > Desporto Lazer > Praia e Piscina > Pés de pato",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15080,7 +15088,7 @@
       "id": 1865
     },
     {
-      "name": "Desporto Lazer > Praia e Piscina > Sacos de praia",
+      "name": "BB > Desporto Lazer > Praia e Piscina > Sacos de praia",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15088,7 +15096,7 @@
       "id": 1866
     },
     {
-      "name": "Desporto Lazer > Praia e Piscina > Tapetes Insufláveis",
+      "name": "BB > Desporto Lazer > Praia e Piscina > Tapetes Insufláveis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15096,7 +15104,7 @@
       "id": 1867
     },
     {
-      "name": "Desporto Lazer > Praia e Piscina > Toalhas de praia e piscina",
+      "name": "BB > Desporto Lazer > Praia e Piscina > Toalhas de praia e piscina",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15104,7 +15112,7 @@
       "id": 1868
     },
     {
-      "name": "Desporto Lazer > Praia e Piscina > Óculos de mergulho e snorkeling",
+      "name": "BB > Desporto Lazer > Praia e Piscina > Óculos de mergulho e snorkeling",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15112,7 +15120,7 @@
       "id": 1869
     },
     {
-      "name": "Desporto Lazer > Running e Atletismo > Acessórios de running e atletismo",
+      "name": "BB > Desporto Lazer > Running e Atletismo > Acessórios de running e atletismo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15120,7 +15128,7 @@
       "id": 1870
     },
     {
-      "name": "Desporto Lazer > Running e Atletismo > Calças de running e atletismo",
+      "name": "BB > Desporto Lazer > Running e Atletismo > Calças de running e atletismo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15128,7 +15136,7 @@
       "id": 1871
     },
     {
-      "name": "Desporto Lazer > Running e Atletismo > Cronómetros",
+      "name": "BB > Desporto Lazer > Running e Atletismo > Cronómetros",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15136,7 +15144,7 @@
       "id": 1872
     },
     {
-      "name": "Desporto Lazer > Running e Atletismo > Lanternas de running",
+      "name": "BB > Desporto Lazer > Running e Atletismo > Lanternas de running",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15144,7 +15152,7 @@
       "id": 1873
     },
     {
-      "name": "Desporto Lazer > Running e Atletismo > Leggings de running e atletismo",
+      "name": "BB > Desporto Lazer > Running e Atletismo > Leggings de running e atletismo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15152,7 +15160,7 @@
       "id": 1874
     },
     {
-      "name": "Desporto Lazer > Running e Atletismo > Porta-Dorsais",
+      "name": "BB > Desporto Lazer > Running e Atletismo > Porta-Dorsais",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15160,7 +15168,7 @@
       "id": 1875
     },
     {
-      "name": "Desporto Lazer > Running e Atletismo > Sapatilhas de running",
+      "name": "BB > Desporto Lazer > Running e Atletismo > Sapatilhas de running",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15168,7 +15176,7 @@
       "id": 1876
     },
     {
-      "name": "Desporto Lazer > Running e Atletismo > Sweatshirts de running e atletismo",
+      "name": "BB > Desporto Lazer > Running e Atletismo > Sweatshirts de running e atletismo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15176,7 +15184,7 @@
       "id": 1877
     },
     {
-      "name": "Desporto Lazer > Running e Atletismo > T-shirts de running e atletismo",
+      "name": "BB > Desporto Lazer > Running e Atletismo > T-shirts de running e atletismo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15184,7 +15192,7 @@
       "id": 1878
     },
     {
-      "name": "Desporto Lazer > Ténis e Padel > Acessórios para ténis e padel",
+      "name": "BB > Desporto Lazer > Ténis e Padel > Acessórios para ténis e padel",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15192,7 +15200,7 @@
       "id": 1879
     },
     {
-      "name": "Desporto Lazer > Ténis e Padel > Bolas de ténis e padel",
+      "name": "BB > Desporto Lazer > Ténis e Padel > Bolas de ténis e padel",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15200,7 +15208,7 @@
       "id": 1880
     },
     {
-      "name": "Desporto Lazer > Ténis e Padel > Raquetes de padel",
+      "name": "BB > Desporto Lazer > Ténis e Padel > Raquetes de padel",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15208,7 +15216,7 @@
       "id": 1881
     },
     {
-      "name": "Desporto Lazer > Ténis e Padel > Raquetes de ténis",
+      "name": "BB > Desporto Lazer > Ténis e Padel > Raquetes de ténis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15216,7 +15224,7 @@
       "id": 1882
     },
     {
-      "name": "Desporto Lazer > Ténis e Padel > Sapatilhas de ténis e padel",
+      "name": "BB > Desporto Lazer > Ténis e Padel > Sapatilhas de ténis e padel",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15224,7 +15232,7 @@
       "id": 1883
     },
     {
-      "name": "Desporto Lazer > Ténis e Padel > T-shirts de ténis e padel",
+      "name": "BB > Desporto Lazer > Ténis e Padel > T-shirts de ténis e padel",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15232,7 +15240,7 @@
       "id": 1884
     },
     {
-      "name": "Informática Eletrónica > Acessórios de Eletrónica",
+      "name": "BB > Informática Eletrónica > Acessórios de Eletrónica",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15240,7 +15248,7 @@
       "id": 1885
     },
     {
-      "name": "Informática Eletrónica > Audio e Hi-Fi > Componentes e acessórios",
+      "name": "BB > Informática Eletrónica > Audio e Hi-Fi > Componentes e acessórios",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15248,7 +15256,7 @@
       "id": 1886
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Fotografia e Vídeo > Acessórios para Máquinas Fotográficas e Câmaras de Vídeo",
+      "name": "BB > Informática Eletrónica > Eletrónica Fotografia e Vídeo > Acessórios para Máquinas Fotográficas e Câmaras de Vídeo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15256,7 +15264,7 @@
       "id": 1887
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Fotografia e Vídeo > Câmaras de Vídeo",
+      "name": "BB > Informática Eletrónica > Eletrónica Fotografia e Vídeo > Câmaras de Vídeo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15264,7 +15272,7 @@
       "id": 1888
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Fotografia e Vídeo > Máquinas Fotográficas Compactas",
+      "name": "BB > Informática Eletrónica > Eletrónica Fotografia e Vídeo > Máquinas Fotográficas Compactas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15272,7 +15280,7 @@
       "id": 1889
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Fotografia e Vídeo > Máquinas Fotográficas Reflex",
+      "name": "BB > Informática Eletrónica > Eletrónica Fotografia e Vídeo > Máquinas Fotográficas Reflex",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15280,7 +15288,7 @@
       "id": 1890
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Fotografia e Vídeo > Máquinas fotográficas desportivas",
+      "name": "BB > Informática Eletrónica > Eletrónica Fotografia e Vídeo > Máquinas fotográficas desportivas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15288,7 +15296,7 @@
       "id": 1891
     },
     {
-      "name": "Informática Eletrónica > Eletrónica GPS e Automóvel > Altifalantes do Carro",
+      "name": "BB > Informática Eletrónica > Eletrónica GPS e Automóvel > Altifalantes do Carro",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15296,7 +15304,7 @@
       "id": 1892
     },
     {
-      "name": "Informática Eletrónica > Eletrónica GPS e Automóvel > Carregadores USB para o Carro",
+      "name": "BB > Informática Eletrónica > Eletrónica GPS e Automóvel > Carregadores USB para o Carro",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15304,7 +15312,7 @@
       "id": 1893
     },
     {
-      "name": "Informática Eletrónica > Eletrónica GPS e Automóvel > Mãos livres Bluetooth para o carro",
+      "name": "BB > Informática Eletrónica > Eletrónica GPS e Automóvel > Mãos livres Bluetooth para o carro",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15312,7 +15320,7 @@
       "id": 1894
     },
     {
-      "name": "Informática Eletrónica > Eletrónica GPS e Automóvel > Navegadores de GPS",
+      "name": "BB > Informática Eletrónica > Eletrónica GPS e Automóvel > Navegadores de GPS",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15320,7 +15328,7 @@
       "id": 1895
     },
     {
-      "name": "Informática Eletrónica > Eletrónica GPS e Automóvel > Suporte para telemóveis e tablets",
+      "name": "BB > Informática Eletrónica > Eletrónica GPS e Automóvel > Suporte para telemóveis e tablets",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15328,7 +15336,7 @@
       "id": 1896
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Jogos > Acessórios para Consolas",
+      "name": "BB > Informática Eletrónica > Eletrónica Jogos > Acessórios para Consolas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15336,7 +15344,7 @@
       "id": 1898
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Jogos > Consolas",
+      "name": "BB > Informática Eletrónica > Eletrónica Jogos > Consolas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15344,7 +15352,7 @@
       "id": 1899
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Jogos > Drones e robôs",
+      "name": "BB > Informática Eletrónica > Eletrónica Jogos > Drones e robôs",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15352,7 +15360,7 @@
       "id": 1900
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Jogos > Trotinetas elétricas",
+      "name": "BB > Informática Eletrónica > Eletrónica Jogos > Trotinetas elétricas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15360,7 +15368,7 @@
       "id": 1901
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Jogos > Videojogos",
+      "name": "BB > Informática Eletrónica > Eletrónica Jogos > Videojogos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15368,7 +15376,7 @@
       "id": 1902
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Jogos > Óculos de realidade virtual",
+      "name": "BB > Informática Eletrónica > Eletrónica Jogos > Óculos de realidade virtual",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15376,7 +15384,7 @@
       "id": 1903
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Pilhas e Baterias > Carregadores de Pilhas",
+      "name": "BB > Informática Eletrónica > Eletrónica Pilhas e Baterias > Carregadores de Pilhas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15384,7 +15392,7 @@
       "id": 1905
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Pilhas e Baterias > Pilhas Recarregáveis",
+      "name": "BB > Informática Eletrónica > Eletrónica Pilhas e Baterias > Pilhas Recarregáveis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15392,7 +15400,7 @@
       "id": 1906
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Pilhas e Baterias > Pilhas alcalinas",
+      "name": "BB > Informática Eletrónica > Eletrónica Pilhas e Baterias > Pilhas alcalinas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15400,7 +15408,7 @@
       "id": 1907
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Pilhas e Baterias > Pilhas de Botão",
+      "name": "BB > Informática Eletrónica > Eletrónica Pilhas e Baterias > Pilhas de Botão",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15408,7 +15416,7 @@
       "id": 1908
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Robótica Educativa > Brinquedos interativos",
+      "name": "BB > Informática Eletrónica > Eletrónica Robótica Educativa > Brinquedos interativos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15416,7 +15424,7 @@
       "id": 1909
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Robótica Educativa > Componentes e acessórios de robótica",
+      "name": "BB > Informática Eletrónica > Eletrónica Robótica Educativa > Componentes e acessórios de robótica",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15424,7 +15432,7 @@
       "id": 1910
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Robótica Educativa > Kits de eletrónica",
+      "name": "BB > Informática Eletrónica > Eletrónica Robótica Educativa > Kits de eletrónica",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15432,7 +15440,7 @@
       "id": 1911
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Robótica Educativa > Kits de robótica",
+      "name": "BB > Informática Eletrónica > Eletrónica Robótica Educativa > Kits de robótica",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15440,7 +15448,7 @@
       "id": 1912
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > Auriculares Bluetooth",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > Auriculares Bluetooth",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15448,7 +15456,7 @@
       "id": 1913
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > Auriculares Sem Fios",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > Auriculares Sem Fios",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15456,7 +15464,7 @@
       "id": 1914
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > Auriculares de Diadema",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > Auriculares de Diadema",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15464,7 +15472,7 @@
       "id": 1915
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > Auriculares para Desporto",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > Auriculares para Desporto",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15472,7 +15480,7 @@
       "id": 1916
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > Auscultadores Intra-auriculares",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > Auscultadores Intra-auriculares",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15480,7 +15488,7 @@
       "id": 1917
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > Barras de Som",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > Barras de Som",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15488,7 +15496,7 @@
       "id": 1918
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > CD e DVD",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > CD e DVD",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15496,7 +15504,7 @@
       "id": 1919
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > Caixas de som",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > Caixas de som",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15504,7 +15512,7 @@
       "id": 1920
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > Colunas Bluetooth",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > Colunas Bluetooth",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15512,7 +15520,7 @@
       "id": 1921
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > Equipamento de Música",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > Equipamento de Música",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15520,7 +15528,7 @@
       "id": 1922
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > Gira-discos",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > Gira-discos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15528,7 +15536,7 @@
       "id": 1923
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > Gravadores de áudio",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > Gravadores de áudio",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15536,7 +15544,7 @@
       "id": 1924
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > MP3, Mp4 e MP5",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > MP3, Mp4 e MP5",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15544,7 +15552,7 @@
       "id": 1925
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > Rádio CD",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > Rádio CD",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15552,7 +15560,7 @@
       "id": 1926
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > Rádio-Despertador",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > Rádio-Despertador",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15560,7 +15568,7 @@
       "id": 1927
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > Torres de Som",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > Torres de Som",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15568,7 +15576,7 @@
       "id": 1928
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > Transistores",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > Transistores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15576,7 +15584,7 @@
       "id": 1929
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Som > Vídeo e Home Cinema",
+      "name": "BB > Informática Eletrónica > Eletrónica Som > Vídeo e Home Cinema",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15584,7 +15592,7 @@
       "id": 1930
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Acessórios para telemóveis e tablets",
+      "name": "BB > Informática Eletrónica > Eletrónica Telefones e Tablets > Acessórios para telemóveis e tablets",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15592,7 +15600,7 @@
       "id": 1931
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Auriculares Bluetooth com Microfone",
+      "name": "BB > Informática Eletrónica > Eletrónica Telefones e Tablets > Auriculares Bluetooth com Microfone",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15600,7 +15608,7 @@
       "id": 1932
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Auriculares com Microfone",
+      "name": "BB > Informática Eletrónica > Eletrónica Telefones e Tablets > Auriculares com Microfone",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15608,7 +15616,7 @@
       "id": 1933
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Bastões de selfie",
+      "name": "BB > Informática Eletrónica > Eletrónica Telefones e Tablets > Bastões de selfie",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15616,7 +15624,7 @@
       "id": 1934
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Capas para Tablets",
+      "name": "BB > Informática Eletrónica > Eletrónica Telefones e Tablets > Capas para Tablets",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15624,7 +15632,7 @@
       "id": 1935
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Capas para telemóveis",
+      "name": "BB > Informática Eletrónica > Eletrónica Telefones e Tablets > Capas para telemóveis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15632,7 +15640,7 @@
       "id": 1936
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Carregadores e cabos USB",
+      "name": "BB > Informática Eletrónica > Eletrónica Telefones e Tablets > Carregadores e cabos USB",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15640,7 +15648,7 @@
       "id": 1937
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Livros Eletrónicos e Capas",
+      "name": "BB > Informática Eletrónica > Eletrónica Telefones e Tablets > Livros Eletrónicos e Capas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15648,7 +15656,7 @@
       "id": 1938
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Mãos livres Bluetooth",
+      "name": "BB > Informática Eletrónica > Eletrónica Telefones e Tablets > Mãos livres Bluetooth",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15656,7 +15664,7 @@
       "id": 1939
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Power Bank",
+      "name": "BB > Informática Eletrónica > Eletrónica Telefones e Tablets > Power Bank",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15664,7 +15672,7 @@
       "id": 1940
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Protetores de Ecrã",
+      "name": "BB > Informática Eletrónica > Eletrónica Telefones e Tablets > Protetores de Ecrã",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15672,7 +15680,7 @@
       "id": 1941
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Pulseiras de Atividade",
+      "name": "BB > Informática Eletrónica > Eletrónica Telefones e Tablets > Pulseiras de Atividade",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15680,7 +15688,7 @@
       "id": 1942
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Smartwatches",
+      "name": "BB > Informática Eletrónica > Eletrónica Telefones e Tablets > Smartwatches",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15688,7 +15696,7 @@
       "id": 1943
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Tablets",
+      "name": "BB > Informática Eletrónica > Eletrónica Telefones e Tablets > Tablets",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15696,7 +15704,7 @@
       "id": 1944
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Telefones fixos e IP",
+      "name": "BB > Informática Eletrónica > Eletrónica Telefones e Tablets > Telefones fixos e IP",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15704,7 +15712,7 @@
       "id": 1945
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Telemóveis",
+      "name": "BB > Informática Eletrónica > Eletrónica Telefones e Tablets > Telemóveis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15712,7 +15720,7 @@
       "id": 1946
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Walkie Talkies",
+      "name": "BB > Informática Eletrónica > Eletrónica Telefones e Tablets > Walkie Talkies",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15720,7 +15728,7 @@
       "id": 1947
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Televisão > Cabos de áudio e vídeo",
+      "name": "BB > Informática Eletrónica > Eletrónica Televisão > Cabos de áudio e vídeo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15728,7 +15736,7 @@
       "id": 1948
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Televisão > Cinema em Casa",
+      "name": "BB > Informática Eletrónica > Eletrónica Televisão > Cinema em Casa",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15736,7 +15744,7 @@
       "id": 1949
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Televisão > DVD",
+      "name": "BB > Informática Eletrónica > Eletrónica Televisão > DVD",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15744,7 +15752,7 @@
       "id": 1950
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Televisão > Reprodutores e gravadores de DVD e Blu-Ray",
+      "name": "BB > Informática Eletrónica > Eletrónica Televisão > Reprodutores e gravadores de DVD e Blu-Ray",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15752,7 +15760,7 @@
       "id": 1951
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Televisão > Sintonizadores TDT e satélites",
+      "name": "BB > Informática Eletrónica > Eletrónica Televisão > Sintonizadores TDT e satélites",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15760,7 +15768,7 @@
       "id": 1952
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Televisão > Streaming TV",
+      "name": "BB > Informática Eletrónica > Eletrónica Televisão > Streaming TV",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15768,7 +15776,7 @@
       "id": 1953
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Televisão > Suporte para Televisão",
+      "name": "BB > Informática Eletrónica > Eletrónica Televisão > Suporte para Televisão",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15776,7 +15784,7 @@
       "id": 1954
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Televisão > Telecomandos",
+      "name": "BB > Informática Eletrónica > Eletrónica Televisão > Telecomandos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15784,7 +15792,7 @@
       "id": 1955
     },
     {
-      "name": "Informática Eletrónica > Eletrónica Televisão > Televisões e Smart TV",
+      "name": "BB > Informática Eletrónica > Eletrónica Televisão > Televisões e Smart TV",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15792,7 +15800,7 @@
       "id": 1956
     },
     {
-      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Adaptadores",
+      "name": "BB > Informática Eletrónica > Informática Cabos e Adaptadores > Adaptadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15800,7 +15808,7 @@
       "id": 1958
     },
     {
-      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Cabos ATA",
+      "name": "BB > Informática Eletrónica > Informática Cabos e Adaptadores > Cabos ATA",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15808,7 +15816,7 @@
       "id": 1959
     },
     {
-      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Cabos DisplayPort",
+      "name": "BB > Informática Eletrónica > Informática Cabos e Adaptadores > Cabos DisplayPort",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15816,7 +15824,7 @@
       "id": 1960
     },
     {
-      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Cabos USB",
+      "name": "BB > Informática Eletrónica > Informática Cabos e Adaptadores > Cabos USB",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15824,7 +15832,7 @@
       "id": 1961
     },
     {
-      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Cabos de alimentação",
+      "name": "BB > Informática Eletrónica > Informática Cabos e Adaptadores > Cabos de alimentação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15832,7 +15840,7 @@
       "id": 1962
     },
     {
-      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Cabos de rede",
+      "name": "BB > Informática Eletrónica > Informática Cabos e Adaptadores > Cabos de rede",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15840,7 +15848,7 @@
       "id": 1963
     },
     {
-      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Cabos de segurança",
+      "name": "BB > Informática Eletrónica > Informática Cabos e Adaptadores > Cabos de segurança",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15848,7 +15856,7 @@
       "id": 1964
     },
     {
-      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Cabos para impressoras e scanners",
+      "name": "BB > Informática Eletrónica > Informática Cabos e Adaptadores > Cabos para impressoras e scanners",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15856,7 +15864,7 @@
       "id": 1965
     },
     {
-      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Cabos série/paralelo",
+      "name": "BB > Informática Eletrónica > Informática Cabos e Adaptadores > Cabos série/paralelo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15864,7 +15872,7 @@
       "id": 1966
     },
     {
-      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Switch KVM",
+      "name": "BB > Informática Eletrónica > Informática Cabos e Adaptadores > Switch KVM",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15872,7 +15880,7 @@
       "id": 1967
     },
     {
-      "name": "Informática Eletrónica > Informática Computadores > Acessórios",
+      "name": "BB > Informática Eletrónica > Informática Computadores > Acessórios",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15880,7 +15888,7 @@
       "id": 1968
     },
     {
-      "name": "Informática Eletrónica > Informática Computadores > Carregadores para PC",
+      "name": "BB > Informática Eletrónica > Informática Computadores > Carregadores para PC",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15888,7 +15896,7 @@
       "id": 1969
     },
     {
-      "name": "Informática Eletrónica > Informática Computadores > Malas e bolsas",
+      "name": "BB > Informática Eletrónica > Informática Computadores > Malas e bolsas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15896,7 +15904,7 @@
       "id": 1970
     },
     {
-      "name": "Informática Eletrónica > Informática Computadores > Mini PC",
+      "name": "BB > Informática Eletrónica > Informática Computadores > Mini PC",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15904,7 +15912,7 @@
       "id": 1971
     },
     {
-      "name": "Informática Eletrónica > Informática Computadores > Notebooks",
+      "name": "BB > Informática Eletrónica > Informática Computadores > Notebooks",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15912,7 +15920,7 @@
       "id": 1972
     },
     {
-      "name": "Informática Eletrónica > Informática Computadores > PC de mesa",
+      "name": "BB > Informática Eletrónica > Informática Computadores > PC de mesa",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15920,7 +15928,7 @@
       "id": 1973
     },
     {
-      "name": "Informática Eletrónica > Informática Computadores > Refrigeradores portáteis",
+      "name": "BB > Informática Eletrónica > Informática Computadores > Refrigeradores portáteis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15928,7 +15936,7 @@
       "id": 1974
     },
     {
-      "name": "Informática Eletrónica > Informática Computadores > Servidores",
+      "name": "BB > Informática Eletrónica > Informática Computadores > Servidores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15936,7 +15944,7 @@
       "id": 1975
     },
     {
-      "name": "Informática Eletrónica > Informática Computadores > Software",
+      "name": "BB > Informática Eletrónica > Informática Computadores > Software",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15944,7 +15952,7 @@
       "id": 1976
     },
     {
-      "name": "Informática Eletrónica > Informática Computadores > TPV e acessórios",
+      "name": "BB > Informática Eletrónica > Informática Computadores > TPV e acessórios",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15952,7 +15960,7 @@
       "id": 1977
     },
     {
-      "name": "Informática Eletrónica > Informática Gaming > Acessórios Gaming",
+      "name": "BB > Informática Eletrónica > Informática Gaming > Acessórios Gaming",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15960,7 +15968,7 @@
       "id": 1978
     },
     {
-      "name": "Informática Eletrónica > Informática Gaming > Auriculares Gaming",
+      "name": "BB > Informática Eletrónica > Informática Gaming > Auriculares Gaming",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15968,7 +15976,7 @@
       "id": 1979
     },
     {
-      "name": "Informática Eletrónica > Informática Gaming > Carregadores Gaming",
+      "name": "BB > Informática Eletrónica > Informática Gaming > Carregadores Gaming",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15976,7 +15984,7 @@
       "id": 1980
     },
     {
-      "name": "Informática Eletrónica > Informática Gaming > Fontes de alimentação Gaming",
+      "name": "BB > Informática Eletrónica > Informática Gaming > Fontes de alimentação Gaming",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15984,7 +15992,7 @@
       "id": 1981
     },
     {
-      "name": "Informática Eletrónica > Informática Gaming > Gamepad",
+      "name": "BB > Informática Eletrónica > Informática Gaming > Gamepad",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -15992,7 +16000,7 @@
       "id": 1982
     },
     {
-      "name": "Informática Eletrónica > Informática Gaming > Gaming Placas Gráficas",
+      "name": "BB > Informática Eletrónica > Informática Gaming > Gaming Placas Gráficas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16000,7 +16008,7 @@
       "id": 1983
     },
     {
-      "name": "Informática Eletrónica > Informática Gaming > Placas de som Gaming",
+      "name": "BB > Informática Eletrónica > Informática Gaming > Placas de som Gaming",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16008,7 +16016,7 @@
       "id": 1984
     },
     {
-      "name": "Informática Eletrónica > Informática Gaming > Placas mãe Gaming",
+      "name": "BB > Informática Eletrónica > Informática Gaming > Placas mãe Gaming",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16016,7 +16024,7 @@
       "id": 1985
     },
     {
-      "name": "Informática Eletrónica > Informática Gaming > Ratos e tapetes Gaming",
+      "name": "BB > Informática Eletrónica > Informática Gaming > Ratos e tapetes Gaming",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16024,7 +16032,7 @@
       "id": 1986
     },
     {
-      "name": "Informática Eletrónica > Informática Gaming > Teclados de Jogo",
+      "name": "BB > Informática Eletrónica > Informática Gaming > Teclados de Jogo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16032,7 +16040,7 @@
       "id": 1987
     },
     {
-      "name": "Informática Eletrónica > Informática Gaming > Torres e caixas Gaming",
+      "name": "BB > Informática Eletrónica > Informática Gaming > Torres e caixas Gaming",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16040,7 +16048,7 @@
       "id": 1988
     },
     {
-      "name": "Informática Eletrónica > Informática Gaming > Ventilação Gaming",
+      "name": "BB > Informática Eletrónica > Informática Gaming > Ventilação Gaming",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16048,7 +16056,7 @@
       "id": 1989
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Acessórios de Informática",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Acessórios de Informática",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16056,7 +16064,7 @@
       "id": 1991
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Acessórios para impressoras 3D",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Acessórios para impressoras 3D",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16064,7 +16072,7 @@
       "id": 1992
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Altifalantes para PC",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Altifalantes para PC",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16072,7 +16080,7 @@
       "id": 1993
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Cartuchos de tinta original",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Cartuchos de tinta original",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16080,7 +16088,7 @@
       "id": 1994
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Cartuchos de tinta reciclada",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Cartuchos de tinta reciclada",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16088,7 +16096,7 @@
       "id": 1995
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Ecrãs para projetores",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Ecrãs para projetores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16096,7 +16104,7 @@
       "id": 1996
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Extensões",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Extensões",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16104,7 +16112,7 @@
       "id": 1997
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Impressoras",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Impressoras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16112,7 +16120,7 @@
       "id": 1998
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Impressoras 3D",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Impressoras 3D",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16120,7 +16128,7 @@
       "id": 1999
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Microfones e auriculares",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Microfones e auriculares",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16128,7 +16136,7 @@
       "id": 2000
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Monitores",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Monitores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16136,7 +16144,7 @@
       "id": 2001
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Os ratos e Mouse",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Os ratos e Mouse",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16144,7 +16152,7 @@
       "id": 2002
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Papel para impressoras",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Papel para impressoras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16152,7 +16160,7 @@
       "id": 2003
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Projetores",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Projetores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16160,7 +16168,7 @@
       "id": 2004
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Quadros interativos",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Quadros interativos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16168,7 +16176,7 @@
       "id": 2005
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > SAI",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > SAI",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16176,7 +16184,7 @@
       "id": 2006
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Scanners",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Scanners",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16184,7 +16192,7 @@
       "id": 2007
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Suporte para ecrãs",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Suporte para ecrãs",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16192,7 +16200,7 @@
       "id": 2008
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Tambores",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Tambores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16200,7 +16208,7 @@
       "id": 2009
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Teclados",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Teclados",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16208,7 +16216,7 @@
       "id": 2010
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Tinta de alimentação contínua",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Tinta de alimentação contínua",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16216,7 +16224,7 @@
       "id": 2011
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Trituradoras de papel",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Trituradoras de papel",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16224,7 +16232,7 @@
       "id": 2012
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Tóners originais",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Tóners originais",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16232,7 +16240,7 @@
       "id": 2013
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Tóners reciclados",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Tóners reciclados",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16240,7 +16248,7 @@
       "id": 2014
     },
     {
-      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Webcam",
+      "name": "BB > Informática Eletrónica > Informática Periféricos e consumíveis > Webcam",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16248,7 +16256,7 @@
       "id": 2015
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Armários Rack",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Armários Rack",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16256,7 +16264,7 @@
       "id": 2016
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Baterias para portáteis",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Baterias para portáteis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16264,7 +16272,7 @@
       "id": 2017
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Cartões de memória",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Cartões de memória",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16272,7 +16280,7 @@
       "id": 2018
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Discos rígidos",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Discos rígidos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16280,7 +16288,7 @@
       "id": 2019
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Fontes de alimentação",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Fontes de alimentação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16288,7 +16296,7 @@
       "id": 2020
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > HUB USB",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > HUB USB",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16296,7 +16304,7 @@
       "id": 2021
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Memórias RAM",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Memórias RAM",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16304,7 +16312,7 @@
       "id": 2022
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Multi-leitores",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Multi-leitores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16312,7 +16320,7 @@
       "id": 2023
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > NAS",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > NAS",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16320,7 +16328,7 @@
       "id": 2024
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Pen drives e memórias USB",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Pen drives e memórias USB",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16328,7 +16336,7 @@
       "id": 2025
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Placas PCI",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Placas PCI",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16336,7 +16344,7 @@
       "id": 2026
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Placas de som",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Placas de som",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16344,7 +16352,7 @@
       "id": 2027
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Placas gráficas",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Placas gráficas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16352,7 +16360,7 @@
       "id": 2028
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Placas mãe",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Placas mãe",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16360,7 +16368,7 @@
       "id": 2029
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Pontos de acesso",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Pontos de acesso",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16368,7 +16376,7 @@
       "id": 2030
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Processadores",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Processadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16376,7 +16384,7 @@
       "id": 2031
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Redes Home Plug",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Redes Home Plug",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16384,7 +16392,7 @@
       "id": 2032
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Redes WIFI",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Redes WIFI",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16392,7 +16400,7 @@
       "id": 2033
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Redes com fios",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Redes com fios",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16400,7 +16408,7 @@
       "id": 2034
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Redes sem fios",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Redes sem fios",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16408,7 +16416,7 @@
       "id": 2035
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Routers e modems",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Routers e modems",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16416,7 +16424,7 @@
       "id": 2036
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Switches",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Switches",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16424,7 +16432,7 @@
       "id": 2037
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Torres e caixas",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Torres e caixas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16432,7 +16440,7 @@
       "id": 2038
     },
     {
-      "name": "Informática Eletrónica > Informática Redes e Componentes > Ventilação",
+      "name": "BB > Informática Eletrónica > Informática Redes e Componentes > Ventilação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16440,7 +16448,7 @@
       "id": 2039
     },
     {
-      "name": "Jogos Disfarces > Bebés e Crianças > Amamentação",
+      "name": "BB > Jogos Disfarces > Bebés e Crianças > Amamentação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16448,7 +16456,7 @@
       "id": 2040
     },
     {
-      "name": "Jogos Disfarces > Bebés e Crianças > Decoração",
+      "name": "BB > Jogos Disfarces > Bebés e Crianças > Decoração",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16456,7 +16464,7 @@
       "id": 2041
     },
     {
-      "name": "Jogos Disfarces > Bebés e Crianças > Guarda-chuvas e gorros infantis",
+      "name": "BB > Jogos Disfarces > Bebés e Crianças > Guarda-chuvas e gorros infantis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16464,7 +16472,7 @@
       "id": 2042
     },
     {
-      "name": "Jogos Disfarces > Bebés e Crianças > Hora de dormir",
+      "name": "BB > Jogos Disfarces > Bebés e Crianças > Hora de dormir",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16472,7 +16480,7 @@
       "id": 2043
     },
     {
-      "name": "Jogos Disfarces > Bebés e Crianças > Hora do banho",
+      "name": "BB > Jogos Disfarces > Bebés e Crianças > Hora do banho",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16480,7 +16488,7 @@
       "id": 2044
     },
     {
-      "name": "Jogos Disfarces > Bebés e Crianças > Passeios e viagens",
+      "name": "BB > Jogos Disfarces > Bebés e Crianças > Passeios e viagens",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16488,7 +16496,7 @@
       "id": 2045
     },
     {
-      "name": "Jogos Disfarces > Bebés e Crianças > Relaxamento e diversão",
+      "name": "BB > Jogos Disfarces > Bebés e Crianças > Relaxamento e diversão",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16496,7 +16504,7 @@
       "id": 2046
     },
     {
-      "name": "Jogos Disfarces > Bebés e Crianças > Roupa e calçado para crianças",
+      "name": "BB > Jogos Disfarces > Bebés e Crianças > Roupa e calçado para crianças",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16504,7 +16512,7 @@
       "id": 2047
     },
     {
-      "name": "Jogos Disfarces > Bebés e Crianças > Segurança infantil em casa",
+      "name": "BB > Jogos Disfarces > Bebés e Crianças > Segurança infantil em casa",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16512,7 +16520,7 @@
       "id": 2048
     },
     {
-      "name": "Jogos Disfarces > Bebés e Crianças > Utensílios infantis",
+      "name": "BB > Jogos Disfarces > Bebés e Crianças > Utensílios infantis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16520,7 +16528,7 @@
       "id": 2049
     },
     {
-      "name": "Jogos Disfarces > Brinquedos e Jogos > Animais de brincar",
+      "name": "BB > Jogos Disfarces > Brinquedos e Jogos > Animais de brincar",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16528,7 +16536,7 @@
       "id": 2051
     },
     {
-      "name": "Jogos Disfarces > Brinquedos e Jogos > Bicicletas infantis",
+      "name": "BB > Jogos Disfarces > Brinquedos e Jogos > Bicicletas infantis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16536,7 +16544,7 @@
       "id": 2052
     },
     {
-      "name": "Jogos Disfarces > Brinquedos e Jogos > Bonecas e peluches",
+      "name": "BB > Jogos Disfarces > Brinquedos e Jogos > Bonecas e peluches",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16544,7 +16552,7 @@
       "id": 2053
     },
     {
-      "name": "Jogos Disfarces > Brinquedos e Jogos > Brinquedos para bebés",
+      "name": "BB > Jogos Disfarces > Brinquedos e Jogos > Brinquedos para bebés",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16552,7 +16560,7 @@
       "id": 2054
     },
     {
-      "name": "Jogos Disfarces > Brinquedos e Jogos > Disfarces",
+      "name": "BB > Jogos Disfarces > Brinquedos e Jogos > Disfarces",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16560,7 +16568,7 @@
       "id": 2055
     },
     {
-      "name": "Jogos Disfarces > Brinquedos e Jogos > Figuras de ação",
+      "name": "BB > Jogos Disfarces > Brinquedos e Jogos > Figuras de ação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16568,7 +16576,7 @@
       "id": 2056
     },
     {
-      "name": "Jogos Disfarces > Brinquedos e Jogos > Jogos de exterior",
+      "name": "BB > Jogos Disfarces > Brinquedos e Jogos > Jogos de exterior",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16576,7 +16584,7 @@
       "id": 2057
     },
     {
-      "name": "Jogos Disfarces > Brinquedos e Jogos > Jogos de mesa para crianças",
+      "name": "BB > Jogos Disfarces > Brinquedos e Jogos > Jogos de mesa para crianças",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16584,7 +16592,7 @@
       "id": 2058
     },
     {
-      "name": "Jogos Disfarces > Brinquedos e Jogos > Jogos educativos",
+      "name": "BB > Jogos Disfarces > Brinquedos e Jogos > Jogos educativos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16592,7 +16600,7 @@
       "id": 2059
     },
     {
-      "name": "Jogos Disfarces > Brinquedos e Jogos > Outros brinquedos",
+      "name": "BB > Jogos Disfarces > Brinquedos e Jogos > Outros brinquedos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16600,7 +16608,7 @@
       "id": 2060
     },
     {
-      "name": "Jogos Disfarces > Brinquedos e Jogos > Puzzles e construções",
+      "name": "BB > Jogos Disfarces > Brinquedos e Jogos > Puzzles e construções",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16608,7 +16616,7 @@
       "id": 2061
     },
     {
-      "name": "Jogos Disfarces > Brinquedos e Jogos > Trotinetes e triciclos",
+      "name": "BB > Jogos Disfarces > Brinquedos e Jogos > Trotinetes e triciclos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16616,7 +16624,7 @@
       "id": 2062
     },
     {
-      "name": "Jogos Disfarces > Brinquedos e Jogos > Veículos, circuitos e brinquedos telecomandados",
+      "name": "BB > Jogos Disfarces > Brinquedos e Jogos > Veículos, circuitos e brinquedos telecomandados",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16624,7 +16632,7 @@
       "id": 2063
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Acessórios para festas",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Acessórios para festas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16632,7 +16640,7 @@
       "id": 2065
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Animais",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Animais",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16640,7 +16648,7 @@
       "id": 2066
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Cantores e música",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Cantores e música",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16648,7 +16656,7 @@
       "id": 2067
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Cavernícolas",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Cavernícolas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16656,7 +16664,7 @@
       "id": 2068
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Comidas e bebidas",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Comidas e bebidas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16664,7 +16672,7 @@
       "id": 2069
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Complementos para fantasias",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Complementos para fantasias",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16672,7 +16680,7 @@
       "id": 2070
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Culturas e tradições",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Culturas e tradições",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16680,7 +16688,7 @@
       "id": 2071
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Desenhos animados",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Desenhos animados",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16688,7 +16696,7 @@
       "id": 2072
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Disney",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Disney",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16696,7 +16704,7 @@
       "id": 2073
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Décadas de 50, 60, 70, 80",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Décadas de 50, 60, 70, 80",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16704,7 +16712,7 @@
       "id": 2074
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Fantasia",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Fantasia",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16712,7 +16720,7 @@
       "id": 2075
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Fantasias infantis",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Fantasias infantis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16720,7 +16728,7 @@
       "id": 2076
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Filmes e séries",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Filmes e séries",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16728,7 +16736,7 @@
       "id": 2077
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Halloween",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Halloween",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16736,7 +16744,7 @@
       "id": 2078
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Maquilhagem",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Maquilhagem",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16744,7 +16752,7 @@
       "id": 2079
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Medieval",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Medieval",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16752,7 +16760,7 @@
       "id": 2080
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Máscaras",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Máscaras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16760,7 +16768,7 @@
       "id": 2081
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Natal",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Natal",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16768,7 +16776,7 @@
       "id": 2082
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Originais e divertidos",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Originais e divertidos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16776,7 +16784,7 @@
       "id": 2083
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Palhaços",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Palhaços",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16784,7 +16792,7 @@
       "id": 2084
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Perucas e chapéus",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Perucas e chapéus",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16792,7 +16800,7 @@
       "id": 2085
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Piratas",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Piratas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16800,7 +16808,7 @@
       "id": 2086
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Princesas e reis",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Princesas e reis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16808,7 +16816,7 @@
       "id": 2087
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Profissões",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Profissões",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16816,7 +16824,7 @@
       "id": 2088
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Religião",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Religião",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16824,7 +16832,7 @@
       "id": 2089
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Sexy",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Sexy",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16832,7 +16840,7 @@
       "id": 2090
     },
     {
-      "name": "Jogos Disfarces > Disfarces e artigos para festas > Super-heróis e videojogos",
+      "name": "BB > Jogos Disfarces > Disfarces e artigos para festas > Super-heróis e videojogos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16840,7 +16848,7 @@
       "id": 2091
     },
     {
-      "name": "Jogos Disfarces > Festas e Celebrações > Artigos de festa",
+      "name": "BB > Jogos Disfarces > Festas e Celebrações > Artigos de festa",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16848,7 +16856,7 @@
       "id": 2092
     },
     {
-      "name": "Jogos Disfarces > Festas e Celebrações > Artigos eróticos",
+      "name": "BB > Jogos Disfarces > Festas e Celebrações > Artigos eróticos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16856,7 +16864,7 @@
       "id": 2093
     },
     {
-      "name": "Jogos Disfarces > Festas e Celebrações > Artigos românticos",
+      "name": "BB > Jogos Disfarces > Festas e Celebrações > Artigos românticos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16864,7 +16872,7 @@
       "id": 2094
     },
     {
-      "name": "Jogos Disfarces > Festas e Celebrações > Jogos de mesa",
+      "name": "BB > Jogos Disfarces > Festas e Celebrações > Jogos de mesa",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16872,7 +16880,7 @@
       "id": 2095
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Adesivos",
+      "name": "BB > Jogos Disfarces > Material Escolar > Adesivos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16880,7 +16888,7 @@
       "id": 2096
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Afia-lápis",
+      "name": "BB > Jogos Disfarces > Material Escolar > Afia-lápis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16888,7 +16896,7 @@
       "id": 2097
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Agendas",
+      "name": "BB > Jogos Disfarces > Material Escolar > Agendas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16896,7 +16904,7 @@
       "id": 2098
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Blocos de notas",
+      "name": "BB > Jogos Disfarces > Material Escolar > Blocos de notas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16904,7 +16912,7 @@
       "id": 2099
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Borrachas",
+      "name": "BB > Jogos Disfarces > Material Escolar > Borrachas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16912,7 +16920,7 @@
       "id": 2100
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Cadernetas",
+      "name": "BB > Jogos Disfarces > Material Escolar > Cadernetas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16920,7 +16928,7 @@
       "id": 2101
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Calculadoras",
+      "name": "BB > Jogos Disfarces > Material Escolar > Calculadoras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16928,7 +16936,7 @@
       "id": 2102
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Canetas",
+      "name": "BB > Jogos Disfarces > Material Escolar > Canetas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16936,7 +16944,7 @@
       "id": 2103
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Canetas de feltro",
+      "name": "BB > Jogos Disfarces > Material Escolar > Canetas de feltro",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16944,7 +16952,7 @@
       "id": 2104
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Clipes",
+      "name": "BB > Jogos Disfarces > Material Escolar > Clipes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16952,7 +16960,7 @@
       "id": 2105
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Conjuntos de papelaria",
+      "name": "BB > Jogos Disfarces > Material Escolar > Conjuntos de papelaria",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16960,7 +16968,7 @@
       "id": 2106
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Estojos",
+      "name": "BB > Jogos Disfarces > Material Escolar > Estojos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16968,7 +16976,7 @@
       "id": 2107
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Etiquetas adesivas",
+      "name": "BB > Jogos Disfarces > Material Escolar > Etiquetas adesivas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16976,7 +16984,7 @@
       "id": 2108
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Lápis",
+      "name": "BB > Jogos Disfarces > Material Escolar > Lápis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16984,7 +16992,7 @@
       "id": 2109
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Lápis de cera coloridos",
+      "name": "BB > Jogos Disfarces > Material Escolar > Lápis de cera coloridos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -16992,7 +17000,7 @@
       "id": 2110
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Lápis de cor",
+      "name": "BB > Jogos Disfarces > Material Escolar > Lápis de cor",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17000,7 +17008,7 @@
       "id": 2111
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Marcadores",
+      "name": "BB > Jogos Disfarces > Material Escolar > Marcadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17008,7 +17016,7 @@
       "id": 2112
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Mochilas escolares",
+      "name": "BB > Jogos Disfarces > Material Escolar > Mochilas escolares",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17016,7 +17024,7 @@
       "id": 2113
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Outro material escolar",
+      "name": "BB > Jogos Disfarces > Material Escolar > Outro material escolar",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17024,7 +17032,7 @@
       "id": 2114
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Pastas",
+      "name": "BB > Jogos Disfarces > Material Escolar > Pastas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17032,7 +17040,7 @@
       "id": 2115
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Pastas para documentos",
+      "name": "BB > Jogos Disfarces > Material Escolar > Pastas para documentos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17040,7 +17048,7 @@
       "id": 2116
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Quadro de notas",
+      "name": "BB > Jogos Disfarces > Material Escolar > Quadro de notas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17048,7 +17056,7 @@
       "id": 2117
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Quadros",
+      "name": "BB > Jogos Disfarces > Material Escolar > Quadros",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17056,7 +17064,7 @@
       "id": 2118
     },
     {
-      "name": "Jogos Disfarces > Material Escolar > Réguas",
+      "name": "BB > Jogos Disfarces > Material Escolar > Réguas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17064,7 +17072,7 @@
       "id": 2119
     },
     {
-      "name": "Moda Acessórios > Acessórios de Moda > Bolsas e carteiras",
+      "name": "BB > Moda Acessórios > Acessórios de Moda > Bolsas e carteiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17072,7 +17080,7 @@
       "id": 2120
     },
     {
-      "name": "Moda Acessórios > Acessórios de Moda > Bonés",
+      "name": "BB > Moda Acessórios > Acessórios de Moda > Bonés",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17080,7 +17088,7 @@
       "id": 2121
     },
     {
-      "name": "Moda Acessórios > Acessórios de Moda > Chaveiros",
+      "name": "BB > Moda Acessórios > Acessórios de Moda > Chaveiros",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17088,7 +17096,7 @@
       "id": 2122
     },
     {
-      "name": "Moda Acessórios > Acessórios de Moda > Cintos",
+      "name": "BB > Moda Acessórios > Acessórios de Moda > Cintos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17096,7 +17104,7 @@
       "id": 2123
     },
     {
-      "name": "Moda Acessórios > Acessórios de Moda > Gorros e cachecóis",
+      "name": "BB > Moda Acessórios > Acessórios de Moda > Gorros e cachecóis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17104,7 +17112,7 @@
       "id": 2124
     },
     {
-      "name": "Moda Acessórios > Acessórios de Moda > Guarda-Chuvas",
+      "name": "BB > Moda Acessórios > Acessórios de Moda > Guarda-Chuvas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17112,7 +17120,7 @@
       "id": 2125
     },
     {
-      "name": "Moda Acessórios > Bijuteria > Anéis",
+      "name": "BB > Moda Acessórios > Bijuteria > Anéis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17120,7 +17128,7 @@
       "id": 2127
     },
     {
-      "name": "Moda Acessórios > Bijuteria > Brincos",
+      "name": "BB > Moda Acessórios > Bijuteria > Brincos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17128,7 +17136,7 @@
       "id": 2128
     },
     {
-      "name": "Moda Acessórios > Bijuteria > Broches e botões de punho",
+      "name": "BB > Moda Acessórios > Bijuteria > Broches e botões de punho",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17136,7 +17144,7 @@
       "id": 2129
     },
     {
-      "name": "Moda Acessórios > Bijuteria > Colares",
+      "name": "BB > Moda Acessórios > Bijuteria > Colares",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17144,7 +17152,7 @@
       "id": 2130
     },
     {
-      "name": "Moda Acessórios > Bijuteria > Missangas",
+      "name": "BB > Moda Acessórios > Bijuteria > Missangas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17152,7 +17160,7 @@
       "id": 2131
     },
     {
-      "name": "Moda Acessórios > Bijuteria > Outros acessórios",
+      "name": "BB > Moda Acessórios > Bijuteria > Outros acessórios",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17160,7 +17168,7 @@
       "id": 2132
     },
     {
-      "name": "Moda Acessórios > Bijuteria > Pulseiras",
+      "name": "BB > Moda Acessórios > Bijuteria > Pulseiras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17168,7 +17176,7 @@
       "id": 2133
     },
     {
-      "name": "Moda Acessórios > Relógios de pulso > Relógios de homem",
+      "name": "BB > Moda Acessórios > Relógios de pulso > Relógios de homem",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17176,7 +17184,7 @@
       "id": 2135
     },
     {
-      "name": "Moda Acessórios > Relógios de pulso > Relógios de mulher",
+      "name": "BB > Moda Acessórios > Relógios de pulso > Relógios de mulher",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17184,7 +17192,7 @@
       "id": 2136
     },
     {
-      "name": "Moda Acessórios > Relógios de pulso > Relógios infantis",
+      "name": "BB > Moda Acessórios > Relógios de pulso > Relógios infantis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17192,7 +17200,7 @@
       "id": 2137
     },
     {
-      "name": "Moda Acessórios > Relógios de pulso > Relógios unissexo",
+      "name": "BB > Moda Acessórios > Relógios de pulso > Relógios unissexo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17200,7 +17208,7 @@
       "id": 2138
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Biquínis e fatos de banho",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Biquínis e fatos de banho",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17208,7 +17216,7 @@
       "id": 2139
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Blusões",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Blusões",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17216,7 +17224,7 @@
       "id": 2140
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Botas",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Botas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17224,7 +17232,7 @@
       "id": 2141
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Calçado desportivo",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Calçado desportivo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17232,7 +17240,7 @@
       "id": 2142
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Calças",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Calças",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17240,7 +17248,7 @@
       "id": 2143
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Calções e bermudas",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Calções e bermudas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17248,7 +17256,7 @@
       "id": 2144
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Camisas",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Camisas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17256,7 +17264,7 @@
       "id": 2145
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Camisolas",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Camisolas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17264,7 +17272,7 @@
       "id": 2146
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Casacos",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Casacos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17272,7 +17280,7 @@
       "id": 2147
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Chinelas e tamancos",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Chinelas e tamancos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17280,7 +17288,7 @@
       "id": 2148
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Chinelos de casa",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Chinelos de casa",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17288,7 +17296,7 @@
       "id": 2149
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Galochas",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Galochas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17296,7 +17304,7 @@
       "id": 2150
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Leggings",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Leggings",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17304,7 +17312,7 @@
       "id": 2151
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Outros acessórios para o calçado",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Outros acessórios para o calçado",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17312,7 +17320,7 @@
       "id": 2152
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Outros presentes",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Outros presentes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17320,7 +17328,7 @@
       "id": 2153
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Palmilhas",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Palmilhas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17328,7 +17336,7 @@
       "id": 2154
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Pijamas e mantas com mangas",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Pijamas e mantas com mangas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17336,7 +17344,7 @@
       "id": 2155
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Pólos",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Pólos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17344,7 +17352,7 @@
       "id": 2156
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Roupa interior",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Roupa interior",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17352,7 +17360,7 @@
       "id": 2157
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Saias",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Saias",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17360,7 +17368,7 @@
       "id": 2158
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Sandálias",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Sandálias",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17368,7 +17376,7 @@
       "id": 2159
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Sapatos",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Sapatos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17376,7 +17384,7 @@
       "id": 2160
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Sweatshirts",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Sweatshirts",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17384,7 +17392,7 @@
       "id": 2161
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > T-shirts",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > T-shirts",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17392,7 +17400,7 @@
       "id": 2162
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Ténis",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Ténis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17400,7 +17408,7 @@
       "id": 2163
     },
     {
-      "name": "Moda Acessórios > Roupa e Calçado > Vestidos",
+      "name": "BB > Moda Acessórios > Roupa e Calçado > Vestidos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17408,7 +17416,7 @@
       "id": 2164
     },
     {
-      "name": "Moda Acessórios > Óculos de sol > Óculos de sol homem",
+      "name": "BB > Moda Acessórios > Óculos de sol > Óculos de sol homem",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17416,7 +17424,7 @@
       "id": 2165
     },
     {
-      "name": "Moda Acessórios > Óculos de sol > Óculos de sol infantis",
+      "name": "BB > Moda Acessórios > Óculos de sol > Óculos de sol infantis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17424,7 +17432,7 @@
       "id": 2166
     },
     {
-      "name": "Moda Acessórios > Óculos de sol > Óculos de sol mulher",
+      "name": "BB > Moda Acessórios > Óculos de sol > Óculos de sol mulher",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17432,7 +17440,7 @@
       "id": 2167
     },
     {
-      "name": "Moda Acessórios > Óculos de sol > Óculos de sol unissexo",
+      "name": "BB > Moda Acessórios > Óculos de sol > Óculos de sol unissexo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17440,7 +17448,7 @@
       "id": 2168
     },
     {
-      "name": "Perfumaria Cosmética > Cosmética > Acessórios e organizadores",
+      "name": "BB > Perfumaria Cosmética > Cosmética > Acessórios e organizadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17448,7 +17456,7 @@
       "id": 2169
     },
     {
-      "name": "Perfumaria Cosmética > Cosmética > Batons e gloss",
+      "name": "BB > Perfumaria Cosmética > Cosmética > Batons e gloss",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17456,7 +17464,7 @@
       "id": 2170
     },
     {
-      "name": "Perfumaria Cosmética > Cosmética > Blushers",
+      "name": "BB > Perfumaria Cosmética > Cosmética > Blushers",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17464,7 +17472,7 @@
       "id": 2171
     },
     {
-      "name": "Perfumaria Cosmética > Cosmética > Eyeliners e lápis de olhos",
+      "name": "BB > Perfumaria Cosmética > Cosmética > Eyeliners e lápis de olhos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17472,7 +17480,7 @@
       "id": 2172
     },
     {
-      "name": "Perfumaria Cosmética > Cosmética > Maquilhagem e bases",
+      "name": "BB > Perfumaria Cosmética > Cosmética > Maquilhagem e bases",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17480,7 +17488,7 @@
       "id": 2173
     },
     {
-      "name": "Perfumaria Cosmética > Cosmética > Pós compactos",
+      "name": "BB > Perfumaria Cosmética > Cosmética > Pós compactos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17488,7 +17496,7 @@
       "id": 2174
     },
     {
-      "name": "Perfumaria Cosmética > Cosmética > Rímel",
+      "name": "BB > Perfumaria Cosmética > Cosmética > Rímel",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17496,7 +17504,7 @@
       "id": 2175
     },
     {
-      "name": "Perfumaria Cosmética > Cosmética > Sombras de olhos",
+      "name": "BB > Perfumaria Cosmética > Cosmética > Sombras de olhos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17504,7 +17512,7 @@
       "id": 2176
     },
     {
-      "name": "Perfumaria Cosmética > Cosméticos Naturais",
+      "name": "BB > Perfumaria Cosmética > Cosméticos Naturais",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17512,7 +17520,7 @@
       "id": 2177
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Corporal > Creme anti-celulite e reafirmantes",
+      "name": "BB > Perfumaria Cosmética > Cuidado Corporal > Creme anti-celulite e reafirmantes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17520,7 +17528,7 @@
       "id": 2179
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Corporal > Cremes e body milk",
+      "name": "BB > Perfumaria Cosmética > Cuidado Corporal > Cremes e body milk",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17528,7 +17536,7 @@
       "id": 2180
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Corporal > Desodorizantes",
+      "name": "BB > Perfumaria Cosmética > Cuidado Corporal > Desodorizantes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17536,7 +17544,7 @@
       "id": 2181
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Corporal > Desodorizantes Roll-On",
+      "name": "BB > Perfumaria Cosmética > Cuidado Corporal > Desodorizantes Roll-On",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17544,7 +17552,7 @@
       "id": 2182
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Corporal > Desodorizantes em Spray",
+      "name": "BB > Perfumaria Cosmética > Cuidado Corporal > Desodorizantes em Spray",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17552,7 +17560,7 @@
       "id": 2183
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Corporal > Desodorizantes em Stick",
+      "name": "BB > Perfumaria Cosmética > Cuidado Corporal > Desodorizantes em Stick",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17560,7 +17568,7 @@
       "id": 2184
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Corporal > Desodorizantes para pés",
+      "name": "BB > Perfumaria Cosmética > Cuidado Corporal > Desodorizantes para pés",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17568,7 +17576,7 @@
       "id": 2185
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Corporal > Higiene oral",
+      "name": "BB > Perfumaria Cosmética > Cuidado Corporal > Higiene oral",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17576,7 +17584,7 @@
       "id": 2186
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Corporal > Higiene íntima",
+      "name": "BB > Perfumaria Cosmética > Cuidado Corporal > Higiene íntima",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17584,7 +17592,7 @@
       "id": 2187
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Corporal > Sabonetes e Géis",
+      "name": "BB > Perfumaria Cosmética > Cuidado Corporal > Sabonetes e Géis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17592,7 +17600,7 @@
       "id": 2188
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Facial > After shave e loções",
+      "name": "BB > Perfumaria Cosmética > Cuidado Facial > After shave e loções",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17600,7 +17608,7 @@
       "id": 2190
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Facial > Contorno de olhos",
+      "name": "BB > Perfumaria Cosmética > Cuidado Facial > Contorno de olhos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17608,7 +17616,7 @@
       "id": 2191
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Facial > Cremes anti-rugas e hidratantes",
+      "name": "BB > Perfumaria Cosmética > Cuidado Facial > Cremes anti-rugas e hidratantes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17616,7 +17624,7 @@
       "id": 2192
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Facial > Cremes de Barbear",
+      "name": "BB > Perfumaria Cosmética > Cuidado Facial > Cremes de Barbear",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17624,7 +17632,7 @@
       "id": 2193
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Facial > Desmaquilhantes",
+      "name": "BB > Perfumaria Cosmética > Cuidado Facial > Desmaquilhantes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17632,7 +17640,7 @@
       "id": 2194
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Facial > Espumas de barbear",
+      "name": "BB > Perfumaria Cosmética > Cuidado Facial > Espumas de barbear",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17640,7 +17648,7 @@
       "id": 2195
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Facial > Géis de barbear",
+      "name": "BB > Perfumaria Cosmética > Cuidado Facial > Géis de barbear",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17648,7 +17656,7 @@
       "id": 2196
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Facial > Limpeza da pele e exfoliantes",
+      "name": "BB > Perfumaria Cosmética > Cuidado Facial > Limpeza da pele e exfoliantes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17656,7 +17664,7 @@
       "id": 2197
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Facial > Máscaras faciais",
+      "name": "BB > Perfumaria Cosmética > Cuidado Facial > Máscaras faciais",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17664,7 +17672,7 @@
       "id": 2198
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Facial > Sérum",
+      "name": "BB > Perfumaria Cosmética > Cuidado Facial > Sérum",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17672,7 +17680,7 @@
       "id": 2199
     },
     {
-      "name": "Perfumaria Cosmética > Cuidado Facial > Tônicos e leites de limpeza",
+      "name": "BB > Perfumaria Cosmética > Cuidado Facial > Tônicos e leites de limpeza",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17680,7 +17688,7 @@
       "id": 2200
     },
     {
-      "name": "Perfumaria Cosmética > Lotes de Fragrâncias e Cosméticos",
+      "name": "BB > Perfumaria Cosmética > Lotes de Fragrâncias e Cosméticos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17688,7 +17696,7 @@
       "id": 2201
     },
     {
-      "name": "Perfumaria Cosmética > Perfumes > Perfumes eróticos",
+      "name": "BB > Perfumaria Cosmética > Perfumes > Perfumes eróticos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17696,7 +17704,7 @@
       "id": 2202
     },
     {
-      "name": "Perfumaria Cosmética > Perfumes > Perfumes infantis",
+      "name": "BB > Perfumaria Cosmética > Perfumes > Perfumes infantis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17704,7 +17712,7 @@
       "id": 2203
     },
     {
-      "name": "Perfumaria Cosmética > Perfumes > Perfumes para animais de estimação",
+      "name": "BB > Perfumaria Cosmética > Perfumes > Perfumes para animais de estimação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17712,7 +17720,7 @@
       "id": 2204
     },
     {
-      "name": "Perfumaria Cosmética > Perfumes > Perfumes para homem",
+      "name": "BB > Perfumaria Cosmética > Perfumes > Perfumes para homem",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17720,7 +17728,7 @@
       "id": 2205
     },
     {
-      "name": "Perfumaria Cosmética > Perfumes > Perfumes para mulher",
+      "name": "BB > Perfumaria Cosmética > Perfumes > Perfumes para mulher",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17728,7 +17736,7 @@
       "id": 2206
     },
     {
-      "name": "Perfumaria Cosmética > Perfumes > Perfumes unisexo",
+      "name": "BB > Perfumaria Cosmética > Perfumes > Perfumes unisexo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17736,7 +17744,7 @@
       "id": 2207
     },
     {
-      "name": "Saúde Beleza > Cabelo > Alisadores",
+      "name": "BB > Saúde Beleza > Cabelo > Alisadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17744,7 +17752,7 @@
       "id": 2209
     },
     {
-      "name": "Saúde Beleza > Cabelo > Ceras para o cabelo",
+      "name": "BB > Saúde Beleza > Cabelo > Ceras para o cabelo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17752,7 +17760,7 @@
       "id": 2210
     },
     {
-      "name": "Saúde Beleza > Cabelo > Champôs",
+      "name": "BB > Saúde Beleza > Cabelo > Champôs",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17760,7 +17768,7 @@
       "id": 2211
     },
     {
-      "name": "Saúde Beleza > Cabelo > Champôs a seco",
+      "name": "BB > Saúde Beleza > Cabelo > Champôs a seco",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17768,7 +17776,7 @@
       "id": 2212
     },
     {
-      "name": "Saúde Beleza > Cabelo > Condicionadores",
+      "name": "BB > Saúde Beleza > Cabelo > Condicionadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17776,7 +17784,7 @@
       "id": 2213
     },
     {
-      "name": "Saúde Beleza > Cabelo > Escovas e pentes",
+      "name": "BB > Saúde Beleza > Cabelo > Escovas e pentes",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17784,7 +17792,7 @@
       "id": 2214
     },
     {
-      "name": "Saúde Beleza > Cabelo > Espumas e lacas",
+      "name": "BB > Saúde Beleza > Cabelo > Espumas e lacas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17792,7 +17800,7 @@
       "id": 2215
     },
     {
-      "name": "Saúde Beleza > Cabelo > Espumas para o cabelo",
+      "name": "BB > Saúde Beleza > Cabelo > Espumas para o cabelo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17800,7 +17808,7 @@
       "id": 2216
     },
     {
-      "name": "Saúde Beleza > Cabelo > Géis de fixação",
+      "name": "BB > Saúde Beleza > Cabelo > Géis de fixação",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17808,7 +17816,7 @@
       "id": 2217
     },
     {
-      "name": "Saúde Beleza > Cabelo > Lacas para o cabelo",
+      "name": "BB > Saúde Beleza > Cabelo > Lacas para o cabelo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17816,7 +17824,7 @@
       "id": 2218
     },
     {
-      "name": "Saúde Beleza > Cabelo > Máquina de cortar cabelo",
+      "name": "BB > Saúde Beleza > Cabelo > Máquina de cortar cabelo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17824,7 +17832,7 @@
       "id": 2219
     },
     {
-      "name": "Saúde Beleza > Cabelo > Máscaras",
+      "name": "BB > Saúde Beleza > Cabelo > Máscaras",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17832,7 +17840,7 @@
       "id": 2220
     },
     {
-      "name": "Saúde Beleza > Cabelo > Secadores de cabelo",
+      "name": "BB > Saúde Beleza > Cabelo > Secadores de cabelo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17840,7 +17848,7 @@
       "id": 2221
     },
     {
-      "name": "Saúde Beleza > Cabelo > Tintas de cabelo",
+      "name": "BB > Saúde Beleza > Cabelo > Tintas de cabelo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17848,7 +17856,7 @@
       "id": 2222
     },
     {
-      "name": "Saúde Beleza > Estética e Tratamentos Corporais > Anticelulíticos",
+      "name": "BB > Saúde Beleza > Estética e Tratamentos Corporais > Anticelulíticos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17856,7 +17864,7 @@
       "id": 2224
     },
     {
-      "name": "Saúde Beleza > Estética e Tratamentos Corporais > Depilação e acessórios para barbear",
+      "name": "BB > Saúde Beleza > Estética e Tratamentos Corporais > Depilação e acessórios para barbear",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17864,7 +17872,7 @@
       "id": 2225
     },
     {
-      "name": "Saúde Beleza > Estética e Tratamentos Corporais > Manicure e pedicure",
+      "name": "BB > Saúde Beleza > Estética e Tratamentos Corporais > Manicure e pedicure",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17872,7 +17880,7 @@
       "id": 2226
     },
     {
-      "name": "Saúde Beleza > Proteção Solar > After sun",
+      "name": "BB > Saúde Beleza > Proteção Solar > After sun",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17880,7 +17888,7 @@
       "id": 2227
     },
     {
-      "name": "Saúde Beleza > Proteção Solar > After sun em spray",
+      "name": "BB > Saúde Beleza > Proteção Solar > After sun em spray",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17888,7 +17896,7 @@
       "id": 2228
     },
     {
-      "name": "Saúde Beleza > Proteção Solar > Ativadores de bronzeamento",
+      "name": "BB > Saúde Beleza > Proteção Solar > Ativadores de bronzeamento",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17896,7 +17904,7 @@
       "id": 2229
     },
     {
-      "name": "Saúde Beleza > Proteção Solar > Autobronzeadores",
+      "name": "BB > Saúde Beleza > Proteção Solar > Autobronzeadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17904,7 +17912,7 @@
       "id": 2230
     },
     {
-      "name": "Saúde Beleza > Proteção Solar > Autobronzeadores em spray",
+      "name": "BB > Saúde Beleza > Proteção Solar > Autobronzeadores em spray",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17912,7 +17920,7 @@
       "id": 2231
     },
     {
-      "name": "Saúde Beleza > Proteção Solar > Bronzeadores",
+      "name": "BB > Saúde Beleza > Proteção Solar > Bronzeadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17920,7 +17928,7 @@
       "id": 2232
     },
     {
-      "name": "Saúde Beleza > Proteção Solar > Bronzeadores em spray",
+      "name": "BB > Saúde Beleza > Proteção Solar > Bronzeadores em spray",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17928,7 +17936,7 @@
       "id": 2233
     },
     {
-      "name": "Saúde Beleza > Proteção Solar > Cremes corporais protetores em spray",
+      "name": "BB > Saúde Beleza > Proteção Solar > Cremes corporais protetores em spray",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17936,7 +17944,7 @@
       "id": 2234
     },
     {
-      "name": "Saúde Beleza > Proteção Solar > Protetores solares capilares em spray",
+      "name": "BB > Saúde Beleza > Proteção Solar > Protetores solares capilares em spray",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17944,7 +17952,7 @@
       "id": 2235
     },
     {
-      "name": "Saúde Beleza > Proteção Solar > Protetores solares faciais",
+      "name": "BB > Saúde Beleza > Proteção Solar > Protetores solares faciais",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17952,7 +17960,7 @@
       "id": 2236
     },
     {
-      "name": "Saúde Beleza > Proteção Solar > Protetores solares infantis",
+      "name": "BB > Saúde Beleza > Proteção Solar > Protetores solares infantis",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17960,7 +17968,7 @@
       "id": 2237
     },
     {
-      "name": "Saúde Beleza > Proteção Solar > Protetores solares infantis em spray",
+      "name": "BB > Saúde Beleza > Proteção Solar > Protetores solares infantis em spray",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17968,7 +17976,7 @@
       "id": 2238
     },
     {
-      "name": "Saúde Beleza > Proteção Solar > Protetores solares para o corpo",
+      "name": "BB > Saúde Beleza > Proteção Solar > Protetores solares para o corpo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17976,7 +17984,7 @@
       "id": 2239
     },
     {
-      "name": "Saúde Beleza > Proteção Solar > Óleos solares",
+      "name": "BB > Saúde Beleza > Proteção Solar > Óleos solares",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17984,7 +17992,7 @@
       "id": 2240
     },
     {
-      "name": "Saúde Beleza > Relaxamento e Bem-Estar > Aquecedores de mão",
+      "name": "BB > Saúde Beleza > Relaxamento e Bem-Estar > Aquecedores de mão",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -17992,7 +18000,7 @@
       "id": 2242
     },
     {
-      "name": "Saúde Beleza > Relaxamento e Bem-Estar > Conjunto de primeiros-socorros",
+      "name": "BB > Saúde Beleza > Relaxamento e Bem-Estar > Conjunto de primeiros-socorros",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -18000,7 +18008,7 @@
       "id": 2243
     },
     {
-      "name": "Saúde Beleza > Relaxamento e Bem-Estar > Massajadores",
+      "name": "BB > Saúde Beleza > Relaxamento e Bem-Estar > Massajadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -18008,7 +18016,7 @@
       "id": 2244
     },
     {
-      "name": "Saúde Beleza > Relaxamento e Bem-Estar > Produtos de relaxamento",
+      "name": "BB > Saúde Beleza > Relaxamento e Bem-Estar > Produtos de relaxamento",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -18016,7 +18024,7 @@
       "id": 2245
     },
     {
-      "name": "Saúde Beleza > Relaxamento e Bem-Estar > Sapatos, meias e palmilhas",
+      "name": "BB > Saúde Beleza > Relaxamento e Bem-Estar > Sapatos, meias e palmilhas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -18024,7 +18032,7 @@
       "id": 2246
     },
     {
-      "name": "Saúde Beleza > Relaxamento e Bem-Estar > Tensiómetros e termómetros",
+      "name": "BB > Saúde Beleza > Relaxamento e Bem-Estar > Tensiómetros e termómetros",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -18032,7 +18040,7 @@
       "id": 2247
     },
     {
-      "name": "Saúde Beleza > Relaxamento e Bem-Estar > Travesseiros e almofadas",
+      "name": "BB > Saúde Beleza > Relaxamento e Bem-Estar > Travesseiros e almofadas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -18040,7 +18048,7 @@
       "id": 2248
     },
     {
-      "name": "Saúde Beleza > Relaxamento e Bem-Estar > Óculos de leitura e lupas",
+      "name": "BB > Saúde Beleza > Relaxamento e Bem-Estar > Óculos de leitura e lupas",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -18048,7 +18056,7 @@
       "id": 2249
     },
     {
-      "name": "Saúde Beleza > Suplementos Alimentares",
+      "name": "BB > Saúde Beleza > Suplementos Alimentares",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
