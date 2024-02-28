@@ -1264,70 +1264,6 @@
   ],
   "categoriesFromExcel": [
     {
-      "name": "LP > Equipamentos de escritório",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 0
-    },
-    {
-      "name": "LP > Informatica",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 1
-    },
-    {
-      "name": "LP > Escrita",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 2
-    },
-    {
-      "name": "LP > Papéis especiais",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 3
-    },
-    {
-      "name": "LP > Arquivo",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 4
-    },
-    {
-      "name": "LP > Papel e etiquetas",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 5
-    },
-    {
-      "name": "LP > Embalagem",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 6
-    },
-    {
-      "name": "LP > Escolar",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 7
-    },
-    {
       "name": "LP > Equipamentos de escritório > Calculadoras científicas",
       "riva_name": "",
       "riva_id": null,
@@ -1430,14 +1366,6 @@
       "has_name_assigned": false,
       "platform": "liderPapel",
       "id": 20
-    },
-    {
-      "name": "LP > Mobiliário",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 21
     },
     {
       "name": "LP > Mobiliário > Carros para arquivo suspenso",
@@ -1936,14 +1864,6 @@
       "id": 83
     },
     {
-      "name": "LP > Organização",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 84
-    },
-    {
       "name": "LP > Organização > Agendas",
       "riva_name": "",
       "riva_id": null,
@@ -2280,14 +2200,6 @@
       "id": 126
     },
     {
-      "name": "LP > Corte, adesivos e correção",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 127
-    },
-    {
       "name": "LP > Corte, adesivos e correção > Colas escolares",
       "riva_name": "",
       "riva_id": null,
@@ -2406,14 +2318,6 @@
       "has_name_assigned": false,
       "platform": "liderPapel",
       "id": 142
-    },
-    {
-      "name": "LP > Complementos de escritório",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 143
     },
     {
       "name": "LP > Complementos de escritório > Agrafadores de bolso",
@@ -2912,14 +2816,6 @@
       "id": 205
     },
     {
-      "name": "LP > Apresentação",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 206
-    },
-    {
       "name": "LP > Apresentação > Blocos para congressos",
       "riva_name": "",
       "riva_id": null,
@@ -3014,14 +2910,6 @@
       "has_name_assigned": false,
       "platform": "liderPapel",
       "id": 218
-    },
-    {
-      "name": "LP > Manutenção",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 219
     },
     {
       "name": "LP > Manutenção > Bases em cartão",
@@ -3134,14 +3022,6 @@
       "has_name_assigned": false,
       "platform": "liderPapel",
       "id": 233
-    },
-    {
-      "name": "LP > Livros e complementos",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 234
     },
     {
       "name": "LP > Livros e complementos > Livros de caligrafia",
@@ -3392,14 +3272,6 @@
       "id": 265
     },
     {
-      "name": "LP > Trabalhos manuais",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 266
-    },
-    {
       "name": "LP > Trabalhos manuais > Cavaletes",
       "riva_name": "",
       "riva_id": null,
@@ -3438,14 +3310,6 @@
       "has_name_assigned": false,
       "platform": "liderPapel",
       "id": 271
-    },
-    {
-      "name": "LP > Jogos e ofertas",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 272
     },
     {
       "name": "LP > Jogos e ofertas > Capas fantasia",
@@ -3630,14 +3494,6 @@
       "has_name_assigned": false,
       "platform": "liderPapel",
       "id": 295
-    },
-    {
-      "name": "LP > Infantil",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "liderPapel",
-      "id": 296
     },
     {
       "name": "LP > Infantil > Infantil: primeira etapa",
@@ -6560,14 +6416,6 @@
       "id": 661
     },
     {
-      "name": "VXL > Animais & acessórios > Produtos para animais de estimação > Produtos de beleza para animais de estimação",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 662
-    },
-    {
       "name": "VXL > Animais & acessórios > Produtos para animais de estimação > Produtos de beleza para animais de estimação > Secadores para animais de estimação",
       "riva_name": "",
       "riva_id": null,
@@ -6598,14 +6446,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 666
-    },
-    {
-      "name": "VXL > Animais & acessórios > Produtos para animais de estimação > Produtos para cães",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 667
     },
     {
       "name": "VXL > Animais & acessórios > Produtos para animais de estimação > Produtos para cães > Acessórios para canis",
@@ -6848,14 +6688,6 @@
       "id": 697
     },
     {
-      "name": "VXL > Artes e entretenimento > Festas e comemorações > Artigos para festas > Jogos de bebidas > Beer Pong",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 698
-    },
-    {
       "name": "VXL > Artes e entretenimento > Festas e comemorações > Artigos para festas > Jogos de bebidas > Beer Pong > Mesas de beer pong",
       "riva_name": "",
       "riva_id": null,
@@ -6878,14 +6710,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 701
-    },
-    {
-      "name": "VXL > Artes e entretenimento > Hobbies e artes > Arte e artesanato",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 702
     },
     {
       "name": "VXL > Artes e entretenimento > Hobbies e artes > Arte e artesanato > Acessórios para arte e artesanato > Molduras, argolas e esticadores",
@@ -6920,14 +6744,6 @@
       "id": 706
     },
     {
-      "name": "VXL > Artes e entretenimento > Hobbies e artes > Arte e artesanato > Materiais para arte e artesanato",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 707
-    },
-    {
       "name": "VXL > Artes e entretenimento > Hobbies e artes > Arte e artesanato > Materiais para arte e artesanato > Enfeites e ornamentos > Adesivos decorativos",
       "riva_name": "",
       "riva_id": null,
@@ -6958,14 +6774,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 711
-    },
-    {
-      "name": "VXL > Artes e entretenimento > Hobbies e artes > Instrumentos musicais > Instrumentos de corda",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 712
     },
     {
       "name": "VXL > Artes e entretenimento > Hobbies e artes > Instrumentos musicais > Instrumentos de corda > Guitarras",
@@ -7000,14 +6808,6 @@
       "id": 716
     },
     {
-      "name": "VXL > Artes e entretenimento > Hobbies e artes > Instrumentos musicais e acessórios para orquestras > Acessórios para instrumentos de corda > Acessórios para guitarras",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 717
-    },
-    {
       "name": "VXL > Artes e entretenimento > Hobbies e artes > Instrumentos musicais e acessórios para orquestras > Acessórios para instrumentos de corda > Acessórios para guitarras > Estojos e sacos para guitarras",
       "riva_name": "",
       "riva_id": null,
@@ -7038,22 +6838,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 721
-    },
-    {
-      "name": "VXL > Artigos desportivos > Artigos para prática de esportes",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 722
-    },
-    {
-      "name": "VXL > Artigos desportivos > Artigos para prática de esportes > Basebol e softebol",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 723
     },
     {
       "name": "VXL > Artigos desportivos > Artigos para prática de esportes > Basebol e softebol > Bolas de beisebol",
@@ -7152,44 +6936,12 @@
       "id": 735
     },
     {
-      "name": "VXL > Artigos desportivos > Atividades ao ar livre",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 736
-    },
-    {
-      "name": "VXL > Artigos desportivos > Atividades ao ar livre > Alpinismo",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 737
-    },
-    {
       "name": "VXL > Artigos desportivos > Atividades ao ar livre > Alpinismo > Corda para alpinismo",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 738
-    },
-    {
-      "name": "VXL > Artigos desportivos > Atividades ao ar livre > Campismo e caminhadas",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 739
-    },
-    {
-      "name": "VXL > Artigos desportivos > Atividades ao ar livre > Campismo e caminhadas > Acessórios para tendas",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 740
     },
     {
       "name": "VXL > Artigos desportivos > Atividades ao ar livre > Campismo e caminhadas > Acessórios para tendas > Estacas e varetas para tendas",
@@ -7206,14 +6958,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 742
-    },
-    {
-      "name": "VXL > Artigos desportivos > Atividades ao ar livre > Campismo e caminhadas > Chuveiros e casas de banho portáteis",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 743
     },
     {
       "name": "VXL > Artigos desportivos > Atividades ao ar livre > Campismo e caminhadas > Chuveiros e casas de banho portáteis > Casas de banho portáteis",
@@ -7262,14 +7006,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 749
-    },
-    {
-      "name": "VXL > Artigos desportivos > Atividades ao ar livre > Campismo e caminhadas > Mobiliário para campismo",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 750
     },
     {
       "name": "VXL > Artigos desportivos > Atividades ao ar livre > Campismo e caminhadas > Mobiliário para campismo > Acessórios para colchões de ar e colchonetes",
@@ -7352,7 +7088,7 @@
       "id": 760
     },
     {
-      "name": "VXL > Artigos desportivos > Atividades ao ar livre > Caça e tiro > Equipamentos de proteção para caça e tiro > ",
+      "name": "VXL > Artigos desportivos > Atividades ao ar livre > Caça e tiro > Equipamentos de proteção para caça e tiro",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
@@ -7382,14 +7118,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 764
-    },
-    {
-      "name": "VXL > Artigos desportivos > Atividades ao ar livre > Ciclismo > Acessórios para bicicletas",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 765
     },
     {
       "name": "VXL > Artigos desportivos > Atividades ao ar livre > Ciclismo > Acessórios para bicicletas > Acolchoamentos e capas para selins de bicicletas",
@@ -7456,14 +7184,6 @@
       "id": 773
     },
     {
-      "name": "VXL > Artigos desportivos > Atividades ao ar livre > Desporto equestre",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 774
-    },
-    {
       "name": "VXL > Artigos desportivos > Atividades ao ar livre > Desporto equestre > Acessórios para cavalos > Cobertores para cavalos",
       "riva_name": "",
       "riva_id": null,
@@ -7518,14 +7238,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 781
-    },
-    {
-      "name": "VXL > Artigos desportivos > Atividades ao ar livre > Desportos náuticos e aquáticos",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 782
     },
     {
       "name": "VXL > Artigos desportivos > Atividades ao ar livre > Desportos náuticos e aquáticos > Náutica e rafting > Acessórios de canoagem",
@@ -7656,14 +7368,6 @@
       "id": 798
     },
     {
-      "name": "VXL > Artigos desportivos > Atividades ao ar livre > Recreação ao ar livre",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 799
-    },
-    {
       "name": "VXL > Artigos desportivos > Atividades ao ar livre > Recreação ao ar livre > Badminton > Redes para badminton",
       "riva_name": "",
       "riva_id": null,
@@ -7718,14 +7422,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 806
-    },
-    {
-      "name": "VXL > Artigos desportivos > Exercícios e condicionamento físico > Cardio > Acessórios para máquina de cardio",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 807
     },
     {
       "name": "VXL > Artigos desportivos > Exercícios e condicionamento físico > Cardio > Acessórios para máquina de cardio > Acessórios para bicicleta ergométrica",
@@ -7792,14 +7488,6 @@
       "id": 815
     },
     {
-      "name": "VXL > Artigos desportivos > Exercícios e condicionamento físico > Levantamento de pesos",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 816
-    },
-    {
       "name": "VXL > Artigos desportivos > Exercícios e condicionamento físico > Levantamento de pesos > Aparelhos e suportes para levantamento de pesos",
       "riva_name": "",
       "riva_id": null,
@@ -7824,28 +7512,12 @@
       "id": 819
     },
     {
-      "name": "VXL > Artigos desportivos > Exercícios e condicionamento físico > Yoga e Pilates",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 820
-    },
-    {
       "name": "VXL > Artigos desportivos > Exercícios e condicionamento físico > Yoga e Pilates > Tapetes de yoga e pilates",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 821
-    },
-    {
-      "name": "VXL > Artigos desportivos > Jogos internos",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 822
     },
     {
       "name": "VXL > Artigos desportivos > Jogos internos > Bilhar > Mesas de bilhar",
@@ -7904,36 +7576,12 @@
       "id": 829
     },
     {
-      "name": "VXL > Automóveis e peças > Equipamentos e ferramentas de oficina",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 830
-    },
-    {
       "name": "VXL > Automóveis e peças > Equipamentos e ferramentas de oficina > Ferramentas manuais",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 831
-    },
-    {
-      "name": "VXL > Automóveis e peças > Peças e acessórios para veículos",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 832
-    },
-    {
-      "name": "VXL > Automóveis e peças > Peças e acessórios para veículos > Armazenamento e carga de veículos",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 833
     },
     {
       "name": "VXL > Automóveis e peças > Peças e acessórios para veículos > Armazenamento e carga de veículos > Bolsas e mochilas para motociclistas",
@@ -7960,14 +7608,6 @@
       "id": 836
     },
     {
-      "name": "VXL > Automóveis e peças > Peças e acessórios para veículos > Armazenamento e carga de veículos > Racks de transporte para veículos motorizados",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 837
-    },
-    {
       "name": "VXL > Automóveis e peças > Peças e acessórios para veículos > Armazenamento e carga de veículos > Racks de transporte para veículos motorizados > Racks de bicicleta para veículos",
       "riva_name": "",
       "riva_id": null,
@@ -7982,14 +7622,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 839
-    },
-    {
-      "name": "VXL > Automóveis e peças > Peças e acessórios para veículos > Armazenamento e carga de veículos > Reboques para veículos motorizados",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 840
     },
     {
       "name": "VXL > Automóveis e peças > Peças e acessórios para veículos > Armazenamento e carga de veículos > Reboques para veículos motorizados > Reboques para barcos",
@@ -8032,14 +7664,6 @@
       "id": 845
     },
     {
-      "name": "VXL > Automóveis e peças > Peças e acessórios para veículos > Manutenção, cuidado e decoração para veículos motorizados",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 846
-    },
-    {
       "name": "VXL > Automóveis e peças > Peças e acessórios para veículos > Manutenção, cuidado e decoração para veículos motorizados > Capas para veículos > Capas para armazenamento de veículos > Capas para automóveis",
       "riva_name": "",
       "riva_id": null,
@@ -8072,14 +7696,6 @@
       "id": 850
     },
     {
-      "name": "VXL > Automóveis e peças > Peças e acessórios para veículos > Manutenção, cuidado e decoração para veículos motorizados > Ferramentas especializadas e de reparações para veículos",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 851
-    },
-    {
       "name": "VXL > Automóveis e peças > Peças e acessórios para veículos > Manutenção, cuidado e decoração para veículos motorizados > Ferramentas especializadas e de reparações para veículos > Cabos de carregamento para veículos",
       "riva_name": "",
       "riva_id": null,
@@ -8110,22 +7726,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 855
-    },
-    {
-      "name": "VXL > Automóveis e peças > Peças e acessórios para veículos > Peças e acessórios para embarcações",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 856
-    },
-    {
-      "name": "VXL > Automóveis e peças > Peças e acessórios para veículos > Peças e acessórios para embarcações > Atracagem e ancoragem",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 857
     },
     {
       "name": "VXL > Automóveis e peças > Peças e acessórios para veículos > Peças e acessórios para embarcações > Atracagem e ancoragem > Escada para barco",
@@ -8272,14 +7872,6 @@
       "id": 875
     },
     {
-      "name": "VXL > Automóveis e peças > Peças e acessórios para veículos > Segurança do veículo > Alarmes e travas para veículos",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 876
-    },
-    {
       "name": "VXL > Automóveis e peças > Peças e acessórios para veículos > Segurança do veículo > Alarmes e travas para veículos > Barras e ganchos de reboque",
       "riva_name": "",
       "riva_id": null,
@@ -8304,14 +7896,6 @@
       "id": 879
     },
     {
-      "name": "VXL > Automóveis e peças > Peças e acessórios para veículos > Segurança do veículo > Equipamentos de segurança para veículos",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 880
-    },
-    {
       "name": "VXL > Automóveis e peças > Peças e acessórios para veículos > Segurança do veículo > Equipamentos de segurança para veículos > Calços para pneus de veículos",
       "riva_name": "",
       "riva_id": null,
@@ -8326,14 +7910,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 882
-    },
-    {
-      "name": "VXL > Brinquedos e jogos > Brinquedos > Bonecas, conjuntos e personagens",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 883
     },
     {
       "name": "VXL > Brinquedos e jogos > Brinquedos > Bonecas, conjuntos e personagens > Acessórios para bonecas e figuras de ação",
@@ -8382,14 +7958,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 889
-    },
-    {
-      "name": "VXL > Brinquedos e jogos > Brinquedos > Brinquedos desportivos",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 890
     },
     {
       "name": "VXL > Brinquedos e jogos > Brinquedos > Brinquedos desportivos > Briinquedos de basquetebol",
@@ -8462,14 +8030,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 899
-    },
-    {
-      "name": "VXL > Brinquedos e jogos > Equipamento para brincadeiras ao ar livre",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 900
     },
     {
       "name": "VXL > Brinquedos e jogos > Equipamento para brincadeiras ao ar livre > Acessórios para baloiços e brinquedos ao ar livre",
@@ -8576,14 +8136,6 @@
       "id": 913
     },
     {
-      "name": "VXL > Brinquedos e jogos > Jogos",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 914
-    },
-    {
       "name": "VXL > Brinquedos e jogos > Jogos > Fichas e jogos de pôquer",
       "riva_name": "",
       "riva_id": null,
@@ -8598,14 +8150,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 916
-    },
-    {
-      "name": "VXL > Casa e jardim > Acessórios para casa de banho",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 917
     },
     {
       "name": "VXL > Casa e jardim > Acessórios para casa de banho > Argolas para cortinas de casa de banho",
@@ -8784,14 +8328,6 @@
       "id": 939
     },
     {
-      "name": "VXL > Casa e jardim > Acessórios para lareiras e fogões a lenha",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 940
-    },
-    {
       "name": "VXL > Casa e jardim > Acessórios para lareiras e fogões a lenha > Acessórios para prateleiras de lenha e madeira",
       "riva_name": "",
       "riva_id": null,
@@ -8880,14 +8416,6 @@
       "id": 951
     },
     {
-      "name": "VXL > Casa e jardim > Complementos para casa > Armazenamento e organização > Cabides e prateleiras de armazenamento",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 952
-    },
-    {
       "name": "VXL > Casa e jardim > Complementos para casa > Armazenamento e organização > Cabides e prateleiras de armazenamento > Suportes e prateleiras para guarda-chuvas",
       "riva_name": "",
       "riva_id": null,
@@ -8952,14 +8480,6 @@
       "id": 960
     },
     {
-      "name": "VXL > Casa e jardim > Complementos para casa > Contenção de resíduos",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 961
-    },
-    {
       "name": "VXL > Casa e jardim > Complementos para casa > Contenção de resíduos > Caixotes para lixo e cestos para papéis",
       "riva_name": "",
       "riva_id": null,
@@ -8982,14 +8502,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 964
-    },
-    {
-      "name": "VXL > Casa e jardim > Complementos para casa > Controlo de pestes > Repelentes",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 965
     },
     {
       "name": "VXL > Casa e jardim > Complementos para casa > Controlo de pestes > Repelentes > Repelentes de animais",
@@ -9022,14 +8534,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 969
-    },
-    {
-      "name": "VXL > Casa e jardim > Complementos para casa > Materiais para limpeza doméstica > Produtos para limpeza doméstica",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 970
     },
     {
       "name": "VXL > Casa e jardim > Complementos para casa > Materiais para limpeza doméstica > Produtos para limpeza doméstica > Limpadores para lava-louças",
@@ -9136,14 +8640,6 @@
       "id": 983
     },
     {
-      "name": "VXL > Casa e jardim > Cozinha e sala de jantar > Acessórios para eletrodomésticos de cozinha > Acessórios para churrasqueiras de exterior",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 984
-    },
-    {
       "name": "VXL > Casa e jardim > Cozinha e sala de jantar > Acessórios para eletrodomésticos de cozinha > Acessórios para churrasqueiras de exterior > Coberturas para churrasqueiras",
       "riva_name": "",
       "riva_id": null,
@@ -9176,14 +8672,6 @@
       "id": 988
     },
     {
-      "name": "VXL > Casa e jardim > Cozinha e sala de jantar > Armazenamento de alimentos",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 989
-    },
-    {
       "name": "VXL > Casa e jardim > Cozinha e sala de jantar > Armazenamento de alimentos > Biscoteira",
       "riva_name": "",
       "riva_id": null,
@@ -9198,14 +8686,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 991
-    },
-    {
-      "name": "VXL > Casa e jardim > Cozinha e sala de jantar > Ferramentas e utensílios de cozinha",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 992
     },
     {
       "name": "VXL > Casa e jardim > Cozinha e sala de jantar > Ferramentas e utensílios de cozinha > Abridores de latas",
@@ -9376,14 +8856,6 @@
       "id": 1013
     },
     {
-      "name": "VXL > Casa e jardim > Cozinha e sala de jantar > Panelas e assadeiras > Panelas",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1014
-    },
-    {
       "name": "VXL > Casa e jardim > Cozinha e sala de jantar > Panelas e assadeiras > Panelas > Caçarolas para fritar",
       "riva_name": "",
       "riva_id": null,
@@ -9446,14 +8918,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1022
-    },
-    {
-      "name": "VXL > Casa e jardim > Cozinha e sala de jantar > Utensílios para cozinha",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1023
     },
     {
       "name": "VXL > Casa e jardim > Cozinha e sala de jantar > Utensílios para cozinha > Aquecedores de alimentos > Rechauds",
@@ -9616,14 +9080,6 @@
       "id": 1043
     },
     {
-      "name": "VXL > Casa e jardim > Decoração",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1044
-    },
-    {
       "name": "VXL > Casa e jardim > Decoração > Acessórios domésticos para fragrâncias > Acessórios para fragrâncias",
       "riva_name": "",
       "riva_id": null,
@@ -9712,14 +9168,6 @@
       "id": 1055
     },
     {
-      "name": "VXL > Casa e jardim > Decoração > Casinhas para pássaros e animais selvagens",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1056
-    },
-    {
       "name": "VXL > Casa e jardim > Decoração > Casinhas para pássaros e animais selvagens > Casinhas para borboletas",
       "riva_name": "",
       "riva_id": null,
@@ -9758,14 +9206,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1061
-    },
-    {
-      "name": "VXL > Casa e jardim > Decoração > Decorações de Natal",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1062
     },
     {
       "name": "VXL > Casa e jardim > Decoração > Decorações de Natal > Enfeites do Feriados",
@@ -9984,14 +9424,6 @@
       "id": 1089
     },
     {
-      "name": "VXL > Casa e jardim > Decoração > Relógios",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1090
-    },
-    {
       "name": "VXL > Casa e jardim > Decoração > Relógios > Relógios de parede",
       "riva_name": "",
       "riva_id": null,
@@ -10038,14 +9470,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1096
-    },
-    {
-      "name": "VXL > Casa e jardim > Decoração > Velas & Fragrâncias domésticas",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1097
     },
     {
       "name": "VXL > Casa e jardim > Decoração > Velas & Fragrâncias domésticas > Velas",
@@ -10304,14 +9728,6 @@
       "id": 1129
     },
     {
-      "name": "VXL > Casa e jardim > Lençóis e roupas de cama > Roupas de cama > Protetores de colchão",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1130
-    },
-    {
       "name": "VXL > Casa e jardim > Lençóis e roupas de cama > Roupas de cama > Protetores de colchão > Capas acolchoadas para colchões",
       "riva_name": "",
       "riva_id": null,
@@ -10344,14 +9760,6 @@
       "id": 1134
     },
     {
-      "name": "VXL > Casa e jardim > Lençóis e roupas de cama > Toalhas",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1135
-    },
-    {
       "name": "VXL > Casa e jardim > Lençóis e roupas de cama > Toalhas > Toalhas de cozinha",
       "riva_name": "",
       "riva_id": null,
@@ -10374,14 +9782,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1138
-    },
-    {
-      "name": "VXL > Casa e jardim > Piscina e spa > Acessórios para piscinas e spa",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1139
     },
     {
       "name": "VXL > Casa e jardim > Piscina e spa > Acessórios para piscinas e spa > Acessórios para cobertura de piscinas",
@@ -10520,14 +9920,6 @@
       "id": 1156
     },
     {
-      "name": "VXL > Casa e jardim > Relvado e jardim > Acessórios para equipamento elétrico de exterior > Acessórios para cortadores de relva",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1157
-    },
-    {
       "name": "VXL > Casa e jardim > Relvado e jardim > Acessórios para equipamento elétrico de exterior > Acessórios para cortadores de relva > Tampas para cortadores de grama",
       "riva_name": "",
       "riva_id": null,
@@ -10648,14 +10040,6 @@
       "id": 1172
     },
     {
-      "name": "VXL > Casa e jardim > Relvado e jardim > Espaço exterior > Acessórios para guarda-sóis",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1173
-    },
-    {
       "name": "VXL > Casa e jardim > Relvado e jardim > Espaço exterior > Acessórios para guarda-sóis > Capas para guarda-sóis",
       "riva_name": "",
       "riva_id": null,
@@ -10696,28 +10080,12 @@
       "id": 1178
     },
     {
-      "name": "VXL > Casa e jardim > Relvado e jardim > Espaço exterior > Estruturas externas",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1179
-    },
-    {
       "name": "VXL > Casa e jardim > Relvado e jardim > Espaço exterior > Estruturas externas > Abrigos",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1180
-    },
-    {
-      "name": "VXL > Casa e jardim > Relvado e jardim > Espaço exterior > Estruturas externas > Acessórios para toldos e gazebos",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1181
     },
     {
       "name": "VXL > Casa e jardim > Relvado e jardim > Espaço exterior > Estruturas externas > Acessórios para toldos e gazebos > Estruturas para toldos e gazebos",
@@ -10776,14 +10144,6 @@
       "id": 1188
     },
     {
-      "name": "VXL > Casa e jardim > Relvado e jardim > Espaço exterior > Mantas para uso ao ar livre",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1189
-    },
-    {
       "name": "VXL > Casa e jardim > Relvado e jardim > Espaço exterior > Mantas para uso ao ar livre > Toalhas de piquenique",
       "riva_name": "",
       "riva_id": null,
@@ -10808,22 +10168,6 @@
       "id": 1192
     },
     {
-      "name": "VXL > Casa e jardim > Relvado e jardim > Jardinagem",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1193
-    },
-    {
-      "name": "VXL > Casa e jardim > Relvado e jardim > Jardinagem > Acessórios de jardinagem",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1194
-    },
-    {
       "name": "VXL > Casa e jardim > Relvado e jardim > Jardinagem > Acessórios de jardinagem > Apoios para joelhos e assentos",
       "riva_name": "",
       "riva_id": null,
@@ -10838,14 +10182,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1196
-    },
-    {
-      "name": "VXL > Casa e jardim > Relvado e jardim > Jardinagem > Acessórios para ferramentas de jardinagem",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1197
     },
     {
       "name": "VXL > Casa e jardim > Relvado e jardim > Jardinagem > Acessórios para ferramentas de jardinagem > Peças para carrinho de mão",
@@ -10894,14 +10230,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1203
-    },
-    {
-      "name": "VXL > Casa e jardim > Relvado e jardim > Jardinagem > Ferramentas de jardinagem",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1204
     },
     {
       "name": "VXL > Casa e jardim > Relvado e jardim > Jardinagem > Ferramentas de jardinagem > Ancinhos",
@@ -11016,14 +10344,6 @@
       "id": 1218
     },
     {
-      "name": "VXL > Casa e jardim > Relvado e jardim > Sistemas de irrigação",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1219
-    },
-    {
       "name": "VXL > Casa e jardim > Relvado e jardim > Sistemas de irrigação > Acessórios para regadores",
       "riva_name": "",
       "riva_id": null,
@@ -11046,14 +10366,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1222
-    },
-    {
-      "name": "VXL > Casa e jardim > Relvado e jardim > Sistemas de irrigação > Sistemas de sprinklers",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1223
     },
     {
       "name": "VXL > Casa e jardim > Relvado e jardim > Sistemas de irrigação > Sistemas de sprinklers > Controlos para sprinklers",
@@ -11080,14 +10392,6 @@
       "id": 1226
     },
     {
-      "name": "VXL > Casa e jardim > Segurança domiciliar e comercial",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1227
-    },
-    {
       "name": "VXL > Casa e jardim > Segurança domiciliar e comercial > Cofres",
       "riva_name": "",
       "riva_id": null,
@@ -11104,14 +10408,6 @@
       "id": 1229
     },
     {
-      "name": "VXL > Comercial e industrial > Agricultura > Pecuária",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1230
-    },
-    {
       "name": "VXL > Comercial e industrial > Agricultura > Pecuária > Comedouros para gado",
       "riva_name": "",
       "riva_id": null,
@@ -11126,14 +10422,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1232
-    },
-    {
-      "name": "VXL > Comercial e industrial > Armazenamento industrial",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1233
     },
     {
       "name": "VXL > Comercial e industrial > Armazenamento industrial > Prateleiras industriais",
@@ -11192,14 +10480,6 @@
       "id": 1240
     },
     {
-      "name": "VXL > Comercial e industrial > Manuseio de materiais",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1241
-    },
-    {
       "name": "VXL > Comercial e industrial > Manuseio de materiais > Elevação > Elevadores, guindastes e tróleis",
       "riva_name": "",
       "riva_id": null,
@@ -11246,14 +10526,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1247
-    },
-    {
-      "name": "VXL > Comercial e industrial > Serviço de gastronomia",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1248
     },
     {
       "name": "VXL > Comercial e industrial > Serviço de gastronomia > Máquinas para lavar e secar alimentos",
@@ -11464,22 +10736,6 @@
       "id": 1274
     },
     {
-      "name": "VXL > Hardware > Acessórios para ferragens",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1275
-    },
-    {
-      "name": "VXL > Hardware > Acessórios para ferragens > Correntes, cabos e cordas",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1276
-    },
-    {
       "name": "VXL > Hardware > Acessórios para ferragens > Correntes, cabos e cordas > Amarras",
       "riva_name": "",
       "riva_id": null,
@@ -11520,14 +10776,6 @@
       "id": 1281
     },
     {
-      "name": "VXL > Hardware > Acessórios para ferragens > Fixadores de ferragens",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1282
-    },
-    {
       "name": "VXL > Hardware > Acessórios para ferragens > Fixadores de ferragens > Pregos",
       "riva_name": "",
       "riva_id": null,
@@ -11558,14 +10806,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1286
-    },
-    {
-      "name": "VXL > Hardware > Acessórios para ferragens > Porta-ferramentas",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1287
     },
     {
       "name": "VXL > Hardware > Acessórios para ferragens > Porta-ferramentas > Armários de ferramentas",
@@ -11640,14 +10880,6 @@
       "id": 1296
     },
     {
-      "name": "VXL > Hardware > Acessórios para ferramentas > Acessórios para furadeiras",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1297
-    },
-    {
       "name": "VXL > Hardware > Acessórios para ferramentas > Acessórios para furadeiras > Brocas para furadeiras",
       "riva_name": "",
       "riva_id": null,
@@ -11680,14 +10912,6 @@
       "id": 1301
     },
     {
-      "name": "VXL > Hardware > Acessórios para ferramentas > Acessórios para lixamento",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1302
-    },
-    {
       "name": "VXL > Hardware > Acessórios para ferramentas > Acessórios para lixamento > Esponjas abrasivas para lixas e lixamento",
       "riva_name": "",
       "riva_id": null,
@@ -11702,14 +10926,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1304
-    },
-    {
-      "name": "VXL > Hardware > Acessórios para ferramentas > Acessórios para serras",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1305
     },
     {
       "name": "VXL > Hardware > Acessórios para ferramentas > Acessórios para serras > Acessórios para serra circular de mão",
@@ -11824,14 +11040,6 @@
       "id": 1319
     },
     {
-      "name": "VXL > Hardware > Canalização > Equipamentos de canalização > Lavatórios",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1320
-    },
-    {
       "name": "VXL > Hardware > Canalização > Equipamentos de canalização > Lavatórios > Lavatório de casa de banho",
       "riva_name": "",
       "riva_id": null,
@@ -11846,14 +11054,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1322
-    },
-    {
-      "name": "VXL > Hardware > Canalização > Equipamentos de canalização > Sanitas e bidés",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1323
     },
     {
       "name": "VXL > Hardware > Canalização > Equipamentos de canalização > Sanitas e bidés > Bidés",
@@ -11886,14 +11086,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1327
-    },
-    {
-      "name": "VXL > Hardware > Canalização > Juntas e conexões para canalização",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1328
     },
     {
       "name": "VXL > Hardware > Canalização > Juntas e conexões para canalização > Registros para encanamento",
@@ -11958,14 +11150,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1336
-    },
-    {
-      "name": "VXL > Hardware > Canalização > Peças e ferragens para fixação de canalização > Peças para chuveiro",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1337
     },
     {
       "name": "VXL > Hardware > Canalização > Peças e ferragens para fixação de canalização > Peças para chuveiro > Bases para chuveiros",
@@ -12112,14 +11296,6 @@
       "id": 1355
     },
     {
-      "name": "VXL > Hardware > Ferramentas",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1356
-    },
-    {
       "name": "VXL > Hardware > Ferramentas > Alicates",
       "riva_name": "",
       "riva_id": null,
@@ -12206,14 +11382,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1367
-    },
-    {
-      "name": "VXL > Hardware > Ferramentas > Cortadores",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1368
     },
     {
       "name": "VXL > Hardware > Ferramentas > Cortadores > Cortadores de azulejos e telhas",
@@ -12304,14 +11472,6 @@
       "id": 1379
     },
     {
-      "name": "VXL > Hardware > Ferramentas > Ferramentas para alvenaria",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1380
-    },
-    {
       "name": "VXL > Hardware > Ferramentas > Ferramentas para alvenaria > Colheres-de-pedreiro elétricas",
       "riva_name": "",
       "riva_id": null,
@@ -12342,14 +11502,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1384
-    },
-    {
-      "name": "VXL > Hardware > Ferramentas > Ferramentas para pintura",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1385
     },
     {
       "name": "VXL > Hardware > Ferramentas > Ferramentas para pintura > Pulverizadores de pintura",
@@ -12560,14 +11712,6 @@
       "id": 1411
     },
     {
-      "name": "VXL > Hardware > Materiais de construção",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1412
-    },
-    {
       "name": "VXL > Hardware > Materiais de construção > Acessórios para portas > Estruturas de portas",
       "riva_name": "",
       "riva_id": null,
@@ -12656,14 +11800,6 @@
       "id": 1423
     },
     {
-      "name": "VXL > Hardware > Materiais de construção > Portas",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1424
-    },
-    {
       "name": "VXL > Hardware > Materiais de construção > Portas > Portas residenciais",
       "riva_name": "",
       "riva_id": null,
@@ -12678,14 +11814,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1426
-    },
-    {
-      "name": "VXL > Hardware > Materiais de construção > Telhado",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1427
     },
     {
       "name": "VXL > Hardware > Materiais de construção > Telhado > Telhas e placas de telhado",
@@ -12872,14 +12000,6 @@
       "id": 1450
     },
     {
-      "name": "VXL > Malas e sacos > ",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1451
-    },
-    {
       "name": "VXL > Malas e sacos > Acessórios para malas > Suportes para malas",
       "riva_name": "",
       "riva_id": null,
@@ -13000,14 +12120,6 @@
       "id": 1466
     },
     {
-      "name": "VXL > Mobiliário > Acessórios para mesas",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1467
-    },
-    {
       "name": "VXL > Mobiliário > Acessórios para mesas > Pernas de mesa",
       "riva_name": "",
       "riva_id": null,
@@ -13022,14 +12134,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1469
-    },
-    {
-      "name": "VXL > Mobiliário > Acessórios para móveis de jardim",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1470
     },
     {
       "name": "VXL > Mobiliário > Acessórios para móveis de jardim > Capas para móveis de jardim",
@@ -13048,28 +12152,12 @@
       "id": 1472
     },
     {
-      "name": "VXL > Mobiliário > Armários e armazenamento",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1473
-    },
-    {
       "name": "VXL > Mobiliário > Armários e armazenamento > Aparadores",
       "riva_name": "",
       "riva_id": null,
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1474
-    },
-    {
-      "name": "VXL > Mobiliário > Armários e armazenamento > Armários",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1475
     },
     {
       "name": "VXL > Mobiliário > Armários e armazenamento > Armários > Armários para casa de banho",
@@ -13128,14 +12216,6 @@
       "id": 1482
     },
     {
-      "name": "VXL > Mobiliário > Armários e armazenamento > Caixas de armazenamento",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1483
-    },
-    {
       "name": "VXL > Mobiliário > Armários e armazenamento > Caixas de armazenamento > Baús de enxoval",
       "riva_name": "",
       "riva_id": null,
@@ -13192,14 +12272,6 @@
       "id": 1490
     },
     {
-      "name": "VXL > Mobiliário > Bancos",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1491
-    },
-    {
       "name": "VXL > Mobiliário > Bancos > Bancos de arrumação e entrada",
       "riva_name": "",
       "riva_id": null,
@@ -13230,14 +12302,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1495
-    },
-    {
-      "name": "VXL > Mobiliário > Cadeiras",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1496
     },
     {
       "name": "VXL > Mobiliário > Cadeiras > Bancos de bar",
@@ -13320,14 +12384,6 @@
       "id": 1506
     },
     {
-      "name": "VXL > Mobiliário > Camas e acessórios",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1507
-    },
-    {
       "name": "VXL > Mobiliário > Camas e acessórios > Acessórios para cama",
       "riva_name": "",
       "riva_id": null,
@@ -13358,14 +12414,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1511
-    },
-    {
-      "name": "VXL > Mobiliário > Carrinhos",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1512
     },
     {
       "name": "VXL > Mobiliário > Carrinhos > Carrinhos de cozinha",
@@ -13408,14 +12456,6 @@
       "id": 1517
     },
     {
-      "name": "VXL > Mobiliário > Estantes",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1518
-    },
-    {
       "name": "VXL > Mobiliário > Estantes > Estantes para livros",
       "riva_name": "",
       "riva_id": null,
@@ -13430,14 +12470,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1520
-    },
-    {
-      "name": "VXL > Mobiliário > Mesas",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1521
     },
     {
       "name": "VXL > Mobiliário > Mesas > Mesas auxiliares > Mesas consola",
@@ -13536,14 +12568,6 @@
       "id": 1533
     },
     {
-      "name": "VXL > Mobiliário > Mobiliário de jardim > Assentos para exterior",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1534
-    },
-    {
       "name": "VXL > Mobiliário > Mobiliário de jardim > Assentos para exterior > Bancos de jardim",
       "riva_name": "",
       "riva_id": null,
@@ -13632,14 +12656,6 @@
       "id": 1545
     },
     {
-      "name": "VXL > Mobiliário > Móveis para bebés e crianças",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1546
-    },
-    {
       "name": "VXL > Mobiliário > Móveis para bebés e crianças > Berços",
       "riva_name": "",
       "riva_id": null,
@@ -13686,14 +12702,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1552
-    },
-    {
-      "name": "VXL > Saúde & Beleza > Cuidados com a saúde > Mobilidade e acessibilidade",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1553
     },
     {
       "name": "VXL > Saúde & Beleza > Cuidados com a saúde > Mobilidade e acessibilidade > Móveis e utensílios de acessibilidade > Bancos e assentos para banho",
@@ -13750,14 +12758,6 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1560
-    },
-    {
-      "name": "VXL > Saúde & Beleza > Cuidados pessoais > Cosméticos > Utensílios de cosmética",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1561
     },
     {
       "name": "VXL > Saúde & Beleza > Cuidados pessoais > Cosméticos > Utensílios de cosmética > Utensílios de maquilhagem > Espelhos de maquilhagem",
@@ -13864,14 +12864,6 @@
       "id": 1574
     },
     {
-      "name": "VXL > Vestuário e acessórios > Roupas > Roupa de criança",
-      "riva_name": "",
-      "riva_id": null,
-      "has_name_assigned": false,
-      "platform": "vidaXL",
-      "id": 1575
-    },
-    {
       "name": "VXL > Vestuário e acessórios > Roupas > Roupa de criança > Calções de criança",
       "riva_name": "",
       "riva_id": null,
@@ -13958,6 +12950,5110 @@
       "has_name_assigned": false,
       "platform": "vidaXL",
       "id": 1586
+    },
+    {
+      "name": "Casa Jardim > Animais de Estimação > Brinquedos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1588
+    },
+    {
+      "name": "Casa Jardim > Animais de Estimação > Camas e colchões",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1589
+    },
+    {
+      "name": "Casa Jardim > Animais de Estimação > Comida para animais",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1590
+    },
+    {
+      "name": "Casa Jardim > Animais de Estimação > Equipamento para alimentação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1591
+    },
+    {
+      "name": "Casa Jardim > Animais de Estimação > Saúde e higiene",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1592
+    },
+    {
+      "name": "Casa Jardim > Animais de Estimação > Viajar e passear",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1593
+    },
+    {
+      "name": "Casa Jardim > Banho > Acessórios e torneiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1594
+    },
+    {
+      "name": "Casa Jardim > Banho > Balanças",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1595
+    },
+    {
+      "name": "Casa Jardim > Banho > Cortinas e tapetes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1596
+    },
+    {
+      "name": "Casa Jardim > Banho > Extratores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1597
+    },
+    {
+      "name": "Casa Jardim > Bricolage e Ferramentas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1598
+    },
+    {
+      "name": "Casa Jardim > Climatização e Aquecimento > Ar condicionado e ventiladores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1599
+    },
+    {
+      "name": "Casa Jardim > Climatização e Aquecimento > Humidificadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1600
+    },
+    {
+      "name": "Casa Jardim > Climatização e Aquecimento > Radiadores e aquecedores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1601
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Batentes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1603
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Caixas de jóias e jarros de cerâmica",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1604
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Candeeiros",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1605
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Centros de mesa e jarros",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1606
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Decoração natalícia",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1607
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Despertadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1608
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Espelhos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1609
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Iluminação LED",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1610
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Iluminação solar",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1611
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Isqueiros, cigarreiras e cinzeiros",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1612
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Lâmpadas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1613
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Mealherios",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1614
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Molduras e porta-retratos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1615
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Outros artigos de decoração",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1616
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Quadros e cartazes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1617
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Relógios de parede e de mesa",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1618
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Suportes para guarda-chuvas e revistas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1619
+    },
+    {
+      "name": "Casa Jardim > Decoração e Iluminaçao > Velas e castiçais",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1620
+    },
+    {
+      "name": "Casa Jardim > Jardim e Terraço > Decoração, iluminação e mobiliário",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1622
+    },
+    {
+      "name": "Casa Jardim > Jardim e Terraço > Grelhadores e Acessórios",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1623
+    },
+    {
+      "name": "Casa Jardim > Jardim e Terraço > Iluminação e decoração de exteriores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1624
+    },
+    {
+      "name": "Casa Jardim > Jardim e Terraço > Jardinagem",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1625
+    },
+    {
+      "name": "Casa Jardim > Jardim e Terraço > Mangueiras e sistemas de rega",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1626
+    },
+    {
+      "name": "Casa Jardim > Jardim e Terraço > Repelentes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1627
+    },
+    {
+      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Ambientadores automáticos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1629
+    },
+    {
+      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Ambientadores elétricos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1630
+    },
+    {
+      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Ambientadores em spray",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1631
+    },
+    {
+      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Ambientadores mikado",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1632
+    },
+    {
+      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Ambientadores para o carro",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1633
+    },
+    {
+      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Aspiradores e robôs",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1634
+    },
+    {
+      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Esfregonas e vassouras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1635
+    },
+    {
+      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Limpeza a vapor",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1636
+    },
+    {
+      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Máquinas de costura",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1637
+    },
+    {
+      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Outros produtos para o lar",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1638
+    },
+    {
+      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Purificadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1639
+    },
+    {
+      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Secadores, ferros de engomar e estendais",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1640
+    },
+    {
+      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Velas perfumadas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1641
+    },
+    {
+      "name": "Casa Jardim > Limpeza, Aspiradores e Ferros de Engomar > Óleos essenciais",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1642
+    },
+    {
+      "name": "Casa Jardim > Mobiliário > Baús",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1643
+    },
+    {
+      "name": "Casa Jardim > Mobiliário > Bengaleiros e prateleiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1644
+    },
+    {
+      "name": "Casa Jardim > Mobiliário > Biombos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1645
+    },
+    {
+      "name": "Casa Jardim > Mobiliário > Cabeceiras e pés de cama",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1646
+    },
+    {
+      "name": "Casa Jardim > Mobiliário > Cadeiras de relaxamento",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1647
+    },
+    {
+      "name": "Casa Jardim > Mobiliário > Cómodas, toucadores e armarios",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1648
+    },
+    {
+      "name": "Casa Jardim > Mobiliário > Estantes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1649
+    },
+    {
+      "name": "Casa Jardim > Mobiliário > Gavetas, armários e aparadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1650
+    },
+    {
+      "name": "Casa Jardim > Mobiliário > Mesas de cabeceira",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1651
+    },
+    {
+      "name": "Casa Jardim > Mobiliário > Mesas e cadeiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1652
+    },
+    {
+      "name": "Casa Jardim > Mobiliário > Móveis para a TV e auxiliares",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1653
+    },
+    {
+      "name": "Casa Jardim > Mobiliário > Organizadores de sapatos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1654
+    },
+    {
+      "name": "Casa Jardim > Mobiliário > Poltronas, cadeiras de balanço e sofás",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1655
+    },
+    {
+      "name": "Casa Jardim > Mobiliário > Puffs e bancos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1656
+    },
+    {
+      "name": "Casa Jardim > Mobiliário > Secretárias",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1657
+    },
+    {
+      "name": "Casa Jardim > Mobiliário > Sofás e sofá-camas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1658
+    },
+    {
+      "name": "Casa Jardim > Organizadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1659
+    },
+    {
+      "name": "Casa Jardim > Relaxamento > Almofadas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1660
+    },
+    {
+      "name": "Casa Jardim > Relaxamento > Colchões",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1661
+    },
+    {
+      "name": "Casa Jardim > Segurança em Casa > Câmaras IP",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1663
+    },
+    {
+      "name": "Casa Jardim > Segurança em Casa > Intercomunicador para bebés",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1664
+    },
+    {
+      "name": "Casa Jardim > Segurança em Casa > Lâmpadas inteligentes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1665
+    },
+    {
+      "name": "Casa Jardim > Segurança em Casa > Sistemas de segurança",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1666
+    },
+    {
+      "name": "Casa Jardim > Segurança em Casa > Tomadas inteligentes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1667
+    },
+    {
+      "name": "Casa Jardim > Segurança em Casa > Videocâmaras de vigilância",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1668
+    },
+    {
+      "name": "Casa Jardim > Têxtil para uso doméstico > Almofadas e travesseiros",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1669
+    },
+    {
+      "name": "Casa Jardim > Têxtil para uso doméstico > Capas de edredão",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1670
+    },
+    {
+      "name": "Casa Jardim > Têxtil para uso doméstico > Capas de edredão nórdicas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1671
+    },
+    {
+      "name": "Casa Jardim > Têxtil para uso doméstico > Colchas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1672
+    },
+    {
+      "name": "Casa Jardim > Têxtil para uso doméstico > Cortinas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1673
+    },
+    {
+      "name": "Casa Jardim > Têxtil para uso doméstico > Estores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1674
+    },
+    {
+      "name": "Casa Jardim > Têxtil para uso doméstico > Faixas e toalhas de mesa",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1675
+    },
+    {
+      "name": "Casa Jardim > Têxtil para uso doméstico > Lençóis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1676
+    },
+    {
+      "name": "Casa Jardim > Têxtil para uso doméstico > Roupões de banho",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1677
+    },
+    {
+      "name": "Casa Jardim > Têxtil para uso doméstico > Tapetes e cobertores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1678
+    },
+    {
+      "name": "Casa Jardim > Têxtil para uso doméstico > Toalhas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1679
+    },
+    {
+      "name": "Cozinha Gourmet > Alimentação > Alimentação infantil",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1680
+    },
+    {
+      "name": "Cozinha Gourmet > Alimentação > Arroz e massas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1681
+    },
+    {
+      "name": "Cozinha Gourmet > Alimentação > Azeitonas e picles",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1682
+    },
+    {
+      "name": "Cozinha Gourmet > Alimentação > Açúcar e adoçantes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1683
+    },
+    {
+      "name": "Cozinha Gourmet > Alimentação > Bebidas, refrigerantes e infusões",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1684
+    },
+    {
+      "name": "Cozinha Gourmet > Alimentação > Conservas e pratos combinados",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1685
+    },
+    {
+      "name": "Cozinha Gourmet > Alimentação > Especiarias, caldos e cremes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1686
+    },
+    {
+      "name": "Cozinha Gourmet > Alimentação > Maionese, molhos e óleos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1687
+    },
+    {
+      "name": "Cozinha Gourmet > Alimentação > Pequeno-almoço e laticínios",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1688
+    },
+    {
+      "name": "Cozinha Gourmet > Alimentação > Petiscos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1689
+    },
+    {
+      "name": "Cozinha Gourmet > Alimentação > Pão e farinhas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1690
+    },
+    {
+      "name": "Cozinha Gourmet > Confeitaria > Decoração, acessórios e moldes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1691
+    },
+    {
+      "name": "Cozinha Gourmet > Confeitaria > Fontes e fondues",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1692
+    },
+    {
+      "name": "Cozinha Gourmet > Confeitaria > Geladeiras e iogurteiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1693
+    },
+    {
+      "name": "Cozinha Gourmet > Confeitaria > Máquinas de crepes e waffles",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1694
+    },
+    {
+      "name": "Cozinha Gourmet > Enologia",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1695
+    },
+    {
+      "name": "Cozinha Gourmet > Equipamento de Cozinha > Exaustores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1696
+    },
+    {
+      "name": "Cozinha Gourmet > Equipamento de Cozinha > Lava-louças",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1697
+    },
+    {
+      "name": "Cozinha Gourmet > Equipamento de Cozinha > Torneiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1698
+    },
+    {
+      "name": "Cozinha Gourmet > Garrafeiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1699
+    },
+    {
+      "name": "Cozinha Gourmet > Gourmet > Azeite",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1700
+    },
+    {
+      "name": "Cozinha Gourmet > Gourmet > Conjuntos de degustação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1701
+    },
+    {
+      "name": "Cozinha Gourmet > Gourmet > Cápsulas de café",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1702
+    },
+    {
+      "name": "Cozinha Gourmet > Gourmet > Presuntos e suportes de presunto",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1703
+    },
+    {
+      "name": "Cozinha Gourmet > Licores e Acessórios",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1704
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Amassadeiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1705
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Balanças de cozinha",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1706
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Batedeiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1707
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Cafeteiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1708
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Chaleiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1709
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Chapas e grelhadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1710
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Espremedores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1711
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Fondues",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1712
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Fornos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1713
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Frigideiras elétrico",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1714
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Fritadeiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1715
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Liquidificadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1716
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Micro-ondas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1717
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Micro-ondas e fornos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1718
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Máquinas de arroz",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1719
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Máquinas de embalamento por vácuo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1720
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Outros eletrodomésticos de cozinha",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1721
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Placas de fogão",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1722
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Refrigeradores e congeladores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1723
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Robôs de cozinha",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1724
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Sanduicheiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1725
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Torradeiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1726
+    },
+    {
+      "name": "Cozinha Gourmet > Pequenos Eletrodomésticos > Trituradores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1727
+    },
+    {
+      "name": "Cozinha Gourmet > Utensílios de Cozinha > Canecas e garrafas térmicas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1728
+    },
+    {
+      "name": "Cozinha Gourmet > Utensílios de Cozinha > Conjuntos de tachos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1729
+    },
+    {
+      "name": "Cozinha Gourmet > Utensílios de Cozinha > Copos e jarros",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1730
+    },
+    {
+      "name": "Cozinha Gourmet > Utensílios de Cozinha > Facas e afiadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1731
+    },
+    {
+      "name": "Cozinha Gourmet > Utensílios de Cozinha > Panos de cozinha",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1732
+    },
+    {
+      "name": "Cozinha Gourmet > Utensílios de Cozinha > Porta-copos, jogos americanos e guardanapos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1733
+    },
+    {
+      "name": "Cozinha Gourmet > Utensílios de Cozinha > Pratos, bandejas e travessas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1734
+    },
+    {
+      "name": "Cozinha Gourmet > Utensílios de Cozinha > Tachos e panelas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1735
+    },
+    {
+      "name": "Cozinha Gourmet > Utensílios e accessorios de cozinha > Caixas de cozinha e caixas de pão",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1737
+    },
+    {
+      "name": "Cozinha Gourmet > Utensílios e accessorios de cozinha > Lancheiras, porta-alimentos e saladeiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1738
+    },
+    {
+      "name": "Cozinha Gourmet > Utensílios e accessorios de cozinha > Outros acessórios e utensílios de cozinha",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1739
+    },
+    {
+      "name": "Cozinha Gourmet > Utensílios e accessorios de cozinha > Papel e sacos de conservação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1740
+    },
+    {
+      "name": "Cozinha Gourmet > Utensílios e accessorios de cozinha > Raladores, cortadores e descascadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1741
+    },
+    {
+      "name": "Cozinha Gourmet > Utensílios e accessorios de cozinha > Recipientes para especiarias e molhos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1742
+    },
+    {
+      "name": "Cozinha Gourmet > Utensílios e accessorios de cozinha > Saca-rolhas, abridor de lata e abridor de garrafas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1743
+    },
+    {
+      "name": "Cozinha Gourmet > Utensílios e accessorios de cozinha > Tábuas de cozinha",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1744
+    },
+    {
+      "name": "Desporto Lazer > Acessórios para Automóveis > Acessórios e organizadores para veículos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1746
+    },
+    {
+      "name": "Desporto Lazer > Acessórios para Automóveis > Assentos e acessórios para veículos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1747
+    },
+    {
+      "name": "Desporto Lazer > Acessórios para Automóveis > Autocolantes e tuning",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1748
+    },
+    {
+      "name": "Desporto Lazer > Acessórios para Automóveis > Baterias para carros",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1749
+    },
+    {
+      "name": "Desporto Lazer > Acessórios para Automóveis > Iluminação LED/HID e lâmpadas para o carro",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1750
+    },
+    {
+      "name": "Desporto Lazer > Acessórios para Automóveis > Kits de emergência e reparação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1751
+    },
+    {
+      "name": "Desporto Lazer > Acessórios para Automóveis > Limpeza e manutenção de carros",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1752
+    },
+    {
+      "name": "Desporto Lazer > Acessórios para Automóveis > Peças para automóvel e peças sobresselentes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1753
+    },
+    {
+      "name": "Desporto Lazer > Acessórios para Automóveis > Produtos para a manutenção do carro",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1754
+    },
+    {
+      "name": "Desporto Lazer > Acessórios para Automóveis > Produtos para o cuidado de motas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1755
+    },
+    {
+      "name": "Desporto Lazer > Acessórios para Automóveis > Proteção e segurança do carro",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1756
+    },
+    {
+      "name": "Desporto Lazer > Acessórios para Automóveis > Roupa e acessórios de karting",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1757
+    },
+    {
+      "name": "Desporto Lazer > Acessórios para Automóveis > Roupa e acessórios de racing",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1758
+    },
+    {
+      "name": "Desporto Lazer > Acessórios para Automóveis > Roupa e acessórios de trabalho para mecânicos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1759
+    },
+    {
+      "name": "Desporto Lazer > Acessórios para Automóveis > Sensores e eletrónica para carros",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1760
+    },
+    {
+      "name": "Desporto Lazer > Acessórios para Automóveis > Tintas e acessórios de pintura",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1761
+    },
+    {
+      "name": "Desporto Lazer > Atividades ao Ar Livre",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1762
+    },
+    {
+      "name": "Desporto Lazer > Basquetebol > Acessórios de basquetebol",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1763
+    },
+    {
+      "name": "Desporto Lazer > Basquetebol > Bolas de basquete",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1764
+    },
+    {
+      "name": "Desporto Lazer > Basquetebol > Sapatilhas de basquetebol",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1765
+    },
+    {
+      "name": "Desporto Lazer > Campismo e Montanha > Acessórios de campismo e montanhismo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1767
+    },
+    {
+      "name": "Desporto Lazer > Campismo e Montanha > Binóculos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1768
+    },
+    {
+      "name": "Desporto Lazer > Campismo e Montanha > Bússolas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1769
+    },
+    {
+      "name": "Desporto Lazer > Campismo e Montanha > Caixas térmicas portáteis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1770
+    },
+    {
+      "name": "Desporto Lazer > Campismo e Montanha > Garrafas e cantis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1771
+    },
+    {
+      "name": "Desporto Lazer > Campismo e Montanha > Lanternas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1772
+    },
+    {
+      "name": "Desporto Lazer > Campismo e Montanha > Mochilas e sacos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1773
+    },
+    {
+      "name": "Desporto Lazer > Campismo e Montanha > Roupa de montanha",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1774
+    },
+    {
+      "name": "Desporto Lazer > Campismo e Montanha > Sacos-Cama",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1775
+    },
+    {
+      "name": "Desporto Lazer > Campismo e Montanha > Tendas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1776
+    },
+    {
+      "name": "Desporto Lazer > Ciclismo > Acessórios de ciclismo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1777
+    },
+    {
+      "name": "Desporto Lazer > Ciclismo > Agulhas para bombas de ar",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1778
+    },
+    {
+      "name": "Desporto Lazer > Ciclismo > Bombas de ar",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1779
+    },
+    {
+      "name": "Desporto Lazer > Ciclismo > Capacetes de bicicleta",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1780
+    },
+    {
+      "name": "Desporto Lazer > Ciclismo > Faróis e iluminação para ciclismo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1781
+    },
+    {
+      "name": "Desporto Lazer > Ciclismo > Luvas de bicicleta",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1782
+    },
+    {
+      "name": "Desporto Lazer > Fitness > Aparelhos de Musculação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1784
+    },
+    {
+      "name": "Desporto Lazer > Fitness > Bandas elásticas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1785
+    },
+    {
+      "name": "Desporto Lazer > Fitness > Cintos Vibratorios e Electrostimuladores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1786
+    },
+    {
+      "name": "Desporto Lazer > Fitness > Luvas de musculação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1787
+    },
+    {
+      "name": "Desporto Lazer > Fitness > Punhos com pesos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1788
+    },
+    {
+      "name": "Desporto Lazer > Fitness > Steps",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1789
+    },
+    {
+      "name": "Desporto Lazer > Futebol e futebol de salão > Acessórios para futebol",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1790
+    },
+    {
+      "name": "Desporto Lazer > Futebol e futebol de salão > Bolas de futebol",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1791
+    },
+    {
+      "name": "Desporto Lazer > Futebol e futebol de salão > Bolas de futebol de salão",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1792
+    },
+    {
+      "name": "Desporto Lazer > Futebol e futebol de salão > Calças de futebol e futebol de salão",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1793
+    },
+    {
+      "name": "Desporto Lazer > Futebol e futebol de salão > Calças de guarda-redes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1794
+    },
+    {
+      "name": "Desporto Lazer > Futebol e futebol de salão > Caneleiras de futebol",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1795
+    },
+    {
+      "name": "Desporto Lazer > Futebol e futebol de salão > Chuteiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1796
+    },
+    {
+      "name": "Desporto Lazer > Futebol e futebol de salão > Coletes desportivos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1797
+    },
+    {
+      "name": "Desporto Lazer > Futebol e futebol de salão > Equipamento de futebol",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1798
+    },
+    {
+      "name": "Desporto Lazer > Futebol e futebol de salão > Leggings e perneiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1799
+    },
+    {
+      "name": "Desporto Lazer > Futebol e futebol de salão > Luvas de Guarda-Redes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1800
+    },
+    {
+      "name": "Desporto Lazer > Futebol e futebol de salão > Meias de futebol",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1801
+    },
+    {
+      "name": "Desporto Lazer > Futebol e futebol de salão > Sapatilhas de futebol de salão",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1802
+    },
+    {
+      "name": "Desporto Lazer > Futebol e futebol de salão > T-shirts de futebol",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1803
+    },
+    {
+      "name": "Desporto Lazer > Material e equipamento desportivo > Calças para Desporto",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1805
+    },
+    {
+      "name": "Desporto Lazer > Material e equipamento desportivo > Casacos de desporto",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1806
+    },
+    {
+      "name": "Desporto Lazer > Material e equipamento desportivo > Coletes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1807
+    },
+    {
+      "name": "Desporto Lazer > Material e equipamento desportivo > Conjuntos para fazer desporto",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1808
+    },
+    {
+      "name": "Desporto Lazer > Material e equipamento desportivo > Fatos de Treino",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1809
+    },
+    {
+      "name": "Desporto Lazer > Material e equipamento desportivo > Gorros de desporto",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1810
+    },
+    {
+      "name": "Desporto Lazer > Material e equipamento desportivo > Leggings",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1811
+    },
+    {
+      "name": "Desporto Lazer > Material e equipamento desportivo > Meias",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1812
+    },
+    {
+      "name": "Desporto Lazer > Material e equipamento desportivo > Mochilas e sacos de desporto",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1813
+    },
+    {
+      "name": "Desporto Lazer > Material e equipamento desportivo > Pedómetros",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1814
+    },
+    {
+      "name": "Desporto Lazer > Material e equipamento desportivo > Proteções de corpo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1815
+    },
+    {
+      "name": "Desporto Lazer > Material e equipamento desportivo > Pulsómetros",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1816
+    },
+    {
+      "name": "Desporto Lazer > Material e equipamento desportivo > Sutiãs de desporto",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1817
+    },
+    {
+      "name": "Desporto Lazer > Material e equipamento desportivo > Sweatshirts de desporto",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1818
+    },
+    {
+      "name": "Desporto Lazer > Material e equipamento desportivo > T-shirts de desporto",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1819
+    },
+    {
+      "name": "Desporto Lazer > Natação > Acessórios para natação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1820
+    },
+    {
+      "name": "Desporto Lazer > Natação > Chinelos de natação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1821
+    },
+    {
+      "name": "Desporto Lazer > Natação > Fatos de banho desportivos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1822
+    },
+    {
+      "name": "Desporto Lazer > Natação > Meias de natação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1823
+    },
+    {
+      "name": "Desporto Lazer > Natação > Toucas de natação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1824
+    },
+    {
+      "name": "Desporto Lazer > Natação > Óculos de natação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1825
+    },
+    {
+      "name": "Desporto Lazer > Outros Desportos > Andebol",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1827
+    },
+    {
+      "name": "Desporto Lazer > Outros Desportos > Artes marciais",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1828
+    },
+    {
+      "name": "Desporto Lazer > Outros Desportos > Atividades subaquáticas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1829
+    },
+    {
+      "name": "Desporto Lazer > Outros Desportos > Badminton",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1830
+    },
+    {
+      "name": "Desporto Lazer > Outros Desportos > Boxe",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1831
+    },
+    {
+      "name": "Desporto Lazer > Outros Desportos > Caça e tiro",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1832
+    },
+    {
+      "name": "Desporto Lazer > Outros Desportos > Dança e Ginásio",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1833
+    },
+    {
+      "name": "Desporto Lazer > Outros Desportos > Frontenis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1834
+    },
+    {
+      "name": "Desporto Lazer > Outros Desportos > Golf e mini golf",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1835
+    },
+    {
+      "name": "Desporto Lazer > Outros Desportos > Patinagem",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1836
+    },
+    {
+      "name": "Desporto Lazer > Outros Desportos > Pesca",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1837
+    },
+    {
+      "name": "Desporto Lazer > Outros Desportos > Rugby",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1838
+    },
+    {
+      "name": "Desporto Lazer > Outros Desportos > Skateboard",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1839
+    },
+    {
+      "name": "Desporto Lazer > Outros Desportos > Squash",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1840
+    },
+    {
+      "name": "Desporto Lazer > Outros Desportos > Tenis de mesa",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1841
+    },
+    {
+      "name": "Desporto Lazer > Outros Desportos > Voleibol",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1842
+    },
+    {
+      "name": "Desporto Lazer > Para Viajar > Adaptadores para tomadas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1844
+    },
+    {
+      "name": "Desporto Lazer > Para Viajar > Almofadas Cervicais",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1845
+    },
+    {
+      "name": "Desporto Lazer > Para Viajar > Conjuntos de viagem",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1846
+    },
+    {
+      "name": "Desporto Lazer > Para Viajar > Identificadores de bagagem",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1847
+    },
+    {
+      "name": "Desporto Lazer > Para Viajar > Malas de Porão e de Cabine",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1848
+    },
+    {
+      "name": "Desporto Lazer > Para Viajar > Mantas de viagem",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1849
+    },
+    {
+      "name": "Desporto Lazer > Para Viajar > Nécessaires",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1850
+    },
+    {
+      "name": "Desporto Lazer > Para Viajar > Porta-documentos de viagem",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1851
+    },
+    {
+      "name": "Desporto Lazer > Praia e Piscina > Boias insufláveis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1853
+    },
+    {
+      "name": "Desporto Lazer > Praia e Piscina > Bolas de praia",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1854
+    },
+    {
+      "name": "Desporto Lazer > Praia e Piscina > Brinquedos para a praia",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1855
+    },
+    {
+      "name": "Desporto Lazer > Praia e Piscina > Cadeiras de praia e piscina",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1856
+    },
+    {
+      "name": "Desporto Lazer > Praia e Piscina > Caixas térmicas de praia",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1857
+    },
+    {
+      "name": "Desporto Lazer > Praia e Piscina > Camas de rede",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1858
+    },
+    {
+      "name": "Desporto Lazer > Praia e Piscina > Chinelos e meias de natação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1859
+    },
+    {
+      "name": "Desporto Lazer > Praia e Piscina > Fatos de banho",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1860
+    },
+    {
+      "name": "Desporto Lazer > Praia e Piscina > Guarda-sóis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1861
+    },
+    {
+      "name": "Desporto Lazer > Praia e Piscina > Insufláveis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1862
+    },
+    {
+      "name": "Desporto Lazer > Praia e Piscina > Piscinas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1863
+    },
+    {
+      "name": "Desporto Lazer > Praia e Piscina > Poltronas insufláveis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1864
+    },
+    {
+      "name": "Desporto Lazer > Praia e Piscina > Pés de pato",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1865
+    },
+    {
+      "name": "Desporto Lazer > Praia e Piscina > Sacos de praia",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1866
+    },
+    {
+      "name": "Desporto Lazer > Praia e Piscina > Tapetes Insufláveis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1867
+    },
+    {
+      "name": "Desporto Lazer > Praia e Piscina > Toalhas de praia e piscina",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1868
+    },
+    {
+      "name": "Desporto Lazer > Praia e Piscina > Óculos de mergulho e snorkeling",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1869
+    },
+    {
+      "name": "Desporto Lazer > Running e Atletismo > Acessórios de running e atletismo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1870
+    },
+    {
+      "name": "Desporto Lazer > Running e Atletismo > Calças de running e atletismo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1871
+    },
+    {
+      "name": "Desporto Lazer > Running e Atletismo > Cronómetros",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1872
+    },
+    {
+      "name": "Desporto Lazer > Running e Atletismo > Lanternas de running",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1873
+    },
+    {
+      "name": "Desporto Lazer > Running e Atletismo > Leggings de running e atletismo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1874
+    },
+    {
+      "name": "Desporto Lazer > Running e Atletismo > Porta-Dorsais",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1875
+    },
+    {
+      "name": "Desporto Lazer > Running e Atletismo > Sapatilhas de running",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1876
+    },
+    {
+      "name": "Desporto Lazer > Running e Atletismo > Sweatshirts de running e atletismo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1877
+    },
+    {
+      "name": "Desporto Lazer > Running e Atletismo > T-shirts de running e atletismo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1878
+    },
+    {
+      "name": "Desporto Lazer > Ténis e Padel > Acessórios para ténis e padel",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1879
+    },
+    {
+      "name": "Desporto Lazer > Ténis e Padel > Bolas de ténis e padel",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1880
+    },
+    {
+      "name": "Desporto Lazer > Ténis e Padel > Raquetes de padel",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1881
+    },
+    {
+      "name": "Desporto Lazer > Ténis e Padel > Raquetes de ténis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1882
+    },
+    {
+      "name": "Desporto Lazer > Ténis e Padel > Sapatilhas de ténis e padel",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1883
+    },
+    {
+      "name": "Desporto Lazer > Ténis e Padel > T-shirts de ténis e padel",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1884
+    },
+    {
+      "name": "Informática Eletrónica > Acessórios de Eletrónica",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1885
+    },
+    {
+      "name": "Informática Eletrónica > Audio e Hi-Fi > Componentes e acessórios",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1886
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Fotografia e Vídeo > Acessórios para Máquinas Fotográficas e Câmaras de Vídeo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1887
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Fotografia e Vídeo > Câmaras de Vídeo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1888
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Fotografia e Vídeo > Máquinas Fotográficas Compactas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1889
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Fotografia e Vídeo > Máquinas Fotográficas Reflex",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1890
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Fotografia e Vídeo > Máquinas fotográficas desportivas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1891
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica GPS e Automóvel > Altifalantes do Carro",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1892
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica GPS e Automóvel > Carregadores USB para o Carro",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1893
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica GPS e Automóvel > Mãos livres Bluetooth para o carro",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1894
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica GPS e Automóvel > Navegadores de GPS",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1895
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica GPS e Automóvel > Suporte para telemóveis e tablets",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1896
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Jogos > Acessórios para Consolas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1898
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Jogos > Consolas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1899
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Jogos > Drones e robôs",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1900
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Jogos > Trotinetas elétricas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1901
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Jogos > Videojogos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1902
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Jogos > Óculos de realidade virtual",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1903
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Pilhas e Baterias > Carregadores de Pilhas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1905
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Pilhas e Baterias > Pilhas Recarregáveis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1906
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Pilhas e Baterias > Pilhas alcalinas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1907
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Pilhas e Baterias > Pilhas de Botão",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1908
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Robótica Educativa > Brinquedos interativos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1909
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Robótica Educativa > Componentes e acessórios de robótica",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1910
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Robótica Educativa > Kits de eletrónica",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1911
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Robótica Educativa > Kits de robótica",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1912
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > Auriculares Bluetooth",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1913
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > Auriculares Sem Fios",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1914
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > Auriculares de Diadema",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1915
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > Auriculares para Desporto",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1916
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > Auscultadores Intra-auriculares",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1917
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > Barras de Som",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1918
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > CD e DVD",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1919
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > Caixas de som",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1920
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > Colunas Bluetooth",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1921
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > Equipamento de Música",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1922
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > Gira-discos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1923
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > Gravadores de áudio",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1924
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > MP3, Mp4 e MP5",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1925
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > Rádio CD",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1926
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > Rádio-Despertador",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1927
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > Torres de Som",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1928
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > Transistores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1929
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Som > Vídeo e Home Cinema",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1930
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Acessórios para telemóveis e tablets",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1931
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Auriculares Bluetooth com Microfone",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1932
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Auriculares com Microfone",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1933
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Bastões de selfie",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1934
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Capas para Tablets",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1935
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Capas para telemóveis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1936
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Carregadores e cabos USB",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1937
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Livros Eletrónicos e Capas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1938
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Mãos livres Bluetooth",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1939
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Power Bank",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1940
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Protetores de Ecrã",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1941
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Pulseiras de Atividade",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1942
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Smartwatches",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1943
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Tablets",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1944
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Telefones fixos e IP",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1945
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Telemóveis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1946
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Telefones e Tablets > Walkie Talkies",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1947
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Televisão > Cabos de áudio e vídeo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1948
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Televisão > Cinema em Casa",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1949
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Televisão > DVD",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1950
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Televisão > Reprodutores e gravadores de DVD e Blu-Ray",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1951
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Televisão > Sintonizadores TDT e satélites",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1952
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Televisão > Streaming TV",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1953
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Televisão > Suporte para Televisão",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1954
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Televisão > Telecomandos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1955
+    },
+    {
+      "name": "Informática Eletrónica > Eletrónica Televisão > Televisões e Smart TV",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1956
+    },
+    {
+      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Adaptadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1958
+    },
+    {
+      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Cabos ATA",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1959
+    },
+    {
+      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Cabos DisplayPort",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1960
+    },
+    {
+      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Cabos USB",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1961
+    },
+    {
+      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Cabos de alimentação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1962
+    },
+    {
+      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Cabos de rede",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1963
+    },
+    {
+      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Cabos de segurança",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1964
+    },
+    {
+      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Cabos para impressoras e scanners",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1965
+    },
+    {
+      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Cabos série/paralelo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1966
+    },
+    {
+      "name": "Informática Eletrónica > Informática Cabos e Adaptadores > Switch KVM",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1967
+    },
+    {
+      "name": "Informática Eletrónica > Informática Computadores > Acessórios",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1968
+    },
+    {
+      "name": "Informática Eletrónica > Informática Computadores > Carregadores para PC",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1969
+    },
+    {
+      "name": "Informática Eletrónica > Informática Computadores > Malas e bolsas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1970
+    },
+    {
+      "name": "Informática Eletrónica > Informática Computadores > Mini PC",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1971
+    },
+    {
+      "name": "Informática Eletrónica > Informática Computadores > Notebooks",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1972
+    },
+    {
+      "name": "Informática Eletrónica > Informática Computadores > PC de mesa",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1973
+    },
+    {
+      "name": "Informática Eletrónica > Informática Computadores > Refrigeradores portáteis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1974
+    },
+    {
+      "name": "Informática Eletrónica > Informática Computadores > Servidores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1975
+    },
+    {
+      "name": "Informática Eletrónica > Informática Computadores > Software",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1976
+    },
+    {
+      "name": "Informática Eletrónica > Informática Computadores > TPV e acessórios",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1977
+    },
+    {
+      "name": "Informática Eletrónica > Informática Gaming > Acessórios Gaming",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1978
+    },
+    {
+      "name": "Informática Eletrónica > Informática Gaming > Auriculares Gaming",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1979
+    },
+    {
+      "name": "Informática Eletrónica > Informática Gaming > Carregadores Gaming",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1980
+    },
+    {
+      "name": "Informática Eletrónica > Informática Gaming > Fontes de alimentação Gaming",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1981
+    },
+    {
+      "name": "Informática Eletrónica > Informática Gaming > Gamepad",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1982
+    },
+    {
+      "name": "Informática Eletrónica > Informática Gaming > Gaming Placas Gráficas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1983
+    },
+    {
+      "name": "Informática Eletrónica > Informática Gaming > Placas de som Gaming",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1984
+    },
+    {
+      "name": "Informática Eletrónica > Informática Gaming > Placas mãe Gaming",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1985
+    },
+    {
+      "name": "Informática Eletrónica > Informática Gaming > Ratos e tapetes Gaming",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1986
+    },
+    {
+      "name": "Informática Eletrónica > Informática Gaming > Teclados de Jogo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1987
+    },
+    {
+      "name": "Informática Eletrónica > Informática Gaming > Torres e caixas Gaming",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1988
+    },
+    {
+      "name": "Informática Eletrónica > Informática Gaming > Ventilação Gaming",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1989
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Acessórios de Informática",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1991
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Acessórios para impressoras 3D",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1992
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Altifalantes para PC",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1993
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Cartuchos de tinta original",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1994
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Cartuchos de tinta reciclada",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1995
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Ecrãs para projetores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1996
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Extensões",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1997
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Impressoras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1998
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Impressoras 3D",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 1999
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Microfones e auriculares",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2000
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Monitores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2001
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Os ratos e Mouse",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2002
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Papel para impressoras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2003
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Projetores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2004
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Quadros interativos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2005
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > SAI",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2006
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Scanners",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2007
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Suporte para ecrãs",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2008
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Tambores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2009
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Teclados",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2010
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Tinta de alimentação contínua",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2011
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Trituradoras de papel",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2012
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Tóners originais",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2013
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Tóners reciclados",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2014
+    },
+    {
+      "name": "Informática Eletrónica > Informática Periféricos e consumíveis > Webcam",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2015
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Armários Rack",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2016
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Baterias para portáteis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2017
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Cartões de memória",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2018
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Discos rígidos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2019
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Fontes de alimentação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2020
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > HUB USB",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2021
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Memórias RAM",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2022
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Multi-leitores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2023
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > NAS",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2024
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Pen drives e memórias USB",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2025
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Placas PCI",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2026
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Placas de som",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2027
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Placas gráficas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2028
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Placas mãe",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2029
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Pontos de acesso",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2030
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Processadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2031
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Redes Home Plug",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2032
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Redes WIFI",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2033
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Redes com fios",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2034
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Redes sem fios",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2035
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Routers e modems",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2036
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Switches",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2037
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Torres e caixas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2038
+    },
+    {
+      "name": "Informática Eletrónica > Informática Redes e Componentes > Ventilação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2039
+    },
+    {
+      "name": "Jogos Disfarces > Bebés e Crianças > Amamentação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2040
+    },
+    {
+      "name": "Jogos Disfarces > Bebés e Crianças > Decoração",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2041
+    },
+    {
+      "name": "Jogos Disfarces > Bebés e Crianças > Guarda-chuvas e gorros infantis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2042
+    },
+    {
+      "name": "Jogos Disfarces > Bebés e Crianças > Hora de dormir",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2043
+    },
+    {
+      "name": "Jogos Disfarces > Bebés e Crianças > Hora do banho",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2044
+    },
+    {
+      "name": "Jogos Disfarces > Bebés e Crianças > Passeios e viagens",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2045
+    },
+    {
+      "name": "Jogos Disfarces > Bebés e Crianças > Relaxamento e diversão",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2046
+    },
+    {
+      "name": "Jogos Disfarces > Bebés e Crianças > Roupa e calçado para crianças",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2047
+    },
+    {
+      "name": "Jogos Disfarces > Bebés e Crianças > Segurança infantil em casa",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2048
+    },
+    {
+      "name": "Jogos Disfarces > Bebés e Crianças > Utensílios infantis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2049
+    },
+    {
+      "name": "Jogos Disfarces > Brinquedos e Jogos > Animais de brincar",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2051
+    },
+    {
+      "name": "Jogos Disfarces > Brinquedos e Jogos > Bicicletas infantis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2052
+    },
+    {
+      "name": "Jogos Disfarces > Brinquedos e Jogos > Bonecas e peluches",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2053
+    },
+    {
+      "name": "Jogos Disfarces > Brinquedos e Jogos > Brinquedos para bebés",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2054
+    },
+    {
+      "name": "Jogos Disfarces > Brinquedos e Jogos > Disfarces",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2055
+    },
+    {
+      "name": "Jogos Disfarces > Brinquedos e Jogos > Figuras de ação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2056
+    },
+    {
+      "name": "Jogos Disfarces > Brinquedos e Jogos > Jogos de exterior",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2057
+    },
+    {
+      "name": "Jogos Disfarces > Brinquedos e Jogos > Jogos de mesa para crianças",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2058
+    },
+    {
+      "name": "Jogos Disfarces > Brinquedos e Jogos > Jogos educativos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2059
+    },
+    {
+      "name": "Jogos Disfarces > Brinquedos e Jogos > Outros brinquedos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2060
+    },
+    {
+      "name": "Jogos Disfarces > Brinquedos e Jogos > Puzzles e construções",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2061
+    },
+    {
+      "name": "Jogos Disfarces > Brinquedos e Jogos > Trotinetes e triciclos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2062
+    },
+    {
+      "name": "Jogos Disfarces > Brinquedos e Jogos > Veículos, circuitos e brinquedos telecomandados",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2063
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Acessórios para festas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2065
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Animais",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2066
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Cantores e música",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2067
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Cavernícolas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2068
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Comidas e bebidas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2069
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Complementos para fantasias",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2070
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Culturas e tradições",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2071
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Desenhos animados",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2072
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Disney",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2073
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Décadas de 50, 60, 70, 80",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2074
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Fantasia",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2075
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Fantasias infantis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2076
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Filmes e séries",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2077
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Halloween",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2078
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Maquilhagem",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2079
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Medieval",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2080
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Máscaras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2081
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Natal",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2082
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Originais e divertidos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2083
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Palhaços",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2084
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Perucas e chapéus",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2085
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Piratas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2086
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Princesas e reis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2087
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Profissões",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2088
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Religião",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2089
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Sexy",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2090
+    },
+    {
+      "name": "Jogos Disfarces > Disfarces e artigos para festas > Super-heróis e videojogos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2091
+    },
+    {
+      "name": "Jogos Disfarces > Festas e Celebrações > Artigos de festa",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2092
+    },
+    {
+      "name": "Jogos Disfarces > Festas e Celebrações > Artigos eróticos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2093
+    },
+    {
+      "name": "Jogos Disfarces > Festas e Celebrações > Artigos românticos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2094
+    },
+    {
+      "name": "Jogos Disfarces > Festas e Celebrações > Jogos de mesa",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2095
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Adesivos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2096
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Afia-lápis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2097
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Agendas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2098
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Blocos de notas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2099
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Borrachas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2100
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Cadernetas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2101
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Calculadoras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2102
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Canetas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2103
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Canetas de feltro",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2104
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Clipes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2105
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Conjuntos de papelaria",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2106
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Estojos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2107
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Etiquetas adesivas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2108
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Lápis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2109
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Lápis de cera coloridos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2110
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Lápis de cor",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2111
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Marcadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2112
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Mochilas escolares",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2113
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Outro material escolar",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2114
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Pastas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2115
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Pastas para documentos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2116
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Quadro de notas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2117
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Quadros",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2118
+    },
+    {
+      "name": "Jogos Disfarces > Material Escolar > Réguas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2119
+    },
+    {
+      "name": "Moda Acessórios > Acessórios de Moda > Bolsas e carteiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2120
+    },
+    {
+      "name": "Moda Acessórios > Acessórios de Moda > Bonés",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2121
+    },
+    {
+      "name": "Moda Acessórios > Acessórios de Moda > Chaveiros",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2122
+    },
+    {
+      "name": "Moda Acessórios > Acessórios de Moda > Cintos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2123
+    },
+    {
+      "name": "Moda Acessórios > Acessórios de Moda > Gorros e cachecóis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2124
+    },
+    {
+      "name": "Moda Acessórios > Acessórios de Moda > Guarda-Chuvas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2125
+    },
+    {
+      "name": "Moda Acessórios > Bijuteria > Anéis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2127
+    },
+    {
+      "name": "Moda Acessórios > Bijuteria > Brincos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2128
+    },
+    {
+      "name": "Moda Acessórios > Bijuteria > Broches e botões de punho",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2129
+    },
+    {
+      "name": "Moda Acessórios > Bijuteria > Colares",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2130
+    },
+    {
+      "name": "Moda Acessórios > Bijuteria > Missangas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2131
+    },
+    {
+      "name": "Moda Acessórios > Bijuteria > Outros acessórios",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2132
+    },
+    {
+      "name": "Moda Acessórios > Bijuteria > Pulseiras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2133
+    },
+    {
+      "name": "Moda Acessórios > Relógios de pulso > Relógios de homem",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2135
+    },
+    {
+      "name": "Moda Acessórios > Relógios de pulso > Relógios de mulher",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2136
+    },
+    {
+      "name": "Moda Acessórios > Relógios de pulso > Relógios infantis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2137
+    },
+    {
+      "name": "Moda Acessórios > Relógios de pulso > Relógios unissexo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2138
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Biquínis e fatos de banho",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2139
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Blusões",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2140
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Botas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2141
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Calçado desportivo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2142
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Calças",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2143
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Calções e bermudas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2144
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Camisas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2145
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Camisolas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2146
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Casacos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2147
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Chinelas e tamancos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2148
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Chinelos de casa",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2149
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Galochas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2150
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Leggings",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2151
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Outros acessórios para o calçado",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2152
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Outros presentes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2153
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Palmilhas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2154
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Pijamas e mantas com mangas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2155
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Pólos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2156
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Roupa interior",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2157
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Saias",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2158
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Sandálias",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2159
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Sapatos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2160
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Sweatshirts",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2161
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > T-shirts",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2162
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Ténis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2163
+    },
+    {
+      "name": "Moda Acessórios > Roupa e Calçado > Vestidos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2164
+    },
+    {
+      "name": "Moda Acessórios > Óculos de sol > Óculos de sol homem",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2165
+    },
+    {
+      "name": "Moda Acessórios > Óculos de sol > Óculos de sol infantis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2166
+    },
+    {
+      "name": "Moda Acessórios > Óculos de sol > Óculos de sol mulher",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2167
+    },
+    {
+      "name": "Moda Acessórios > Óculos de sol > Óculos de sol unissexo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2168
+    },
+    {
+      "name": "Perfumaria Cosmética > Cosmética > Acessórios e organizadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2169
+    },
+    {
+      "name": "Perfumaria Cosmética > Cosmética > Batons e gloss",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2170
+    },
+    {
+      "name": "Perfumaria Cosmética > Cosmética > Blushers",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2171
+    },
+    {
+      "name": "Perfumaria Cosmética > Cosmética > Eyeliners e lápis de olhos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2172
+    },
+    {
+      "name": "Perfumaria Cosmética > Cosmética > Maquilhagem e bases",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2173
+    },
+    {
+      "name": "Perfumaria Cosmética > Cosmética > Pós compactos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2174
+    },
+    {
+      "name": "Perfumaria Cosmética > Cosmética > Rímel",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2175
+    },
+    {
+      "name": "Perfumaria Cosmética > Cosmética > Sombras de olhos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2176
+    },
+    {
+      "name": "Perfumaria Cosmética > Cosméticos Naturais",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2177
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Corporal > Creme anti-celulite e reafirmantes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2179
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Corporal > Cremes e body milk",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2180
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Corporal > Desodorizantes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2181
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Corporal > Desodorizantes Roll-On",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2182
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Corporal > Desodorizantes em Spray",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2183
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Corporal > Desodorizantes em Stick",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2184
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Corporal > Desodorizantes para pés",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2185
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Corporal > Higiene oral",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2186
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Corporal > Higiene íntima",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2187
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Corporal > Sabonetes e Géis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2188
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Facial > After shave e loções",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2190
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Facial > Contorno de olhos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2191
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Facial > Cremes anti-rugas e hidratantes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2192
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Facial > Cremes de Barbear",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2193
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Facial > Desmaquilhantes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2194
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Facial > Espumas de barbear",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2195
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Facial > Géis de barbear",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2196
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Facial > Limpeza da pele e exfoliantes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2197
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Facial > Máscaras faciais",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2198
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Facial > Sérum",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2199
+    },
+    {
+      "name": "Perfumaria Cosmética > Cuidado Facial > Tônicos e leites de limpeza",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2200
+    },
+    {
+      "name": "Perfumaria Cosmética > Lotes de Fragrâncias e Cosméticos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2201
+    },
+    {
+      "name": "Perfumaria Cosmética > Perfumes > Perfumes eróticos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2202
+    },
+    {
+      "name": "Perfumaria Cosmética > Perfumes > Perfumes infantis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2203
+    },
+    {
+      "name": "Perfumaria Cosmética > Perfumes > Perfumes para animais de estimação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2204
+    },
+    {
+      "name": "Perfumaria Cosmética > Perfumes > Perfumes para homem",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2205
+    },
+    {
+      "name": "Perfumaria Cosmética > Perfumes > Perfumes para mulher",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2206
+    },
+    {
+      "name": "Perfumaria Cosmética > Perfumes > Perfumes unisexo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2207
+    },
+    {
+      "name": "Saúde Beleza > Cabelo > Alisadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2209
+    },
+    {
+      "name": "Saúde Beleza > Cabelo > Ceras para o cabelo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2210
+    },
+    {
+      "name": "Saúde Beleza > Cabelo > Champôs",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2211
+    },
+    {
+      "name": "Saúde Beleza > Cabelo > Champôs a seco",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2212
+    },
+    {
+      "name": "Saúde Beleza > Cabelo > Condicionadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2213
+    },
+    {
+      "name": "Saúde Beleza > Cabelo > Escovas e pentes",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2214
+    },
+    {
+      "name": "Saúde Beleza > Cabelo > Espumas e lacas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2215
+    },
+    {
+      "name": "Saúde Beleza > Cabelo > Espumas para o cabelo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2216
+    },
+    {
+      "name": "Saúde Beleza > Cabelo > Géis de fixação",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2217
+    },
+    {
+      "name": "Saúde Beleza > Cabelo > Lacas para o cabelo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2218
+    },
+    {
+      "name": "Saúde Beleza > Cabelo > Máquina de cortar cabelo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2219
+    },
+    {
+      "name": "Saúde Beleza > Cabelo > Máscaras",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2220
+    },
+    {
+      "name": "Saúde Beleza > Cabelo > Secadores de cabelo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2221
+    },
+    {
+      "name": "Saúde Beleza > Cabelo > Tintas de cabelo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2222
+    },
+    {
+      "name": "Saúde Beleza > Estética e Tratamentos Corporais > Anticelulíticos",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2224
+    },
+    {
+      "name": "Saúde Beleza > Estética e Tratamentos Corporais > Depilação e acessórios para barbear",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2225
+    },
+    {
+      "name": "Saúde Beleza > Estética e Tratamentos Corporais > Manicure e pedicure",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2226
+    },
+    {
+      "name": "Saúde Beleza > Proteção Solar > After sun",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2227
+    },
+    {
+      "name": "Saúde Beleza > Proteção Solar > After sun em spray",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2228
+    },
+    {
+      "name": "Saúde Beleza > Proteção Solar > Ativadores de bronzeamento",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2229
+    },
+    {
+      "name": "Saúde Beleza > Proteção Solar > Autobronzeadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2230
+    },
+    {
+      "name": "Saúde Beleza > Proteção Solar > Autobronzeadores em spray",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2231
+    },
+    {
+      "name": "Saúde Beleza > Proteção Solar > Bronzeadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2232
+    },
+    {
+      "name": "Saúde Beleza > Proteção Solar > Bronzeadores em spray",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2233
+    },
+    {
+      "name": "Saúde Beleza > Proteção Solar > Cremes corporais protetores em spray",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2234
+    },
+    {
+      "name": "Saúde Beleza > Proteção Solar > Protetores solares capilares em spray",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2235
+    },
+    {
+      "name": "Saúde Beleza > Proteção Solar > Protetores solares faciais",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2236
+    },
+    {
+      "name": "Saúde Beleza > Proteção Solar > Protetores solares infantis",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2237
+    },
+    {
+      "name": "Saúde Beleza > Proteção Solar > Protetores solares infantis em spray",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2238
+    },
+    {
+      "name": "Saúde Beleza > Proteção Solar > Protetores solares para o corpo",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2239
+    },
+    {
+      "name": "Saúde Beleza > Proteção Solar > Óleos solares",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2240
+    },
+    {
+      "name": "Saúde Beleza > Relaxamento e Bem-Estar > Aquecedores de mão",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2242
+    },
+    {
+      "name": "Saúde Beleza > Relaxamento e Bem-Estar > Conjunto de primeiros-socorros",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2243
+    },
+    {
+      "name": "Saúde Beleza > Relaxamento e Bem-Estar > Massajadores",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2244
+    },
+    {
+      "name": "Saúde Beleza > Relaxamento e Bem-Estar > Produtos de relaxamento",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2245
+    },
+    {
+      "name": "Saúde Beleza > Relaxamento e Bem-Estar > Sapatos, meias e palmilhas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2246
+    },
+    {
+      "name": "Saúde Beleza > Relaxamento e Bem-Estar > Tensiómetros e termómetros",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2247
+    },
+    {
+      "name": "Saúde Beleza > Relaxamento e Bem-Estar > Travesseiros e almofadas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2248
+    },
+    {
+      "name": "Saúde Beleza > Relaxamento e Bem-Estar > Óculos de leitura e lupas",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2249
+    },
+    {
+      "name": "Saúde Beleza > Suplementos Alimentares",
+      "riva_name": "",
+      "riva_id": null,
+      "has_name_assigned": false,
+      "platform": "bigBuy",
+      "id": 2250
     }
   ]
 }
